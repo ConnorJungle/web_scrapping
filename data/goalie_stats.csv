@@ -1,0 +1,666 @@
+season_stage,player,gp,gaa,svp,team,teamid,playerid,year,url,shortname,league
+EOJBHL,Evan Morris,22,7.76,0.0,AKW,5684,457505,2005-2006,https://www.eliteprospects.com/player/457505/evan-morris,evan-morris,CCHL2
+EOJBHL,Will McIntyre,5,8.6,0.0,ATH,3518,171493,2005-2006,https://www.eliteprospects.com/player/171493/will-mcintyre,will-mcintyre,CCHL2
+EOJBHL,Johnathan Sourwine,19,0.0,0.0,GAN,6240,60142,2005-2006,https://www.eliteprospects.com/player/60142/johnathan-sourwine,johnathan-sourwine,CCHL2
+EOJBHL,J.J. Gargour,27,4.44,0.0,MOR,9176,573244,2005-2006,https://www.eliteprospects.com/player/573244/j.j.-gargour,j.j.-gargour,CCHL2
+EOJBHL,Josselin St. Pierre,24.0,3.68,0.0,ALE,6623,89721,2006-2007,https://www.eliteprospects.com/player/89721/josselin-st.-pierre,josselin-st.-pierre,CCHL2
+EOJBHL,Simon Labelle,8.0,3.5,0.0,CAR,8670,653357,2006-2007,https://www.eliteprospects.com/player/653357/simon-labelle,simon-labelle,CCHL2
+EOJBHL,Simon Labelle,3.0,2.48,0.0,CLA,24541,653357,2006-2007,https://www.eliteprospects.com/player/653357/simon-labelle,simon-labelle,CCHL2
+EOJBHL,David Goulet,20.0,4.69,0.0,GAT,10381,283498,2006-2007,https://www.eliteprospects.com/player/283498/david-goulet,david-goulet,CCHL2
+EOJBHL,Simon Labelle,2.0,4.94,0.0,GAT,10381,653357,2006-2007,https://www.eliteprospects.com/player/653357/simon-labelle,simon-labelle,CCHL2
+EOJBHL,Francis Bourgeois,2.0,0.0,0.0,MET,6310,317213,2006-2007,https://www.eliteprospects.com/player/317213/francis-bourgeois,francis-bourgeois,CCHL2
+EOJBHL,Dave Labaff,0.0,0.0,0.0,SOU,24543,55121,2006-2007,https://www.eliteprospects.com/player/55121/dave-labaff,dave-labaff,CCHL2
+EOJBHL,Max Desjardins,34.0,3.61,0.0,SOU,7155,443430,2006-2007,https://www.eliteprospects.com/player/443430/max-desjardins,max-desjardins,CCHL2
+EOJBHL,Josselin St. Pierre,30,3.6,0.0,ALE,6623,89721,2007-2008,https://www.eliteprospects.com/player/89721/josselin-st.-pierre,josselin-st.-pierre,CCHL2
+EOJBHL,John-Joseph Patafie,13,3.47,0.89,CAR,8670,639165,2007-2008,https://www.eliteprospects.com/player/639165/john-joseph-patafie,john-joseph-patafie,CCHL2
+EOJBHL,Morgan Barr,8,2.25,0.9209999999999999,CLA,24541,77915,2007-2008,https://www.eliteprospects.com/player/77915/morgan-barr,morgan-barr,CCHL2
+EOJBHL,Israel Bernier-Dion,27,2.77,0.902,GAT,10381,162850,2007-2008,https://www.eliteprospects.com/player/162850/israel-bernier-dion,israel-bernier-dion,CCHL2
+EOJBHL,Francis Bourgeois,14,5.52,0.0,MET,6310,317213,2007-2008,https://www.eliteprospects.com/player/317213/francis-bourgeois,francis-bourgeois,CCHL2
+EOJBHL,Rob Dier,22,3.38,0.8959999999999999,PER,6846,758495,2007-2008,https://www.eliteprospects.com/player/758495/rob-dier,rob-dier,CCHL2
+EOJBHL,Joel Grills,35.0,5.0,0.847,ARN,6848,78206,2008-2009,https://www.eliteprospects.com/player/78206/joel-grills,joel-grills,CCHL2
+EOJBHL,Eric Lepage,0.0,0.0,0.0,ATH,3518,641797,2008-2009,https://www.eliteprospects.com/player/641797/eric-lepage,eric-lepage,CCHL2
+EOJBHL,Morgan Barr,31.0,2.65,0.903,CAR,8670,77915,2008-2009,https://www.eliteprospects.com/player/77915/morgan-barr,morgan-barr,CCHL2
+EOJBHL,Kyle Lamothe,5.0,4.57,0.883,CAS,6354,78172,2008-2009,https://www.eliteprospects.com/player/78172/kyle-lamothe,kyle-lamothe,CCHL2
+EOJBHL,Sebastien Parker,23.0,3.14,0.0,CHA,6851,64884,2008-2009,https://www.eliteprospects.com/player/64884/sebastien-parker,sebastien-parker,CCHL2
+EOJBHL,Yannick Guilbeault,23.0,3.72,0.88,CLA,24541,78225,2008-2009,https://www.eliteprospects.com/player/78225/yannick-guilbeault,yannick-guilbeault,CCHL2
+EOJBHL,Israel Bernier-Dion,23.0,4.38,0.871,GAT,10381,162850,2008-2009,https://www.eliteprospects.com/player/162850/israel-bernier-dion,israel-bernier-dion,CCHL2
+EOJBHL,Francis Bourgeois,8.0,4.63,0.0,MET,6310,317213,2008-2009,https://www.eliteprospects.com/player/317213/francis-bourgeois,francis-bourgeois,CCHL2
+EOJBHL,Scott Shackell,26.0,2.53,0.895,OTT,6850,77922,2008-2009,https://www.eliteprospects.com/player/77922/scott-shackell,scott-shackell,CCHL2
+EOJBHL,Rob Dier,27.0,3.6,0.88,PER,6846,758495,2008-2009,https://www.eliteprospects.com/player/758495/rob-dier,rob-dier,CCHL2
+EOJBHL,Robin Billingham,14.0,6.99,0.836,REN,6434,63598,2008-2009,https://www.eliteprospects.com/player/63598/robin-billingham,robin-billingham,CCHL2
+EOJBHL,Morgan Hudson,6.0,3.31,0.912,STI,6849,78053,2008-2009,https://www.eliteprospects.com/player/78053/morgan-hudson,morgan-hudson,CCHL2
+EOJHL,Morgan Barr,4.0,8.79,0.0,ALM,6289,77915,2009-2010,https://www.eliteprospects.com/player/77915/morgan-barr,morgan-barr,CCHL2
+EOJHL,Alex Chretien,24.0,3.69,0.879,CHA,6851,96213,2009-2010,https://www.eliteprospects.com/player/96213/alex-chretien,alex-chretien,CCHL2
+EOJHL,Patrick Martin,32.0,3.96,0.879,CLA,24541,150070,2009-2010,https://www.eliteprospects.com/player/150070/patrick-martin,patrick-martin,CCHL2
+EOJHL,Yannick Guilbeault,14.0,4.2,0.868,CLA,24541,78225,2009-2010,https://www.eliteprospects.com/player/78225/yannick-guilbeault,yannick-guilbeault,CCHL2
+EOJHL,Israel Bernier-Dion,34.0,3.68,0.899,GAT,10381,162850,2009-2010,https://www.eliteprospects.com/player/162850/israel-bernier-dion,israel-bernier-dion,CCHL2
+EOJHL,Mike McLeod,1.0,9.0,0.775,MET,6310,78051,2009-2010,https://www.eliteprospects.com/player/78051/mike-mcleod,mike-mcleod,CCHL2
+EOJHL,Erik Plumadore,0.0,0.0,0.0,MOR,9176,150122,2009-2010,https://www.eliteprospects.com/player/150122/erik-plumadore,erik-plumadore,CCHL2
+EOJHL,German Tsatsura,18.0,3.77,0.887,OTT,7155,78124,2009-2010,https://www.eliteprospects.com/player/78124/german-tsatsura,german-tsatsura,CCHL2
+EOJHL,Steve Carrey,21.0,2.71,0.909,OTT,6850,137501,2009-2010,https://www.eliteprospects.com/player/137501/steve-carrey,steve-carrey,CCHL2
+EOJHL,Troy Anderson,21.0,3.35,0.884,PER,6846,117898,2009-2010,https://www.eliteprospects.com/player/117898/troy-anderson,troy-anderson,CCHL2
+EOJHL,Robin Billingham,0.0,0.0,0.0,REN,6434,63598,2009-2010,https://www.eliteprospects.com/player/63598/robin-billingham,robin-billingham,CCHL2
+EOJHL,Billy Stone,10.0,4.07,0.888,SHA,6344,40171,2009-2010,https://www.eliteprospects.com/player/40171/billy-stone,billy-stone,CCHL2
+EOJHL,Scott Cannon,4.0,5.54,0.868,SOU,24543,103092,2009-2010,https://www.eliteprospects.com/player/103092/scott-cannon,scott-cannon,CCHL2
+EOJHL,Robin Billingham,2.0,12.24,0.762,SOU,24543,63598,2009-2010,https://www.eliteprospects.com/player/63598/robin-billingham,robin-billingham,CCHL2
+EOJHL,Matt McCaughan,36.0,3.94,0.89,STI,6849,78212,2009-2010,https://www.eliteprospects.com/player/78212/matt-mccaughan,matt-mccaughan,CCHL2
+EOJHL,Andrew Rodier,1.0,3.65,0.875,STI,6849,97890,2009-2010,https://www.eliteprospects.com/player/97890/andrew-rodier,andrew-rodier,CCHL2
+EOJHL,Morgan Barr,31.0,3.83,0.912,ALM,6289,77915,2010-2011,https://www.eliteprospects.com/player/77915/morgan-barr,morgan-barr,CCHL2
+EOJHL,German Tsatsura,20.0,3.54,0.892,ARN,6848,78124,2010-2011,https://www.eliteprospects.com/player/78124/german-tsatsura,german-tsatsura,CCHL2
+EOJHL,Matt Gagne,21.0,3.76,0.875,ARN,6848,150129,2010-2011,https://www.eliteprospects.com/player/150129/matt-gagne,matt-gagne,CCHL2
+EOJHL,Brock Crossthwaite,10.0,2.45,0.915,ATH,3518,150097,2010-2011,https://www.eliteprospects.com/player/150097/brock-crossthwaite,brock-crossthwaite,CCHL2
+EOJHL,Brad Fraser,28.0,5.47,0.847,BRO,5683,117949,2010-2011,https://www.eliteprospects.com/player/117949/brad-fraser,brad-fraser,CCHL2
+EOJHL,Cam Turcotte,6.0,6.29,0.8390000000000001,CHA,6851,231176,2010-2011,https://www.eliteprospects.com/player/231176/cam-turcotte,cam-turcotte,CCHL2
+EOJHL,Patrick Martin,30.0,2.75,0.9209999999999999,CLA,24541,150070,2010-2011,https://www.eliteprospects.com/player/150070/patrick-martin,patrick-martin,CCHL2
+EOJHL,Gianmarco De Meis,10.0,3.07,0.9009999999999999,CLA,24541,78271,2010-2011,https://www.eliteprospects.com/player/78271/gianmarco-de-meis,gianmarco-de-meis,CCHL2
+EOJHL,Ryan Mulder,32.0,4.23,0.878,MET,6310,97905,2010-2011,https://www.eliteprospects.com/player/97905/ryan-mulder,ryan-mulder,CCHL2
+EOJHL,Erik Plumadore,0.0,0.0,0.0,MOR,9176,150122,2010-2011,https://www.eliteprospects.com/player/150122/erik-plumadore,erik-plumadore,CCHL2
+EOJHL,Morgan Hudson,8.0,4.52,0.851,OTT,7155,78053,2010-2011,https://www.eliteprospects.com/player/78053/morgan-hudson,morgan-hudson,CCHL2
+EOJHL,Steve Carrey,25.0,3.47,0.8909999999999999,OTT,6850,137501,2010-2011,https://www.eliteprospects.com/player/137501/steve-carrey,steve-carrey,CCHL2
+EOJHL,Karsten Pankhurst,17.0,3.72,0.8740000000000001,OTT,6850,56320,2010-2011,https://www.eliteprospects.com/player/56320/karsten-pankhurst,karsten-pankhurst,CCHL2
+EOJHL,Troy Anderson,21.0,2.98,0.889,PER,6846,117898,2010-2011,https://www.eliteprospects.com/player/117898/troy-anderson,troy-anderson,CCHL2
+EOJHL,Alex Clarke,20.0,6.15,0.833,SHA,6344,61145,2010-2011,https://www.eliteprospects.com/player/61145/alex-clarke,alex-clarke,CCHL2
+EOJHL,Scott Cannon,0.0,0.0,0.0,SOU,24543,103092,2010-2011,https://www.eliteprospects.com/player/103092/scott-cannon,scott-cannon,CCHL2
+EOJHL,Erik Miksik,13.0,3.5,0.907,STI,6849,253148,2010-2011,https://www.eliteprospects.com/player/253148/erik-miksik,erik-miksik,CCHL2
+EOJHL,Andrew Rodier,11.0,4.85,0.857,STI,6849,97890,2010-2011,https://www.eliteprospects.com/player/97890/andrew-rodier,andrew-rodier,CCHL2
+EOJHL,Cory Garrow,1,3.0,0.9229999999999999,AKW,5684,292332,2011-2012,https://www.eliteprospects.com/player/292332/cory-garrow,cory-garrow,CCHL2
+EOJHL,Quade Smoke,29,5.36,0.8540000000000001,AKW,5684,193676,2011-2012,https://www.eliteprospects.com/player/193676/quade-smoke,quade-smoke,CCHL2
+EOJHL,Cam Turcotte,7,4.91,0.794,AKW,5684,231176,2011-2012,https://www.eliteprospects.com/player/231176/cam-turcotte,cam-turcotte,CCHL2
+EOJHL,James Edwardson,24,3.56,0.8909999999999999,ALE,6623,117905,2011-2012,https://www.eliteprospects.com/player/117905/james-edwardson,james-edwardson,CCHL2
+EOJHL,Antoine Marchand,11,5.16,0.867,ALE,6623,193673,2011-2012,https://www.eliteprospects.com/player/193673/antoine-marchand,antoine-marchand,CCHL2
+EOJHL,Sébastien Gratton,0,0.0,0.0,ALE,6623,166476,2011-2012,https://www.eliteprospects.com/player/166476/sebastien-gratton,sebastien-gratton,CCHL2
+EOJHL,Troy Gauthier,1,5.0,0.924,ALM,6289,160676,2011-2012,https://www.eliteprospects.com/player/160676/troy-gauthier,troy-gauthier,CCHL2
+EOJHL,Troy Anderson,26,4.7,0.872,ALM,6289,117898,2011-2012,https://www.eliteprospects.com/player/117898/troy-anderson,troy-anderson,CCHL2
+EOJHL,Chad Hetherington,24,5.09,0.8540000000000001,ALM,6289,804770,2011-2012,https://www.eliteprospects.com/player/804770/chad-hetherington,chad-hetherington,CCHL2
+EOJHL,Harry Hayes,1,7.35,0.727,ALM,6289,804771,2011-2012,https://www.eliteprospects.com/player/804771/harry-hayes,harry-hayes,CCHL2
+EOJHL,Justin Laforest,0,0.0,0.0,ALM,6289,143659,2011-2012,https://www.eliteprospects.com/player/143659/justin-laforest,justin-laforest,CCHL2
+EOJHL,Ryley Saumure,0,0.0,0.0,ALM,6289,758853,2011-2012,https://www.eliteprospects.com/player/758853/ryley-saumure,ryley-saumure,CCHL2
+EOJHL,Matt Couvrette,23,2.54,0.922,ARN,6848,78209,2011-2012,https://www.eliteprospects.com/player/78209/matt-couvrette,matt-couvrette,CCHL2
+EOJHL,Mike Cheslock,15,2.81,0.885,ARN,6848,736057,2011-2012,https://www.eliteprospects.com/player/736057/mike-cheslock,mike-cheslock,CCHL2
+EOJHL,Nathan Peters,2,1.79,0.917,ATH,3518,127500,2011-2012,https://www.eliteprospects.com/player/127500/nathan-peters,nathan-peters,CCHL2
+EOJHL,Dallas Slack,30,3.0,0.909,ATH,3518,97724,2011-2012,https://www.eliteprospects.com/player/97724/dallas-slack,dallas-slack,CCHL2
+EOJHL,Jacob Hartman,20,3.43,0.8909999999999999,ATH,3518,337080,2011-2012,https://www.eliteprospects.com/player/337080/jacob-hartman,jacob-hartman,CCHL2
+EOJHL,Richard Joudoin,33,6.97,0.856,BRO,5683,97718,2011-2012,https://www.eliteprospects.com/player/97718/richard-joudoin,richard-joudoin,CCHL2
+EOJHL,Alex Kelly,4,7.62,0.846,BRO,5683,793061,2011-2012,https://www.eliteprospects.com/player/793061/alex-kelly,alex-kelly,CCHL2
+EOJHL,Brad Fraser,5,8.06,0.8240000000000001,BRO,5683,117949,2011-2012,https://www.eliteprospects.com/player/117949/brad-fraser,brad-fraser,CCHL2
+EOJHL,Adam Zullo,14,9.94,0.7709999999999999,BRO,5683,793062,2011-2012,https://www.eliteprospects.com/player/793062/adam-zullo,adam-zullo,CCHL2
+EOJHL,Kevin Barrett,1,0.0,1.0,CAS,6354,793722,2011-2012,https://www.eliteprospects.com/player/793722/kevin-barrett,kevin-barrett,CCHL2
+EOJHL,Kyle Lamothe,20,2.75,0.9279999999999999,CAS,6354,78172,2011-2012,https://www.eliteprospects.com/player/78172/kyle-lamothe,kyle-lamothe,CCHL2
+EOJHL,Alexandre Michaud,8,2.73,0.92,CAS,6354,65214,2011-2012,https://www.eliteprospects.com/player/65214/alexandre-michaud,alexandre-michaud,CCHL2
+EOJHL,Philippe Quesnel,15,2.76,0.9159999999999999,CAS,6354,101951,2011-2012,https://www.eliteprospects.com/player/101951/philippe-quesnel,philippe-quesnel,CCHL2
+EOJHL,Nolan Cooney,14,4.53,0.8759999999999999,CHA,6851,146204,2011-2012,https://www.eliteprospects.com/player/146204/nolan-cooney,nolan-cooney,CCHL2
+EOJHL,Cam Turcotte,10,4.59,0.857,CHA,6851,231176,2011-2012,https://www.eliteprospects.com/player/231176/cam-turcotte,cam-turcotte,CCHL2
+EOJHL,Robbie Chapman,13,6.19,0.8440000000000001,CHA,6851,802954,2011-2012,https://www.eliteprospects.com/player/802954/robbie-chapman,robbie-chapman,CCHL2
+EOJHL,Vincent DiCarlo,9,6.35,0.8420000000000001,CHA,6851,63377,2011-2012,https://www.eliteprospects.com/player/63377/vincent-dicarlo,vincent-dicarlo,CCHL2
+EOJHL,Sebastien Parker,4,7.75,0.8390000000000001,CHA,6851,64884,2011-2012,https://www.eliteprospects.com/player/64884/sebastien-parker,sebastien-parker,CCHL2
+EOJHL,Kyle Carpenter,1,11.54,0.737,CHA,6851,802955,2011-2012,https://www.eliteprospects.com/player/802955/kyle-carpenter,kyle-carpenter,CCHL2
+EOJHL,Erik Plumadore,15,3.88,0.894,CLA,24541,150122,2011-2012,https://www.eliteprospects.com/player/150122/erik-plumadore,erik-plumadore,CCHL2
+EOJHL,Gianmarco De Meis,20,4.38,0.865,CLA,24541,78271,2011-2012,https://www.eliteprospects.com/player/78271/gianmarco-de-meis,gianmarco-de-meis,CCHL2
+EOJHL,Jonathan Cameron,9,4.47,0.8370000000000001,CLA,24541,127853,2011-2012,https://www.eliteprospects.com/player/127853/jonathan-cameron,jonathan-cameron,CCHL2
+EOJHL,Kenton Carmody,1,3.0,0.929,GAN,6240,369091,2011-2012,https://www.eliteprospects.com/player/369091/kenton-carmody,kenton-carmody,CCHL2
+EOJHL,Christian Mastromattei,8,6.02,0.9009999999999999,GAN,6240,639327,2011-2012,https://www.eliteprospects.com/player/639327/christian-mastromattei,christian-mastromattei,CCHL2
+EOJHL,Drew Lawson,35,3.76,0.895,GAN,6240,77966,2011-2012,https://www.eliteprospects.com/player/77966/drew-lawson,drew-lawson,CCHL2
+EOJHL,Brad Fraser,3,4.0,0.8909999999999999,GAN,6240,117949,2011-2012,https://www.eliteprospects.com/player/117949/brad-fraser,brad-fraser,CCHL2
+EOJHL,Geoff Blandford,3,4.97,0.879,GAN,6240,435582,2011-2012,https://www.eliteprospects.com/player/435582/geoff-blandford,geoff-blandford,CCHL2
+EOJHL,Michael Walker,2,9.09,0.722,GAN,6240,225289,2011-2012,https://www.eliteprospects.com/player/225289/michael-walker,michael-walker,CCHL2
+EOJHL,Jean-Phillppe Charbonneau,33,3.26,0.914,GAT,10381,737323,2011-2012,https://www.eliteprospects.com/player/737323/jean-phillppe-charbonneau,jean-phillppe-charbonneau,CCHL2
+EOJHL,Marc-André Charron,10,3.39,0.899,GAT,10381,93409,2011-2012,https://www.eliteprospects.com/player/93409/marc-andre-charron,marc-andre-charron,CCHL2
+EOJHL,Brett Ayers,22,3.93,0.865,MET,6310,97764,2011-2012,https://www.eliteprospects.com/player/97764/brett-ayers,brett-ayers,CCHL2
+EOJHL,Ryan McLaughlin,22,3.95,0.86,MET,6310,117939,2011-2012,https://www.eliteprospects.com/player/117939/ryan-mclaughlin,ryan-mclaughlin,CCHL2
+EOJHL,Mickael Dion,32,5.0,0.877,MOR,9176,317102,2011-2012,https://www.eliteprospects.com/player/317102/mickael-dion,mickael-dion,CCHL2
+EOJHL,Ryan Cooper,15,6.22,0.851,MOR,9176,218068,2011-2012,https://www.eliteprospects.com/player/218068/ryan-cooper,ryan-cooper,CCHL2
+EOJHL,Dominic Plaschy,29,4.22,0.8859999999999999,OTT,7155,77992,2011-2012,https://www.eliteprospects.com/player/77992/dominic-plaschy,dominic-plaschy,CCHL2
+EOJHL,Mathieu Kingston,3,6.94,0.825,OTT,7155,127106,2011-2012,https://www.eliteprospects.com/player/127106/mathieu-kingston,mathieu-kingston,CCHL2
+EOJHL,Brandon Billie,10,0.0,0.0,OTT,7155,317822,2011-2012,https://www.eliteprospects.com/player/317822/brandon-billie,brandon-billie,CCHL2
+EOJHL,Jacob Blair,15,3.12,0.9009999999999999,OTT,6850,116942,2011-2012,https://www.eliteprospects.com/player/116942/jacob-blair,jacob-blair,CCHL2
+EOJHL,Benoit Larocque,31,3.66,0.888,OTT,6850,732345,2011-2012,https://www.eliteprospects.com/player/732345/benoit-larocque,benoit-larocque,CCHL2
+EOJHL,Justin Laforest,18,4.15,0.878,PER,6846,143659,2011-2012,https://www.eliteprospects.com/player/143659/justin-laforest,justin-laforest,CCHL2
+EOJHL,Richard Barr,31,4.2,0.888,REN,6434,78183,2011-2012,https://www.eliteprospects.com/player/78183/richard-barr,richard-barr,CCHL2
+EOJHL,Troy Gauthier,18,4.9,0.863,REN,6434,160676,2011-2012,https://www.eliteprospects.com/player/160676/troy-gauthier,troy-gauthier,CCHL2
+EOJHL,Alex Clarke,26,5.35,0.846,SHA,6344,61145,2011-2012,https://www.eliteprospects.com/player/61145/alex-clarke,alex-clarke,CCHL2
+EOJHL,Jarrett Pitt,36,4.53,0.89,SOU,24543,97722,2011-2012,https://www.eliteprospects.com/player/97722/jarrett-pitt,jarrett-pitt,CCHL2
+EOJHL,Ashton Selleck,11,4.85,0.879,SOU,24543,793383,2011-2012,https://www.eliteprospects.com/player/793383/ashton-selleck,ashton-selleck,CCHL2
+EOJHL,Paul Dejong,2,3.6,0.8,SOU,24543,206895,2011-2012,https://www.eliteprospects.com/player/206895/paul-dejong,paul-dejong,CCHL2
+EOJHL,Erik Miksik,21,3.81,0.903,STI,6849,253148,2011-2012,https://www.eliteprospects.com/player/253148/erik-miksik,erik-miksik,CCHL2
+EOJHL,James Davis,31,3.2,0.899,WES,9701,790885,2011-2012,https://www.eliteprospects.com/player/790885/james-davis,james-davis,CCHL2
+EOJHL,Matt Howard,18,3.65,0.8490000000000001,WES,9701,221895,2011-2012,https://www.eliteprospects.com/player/221895/matt-howard,matt-howard,CCHL2
+EOJHL,Alex Monk-Cray,32,2.74,0.9109999999999999,WIN,5867,134353,2011-2012,https://www.eliteprospects.com/player/134353/alex-monk-cray,alex-monk-cray,CCHL2
+EOJHL,Cam Turcotte,21,2.8,0.9179999999999999,AKW,5684,231176,2012-2013,https://www.eliteprospects.com/player/231176/cam-turcotte,cam-turcotte,CCHL2
+EOJHL,Cory Garrow,16,3.68,0.899,AKW,5684,292332,2012-2013,https://www.eliteprospects.com/player/292332/cory-garrow,cory-garrow,CCHL2
+EOJHL,Quade Smoke,4,5.48,0.85,AKW,5684,193676,2012-2013,https://www.eliteprospects.com/player/193676/quade-smoke,quade-smoke,CCHL2
+EOJHL,Brett Ayers,12,3.52,0.9009999999999999,ALE,6623,97764,2012-2013,https://www.eliteprospects.com/player/97764/brett-ayers,brett-ayers,CCHL2
+EOJHL,Antoine Marchand,28,4.67,0.8859999999999999,ALE,6623,193673,2012-2013,https://www.eliteprospects.com/player/193673/antoine-marchand,antoine-marchand,CCHL2
+EOJHL,James Edwardson,0,0.0,0.0,ALE,6623,117905,2012-2013,https://www.eliteprospects.com/player/117905/james-edwardson,james-edwardson,CCHL2
+EOJHL,Dominic Plaschy,31,3.72,0.9009999999999999,ALM,6289,77992,2012-2013,https://www.eliteprospects.com/player/77992/dominic-plaschy,dominic-plaschy,CCHL2
+EOJHL,Troy Gauthier,3,5.88,0.843,ALM,6289,160676,2012-2013,https://www.eliteprospects.com/player/160676/troy-gauthier,troy-gauthier,CCHL2
+EOJHL,Peyton Parker,10,6.74,0.809,ALM,6289,367614,2012-2013,https://www.eliteprospects.com/player/367614/peyton-parker,peyton-parker,CCHL2
+EOJHL,Matteo Scapillati,1,0.0,1.0,ARN,6848,367124,2012-2013,https://www.eliteprospects.com/player/367124/matteo-scapillati,matteo-scapillati,CCHL2
+EOJHL,Kyle Lamothe,34,4.53,0.887,ARN,6848,78172,2012-2013,https://www.eliteprospects.com/player/78172/kyle-lamothe,kyle-lamothe,CCHL2
+EOJHL,Mike Cheslock,10,3.9,0.8640000000000001,ARN,6848,736057,2012-2013,https://www.eliteprospects.com/player/736057/mike-cheslock,mike-cheslock,CCHL2
+EOJHL,Erik Miksik,22,3.09,0.919,ATH,3518,253148,2012-2013,https://www.eliteprospects.com/player/253148/erik-miksik,erik-miksik,CCHL2
+EOJHL,Dallas Slack,23,3.06,0.9109999999999999,ATH,3518,97724,2012-2013,https://www.eliteprospects.com/player/97724/dallas-slack,dallas-slack,CCHL2
+EOJHL,Mack Frere,14,4.64,0.899,BRO,5683,286241,2012-2013,https://www.eliteprospects.com/player/286241/mack-frere,mack-frere,CCHL2
+EOJHL,Nathan Peters,39,4.09,0.887,BRO,5683,127500,2012-2013,https://www.eliteprospects.com/player/127500/nathan-peters,nathan-peters,CCHL2
+EOJHL,Quade Smoke,13,3.52,0.893,CHA,6851,193676,2012-2013,https://www.eliteprospects.com/player/193676/quade-smoke,quade-smoke,CCHL2
+EOJHL,Robbie Chapman,7,3.45,0.883,CHA,6851,802954,2012-2013,https://www.eliteprospects.com/player/802954/robbie-chapman,robbie-chapman,CCHL2
+EOJHL,Alex Boileau,26,4.43,0.877,CHA,6851,743940,2012-2013,https://www.eliteprospects.com/player/743940/alex-boileau,alex-boileau,CCHL2
+EOJHL,Gianmarco De Meis,16,3.03,0.9159999999999999,CLA,24541,78271,2012-2013,https://www.eliteprospects.com/player/78271/gianmarco-de-meis,gianmarco-de-meis,CCHL2
+EOJHL,Ryan McLaughlin,7,2.77,0.9129999999999999,CLA,24541,117939,2012-2013,https://www.eliteprospects.com/player/117939/ryan-mclaughlin,ryan-mclaughlin,CCHL2
+EOJHL,Nicholas Newport,17,3.08,0.907,CLA,24541,206767,2012-2013,https://www.eliteprospects.com/player/206767/nicholas-newport,nicholas-newport,CCHL2
+EOJHL,Erik Plumadore,5,4.43,0.887,CLA,24541,150122,2012-2013,https://www.eliteprospects.com/player/150122/erik-plumadore,erik-plumadore,CCHL2
+EOJHL,Drew Lawson,31,3.03,0.9109999999999999,GAN,6240,77966,2012-2013,https://www.eliteprospects.com/player/77966/drew-lawson,drew-lawson,CCHL2
+EOJHL,Ryan Kaszuba,14,3.64,0.893,GAN,6240,241166,2012-2013,https://www.eliteprospects.com/player/241166/ryan-kaszuba,ryan-kaszuba,CCHL2
+EOJHL,Michael Walker,6,4.44,0.8690000000000001,GAN,6240,225289,2012-2013,https://www.eliteprospects.com/player/225289/michael-walker,michael-walker,CCHL2
+EOJHL,Ryley Saumure,0,0.0,0.0,GAN,6240,758853,2012-2013,https://www.eliteprospects.com/player/758853/ryley-saumure,ryley-saumure,CCHL2
+EOJHL,Jean-Phillppe Charbonneau,22,2.86,0.915,GAT,10381,737323,2012-2013,https://www.eliteprospects.com/player/737323/jean-phillppe-charbonneau,jean-phillppe-charbonneau,CCHL2
+EOJHL,Jean-Philippe Giroux,16,2.62,0.912,GAT,10381,128872,2012-2013,https://www.eliteprospects.com/player/128872/jean-philippe-giroux,jean-philippe-giroux,CCHL2
+EOJHL,Marc-André Charron,7,2.73,0.904,GAT,10381,93409,2012-2013,https://www.eliteprospects.com/player/93409/marc-andre-charron,marc-andre-charron,CCHL2
+EOJHL,Michael Shaheen,1,0.0,1.0,MET,6310,737779,2012-2013,https://www.eliteprospects.com/player/737779/michael-shaheen,michael-shaheen,CCHL2
+EOJHL,Eric Drouin,32,3.44,0.887,MET,6310,605236,2012-2013,https://www.eliteprospects.com/player/605236/eric-drouin,eric-drouin,CCHL2
+EOJHL,Benoit Larocque,4,4.8,0.878,MET,6310,732345,2012-2013,https://www.eliteprospects.com/player/732345/benoit-larocque,benoit-larocque,CCHL2
+EOJHL,Ryan McLaughlin,12,4.05,0.848,MET,6310,117939,2012-2013,https://www.eliteprospects.com/player/117939/ryan-mclaughlin,ryan-mclaughlin,CCHL2
+EOJHL,Jordan Vachon,1,8.43,0.7140000000000001,MET,6310,207918,2012-2013,https://www.eliteprospects.com/player/207918/jordan-vachon,jordan-vachon,CCHL2
+EOJHL,Mickael Dion,20,5.3,0.8690000000000001,MOR,9176,317102,2012-2013,https://www.eliteprospects.com/player/317102/mickael-dion,mickael-dion,CCHL2
+EOJHL,Ryan Cooper,19,6.32,0.861,MOR,9176,218068,2012-2013,https://www.eliteprospects.com/player/218068/ryan-cooper,ryan-cooper,CCHL2
+EOJHL,Joey Lamarch,3,11.05,0.8059999999999999,MOR,9176,802972,2012-2013,https://www.eliteprospects.com/player/802972/joey-lamarch,joey-lamarch,CCHL2
+EOJHL,Zack Frawley,1,17.65,0.688,MOR,9176,802973,2012-2013,https://www.eliteprospects.com/player/802973/zack-frawley,zack-frawley,CCHL2
+EOJHL,Matt Couvrette,24,2.43,0.915,OTT,7155,78209,2012-2013,https://www.eliteprospects.com/player/78209/matt-couvrette,matt-couvrette,CCHL2
+EOJHL,Erik Plumadore,6,2.97,0.909,OTT,7155,150122,2012-2013,https://www.eliteprospects.com/player/150122/erik-plumadore,erik-plumadore,CCHL2
+EOJHL,Coady Edwards,5,4.24,0.855,OTT,7155,130651,2012-2013,https://www.eliteprospects.com/player/130651/coady-edwards,coady-edwards,CCHL2
+EOJHL,Matthew Weatherdon,7,4.22,0.818,OTT,7155,737783,2012-2013,https://www.eliteprospects.com/player/737783/matthew-weatherdon,matthew-weatherdon,CCHL2
+EOJHL,Brendan Chilton,2,8.19,0.7,OTT,7155,125021,2012-2013,https://www.eliteprospects.com/player/125021/brendan-chilton,brendan-chilton,CCHL2
+EOJHL,Benoit Larocque,17,4.21,0.87,OTT,6850,732345,2012-2013,https://www.eliteprospects.com/player/732345/benoit-larocque,benoit-larocque,CCHL2
+EOJHL,JJ Pristanski,20,3.87,0.863,OTT,6850,737800,2012-2013,https://www.eliteprospects.com/player/737800/jj-pristanski,jj-pristanski,CCHL2
+EOJHL,Devin Tappenden,10,3.24,0.845,OTT,6850,264735,2012-2013,https://www.eliteprospects.com/player/264735/devin-tappenden,devin-tappenden,CCHL2
+EOJHL,Jason Shaw,20,3.78,0.9059999999999999,PER,6846,737805,2012-2013,https://www.eliteprospects.com/player/737805/jason-shaw,jason-shaw,CCHL2
+EOJHL,Jeremy Wright,26,4.19,0.894,PER,6846,639449,2012-2013,https://www.eliteprospects.com/player/639449/jeremy-wright,jeremy-wright,CCHL2
+EOJHL,Matt Schroeder,6,3.18,0.909,REN,6434,737818,2012-2013,https://www.eliteprospects.com/player/737818/matt-schroeder,matt-schroeder,CCHL2
+EOJHL,Matt Gagne,25,3.25,0.909,REN,6434,150129,2012-2013,https://www.eliteprospects.com/player/150129/matt-gagne,matt-gagne,CCHL2
+EOJHL,Nick Hodgins,14,4.69,0.86,REN,6434,158037,2012-2013,https://www.eliteprospects.com/player/158037/nick-hodgins,nick-hodgins,CCHL2
+EOJHL,Trevor McGee,3,3.35,0.912,SHA,6344,75351,2012-2013,https://www.eliteprospects.com/player/75351/trevor-mcgee,trevor-mcgee,CCHL2
+EOJHL,Nicholas Desrochers,14,4.72,0.8759999999999999,SHA,6344,128925,2012-2013,https://www.eliteprospects.com/player/128925/nicholas-desrochers,nicholas-desrochers,CCHL2
+EOJHL,Danick Boisvert,24,4.24,0.862,SHA,6344,127163,2012-2013,https://www.eliteprospects.com/player/127163/danick-boisvert,danick-boisvert,CCHL2
+EOJHL,Jonathan Loyer,2,5.5,0.82,SHA,6344,426789,2012-2013,https://www.eliteprospects.com/player/426789/jonathan-loyer,jonathan-loyer,CCHL2
+EOJHL,Kristian Leger,6,4.05,0.88,SOU,24543,303872,2012-2013,https://www.eliteprospects.com/player/303872/kristian-leger,kristian-leger,CCHL2
+EOJHL,Karsten Pankhurst,27,4.03,0.887,STI,6849,56320,2012-2013,https://www.eliteprospects.com/player/56320/karsten-pankhurst,karsten-pankhurst,CCHL2
+EOJHL,Arun Kumar,17,3.87,0.868,STI,6849,156516,2012-2013,https://www.eliteprospects.com/player/156516/arun-kumar,arun-kumar,CCHL2
+EOJHL,Spencer Emery,13,3.16,0.92,WES,9701,804245,2012-2013,https://www.eliteprospects.com/player/804245/spencer-emery,spencer-emery,CCHL2
+EOJHL,Richard Barr,28,3.71,0.897,WES,9701,78183,2012-2013,https://www.eliteprospects.com/player/78183/richard-barr,richard-barr,CCHL2
+EOJHL,Mickael Dion,10,3.49,0.899,WIN,5867,317102,2012-2013,https://www.eliteprospects.com/player/317102/mickael-dion,mickael-dion,CCHL2
+EOJHL,Alex Monk-Cray,20,3.97,0.884,WIN,5867,134353,2012-2013,https://www.eliteprospects.com/player/134353/alex-monk-cray,alex-monk-cray,CCHL2
+EOJHL,Mathieu Kingston,0,0.0,0.0,WIN,5867,127106,2012-2013,https://www.eliteprospects.com/player/127106/mathieu-kingston,mathieu-kingston,CCHL2
+EOJHL,Cam Turcotte,25,3.26,0.9129999999999999,AKW,5684,231176,2013-2014,https://www.eliteprospects.com/player/231176/cam-turcotte,cam-turcotte,CCHL2
+EOJHL,Cory Garrow,19,3.54,0.904,AKW,5684,292332,2013-2014,https://www.eliteprospects.com/player/292332/cory-garrow,cory-garrow,CCHL2
+EOJHL,Brett Ayers,30,3.98,0.9,ALE,6623,97764,2013-2014,https://www.eliteprospects.com/player/97764/brett-ayers,brett-ayers,CCHL2
+EOJHL,Maxime Beauregard,14,5.44,0.855,ALE,6623,164721,2013-2014,https://www.eliteprospects.com/player/164721/maxime-beauregard,maxime-beauregard,CCHL2
+EOJHL,Pat Nadeau,3,6.06,0.851,ALE,6623,792445,2013-2014,https://www.eliteprospects.com/player/792445/pat-nadeau,pat-nadeau,CCHL2
+EOJHL,Dominic Plaschy,8,2.89,0.905,ALM,6289,77992,2013-2014,https://www.eliteprospects.com/player/77992/dominic-plaschy,dominic-plaschy,CCHL2
+EOJHL,Alexandre Daley,25,3.76,0.885,ALM,6289,106159,2013-2014,https://www.eliteprospects.com/player/106159/alexandre-daley,alexandre-daley,CCHL2
+EOJHL,Richard Barr,13,4.29,0.882,ALM,6289,78183,2013-2014,https://www.eliteprospects.com/player/78183/richard-barr,richard-barr,CCHL2
+EOJHL,Trevor Saloman,1,7.38,0.846,ALM,6289,634377,2013-2014,https://www.eliteprospects.com/player/634377/trevor-saloman,trevor-saloman,CCHL2
+EOJHL,Arun Kumar,2,5.02,0.841,ALM,6289,156516,2013-2014,https://www.eliteprospects.com/player/156516/arun-kumar,arun-kumar,CCHL2
+EOJHL,Erik Miksik,39,3.54,0.905,ARN,6848,253148,2013-2014,https://www.eliteprospects.com/player/253148/erik-miksik,erik-miksik,CCHL2
+EOJHL,Brett Hahn,5,5.65,0.852,ARN,6848,367123,2013-2014,https://www.eliteprospects.com/player/367123/brett-hahn,brett-hahn,CCHL2
+EOJHL,Brandon Billie,30,3.07,0.904,ATH,3518,317822,2013-2014,https://www.eliteprospects.com/player/317822/brandon-billie,brandon-billie,CCHL2
+EOJHL,Josh Powers,11,3.68,0.898,ATH,3518,206885,2013-2014,https://www.eliteprospects.com/player/206885/josh-powers,josh-powers,CCHL2
+EOJHL,Brad Smith,8,4.39,0.873,ATH,3518,208700,2013-2014,https://www.eliteprospects.com/player/208700/brad-smith,brad-smith,CCHL2
+EOJHL,Jeremy Wright,3,5.88,0.812,ATH,3518,639449,2013-2014,https://www.eliteprospects.com/player/639449/jeremy-wright,jeremy-wright,CCHL2
+EOJHL,Nathan Peters,33,3.34,0.9009999999999999,BRO,5683,127500,2013-2014,https://www.eliteprospects.com/player/127500/nathan-peters,nathan-peters,CCHL2
+EOJHL,Mack Frere,15,4.42,0.875,BRO,5683,286241,2013-2014,https://www.eliteprospects.com/player/286241/mack-frere,mack-frere,CCHL2
+EOJHL,Gianmarco De Meis,11,2.19,0.929,CAS,6354,78271,2013-2014,https://www.eliteprospects.com/player/78271/gianmarco-de-meis,gianmarco-de-meis,CCHL2
+EOJHL,Philippe Quesnel,10,2.34,0.929,CAS,6354,101951,2013-2014,https://www.eliteprospects.com/player/101951/philippe-quesnel,philippe-quesnel,CCHL2
+EOJHL,Jean-Philippe Brais,21,2.28,0.927,CAS,6354,151777,2013-2014,https://www.eliteprospects.com/player/151777/jean-philippe-brais,jean-philippe-brais,CCHL2
+Don Johnson Cup,Jean-Philippe Brais,4,1.7,0.94,CAS,6354,151777,2013-2014,https://www.eliteprospects.com/player/151777/jean-philippe-brais,jean-philippe-brais,CCHL2
+Don Johnson Cup,Gianmarco De Meis,2,1.5,0.925,CAS,6354,78271,2013-2014,https://www.eliteprospects.com/player/78271/gianmarco-de-meis,gianmarco-de-meis,CCHL2
+EOJHL,Ryan Cooper,23,3.33,0.91,CHA,6851,218068,2013-2014,https://www.eliteprospects.com/player/218068/ryan-cooper,ryan-cooper,CCHL2
+EOJHL,Alex Boileau,18,4.18,0.878,CHA,6851,743940,2013-2014,https://www.eliteprospects.com/player/743940/alex-boileau,alex-boileau,CCHL2
+EOJHL,Philippe Quesnel,10,2.96,0.919,CLA,24541,101951,2013-2014,https://www.eliteprospects.com/player/101951/philippe-quesnel,philippe-quesnel,CCHL2
+EOJHL,Ryan McLaughlin,23,3.21,0.915,CLA,24541,117939,2013-2014,https://www.eliteprospects.com/player/117939/ryan-mclaughlin,ryan-mclaughlin,CCHL2
+EOJHL,Gianmarco De Meis,10,3.79,0.9009999999999999,CLA,24541,78271,2013-2014,https://www.eliteprospects.com/player/78271/gianmarco-de-meis,gianmarco-de-meis,CCHL2
+EOJHL,Samuel Tanguay,21,2.3,0.9279999999999999,GAN,6240,151763,2013-2014,https://www.eliteprospects.com/player/151763/samuel-tanguay,samuel-tanguay,CCHL2
+EOJHL,Karsten Pankhurst,9,3.3,0.9059999999999999,GAN,6240,56320,2013-2014,https://www.eliteprospects.com/player/56320/karsten-pankhurst,karsten-pankhurst,CCHL2
+EOJHL,Ryan Kaszuba,19,3.29,0.905,GAN,6240,241166,2013-2014,https://www.eliteprospects.com/player/241166/ryan-kaszuba,ryan-kaszuba,CCHL2
+EOJHL,Cole Mahoney,0,0.0,0.0,GAN,6240,208645,2013-2014,https://www.eliteprospects.com/player/208645/cole-mahoney,cole-mahoney,CCHL2
+EOJHL,Jean-Philippe Giroux,27,3.61,0.889,GAT,10381,128872,2013-2014,https://www.eliteprospects.com/player/128872/jean-philippe-giroux,jean-philippe-giroux,CCHL2
+EOJHL,Justin Malette-Trottier,16,3.86,0.889,GAT,10381,365885,2013-2014,https://www.eliteprospects.com/player/365885/justin-malette-trottier,justin-malette-trottier,CCHL2
+EOJHL,Nicholas Maheux,2,6.0,0.818,GAT,10381,369032,2013-2014,https://www.eliteprospects.com/player/369032/nicholas-maheux,nicholas-maheux,CCHL2
+EOJHL,Connor Hicks,26,3.63,0.903,MET,6310,245164,2013-2014,https://www.eliteprospects.com/player/245164/connor-hicks,connor-hicks,CCHL2
+EOJHL,Dylan BrindAmour,18,3.36,0.894,MET,6310,78075,2013-2014,https://www.eliteprospects.com/player/78075/dylan-brindamour,dylan-brindamour,CCHL2
+EOJHL,Brett Ayers,2,4.8,0.8440000000000001,MET,6310,97764,2013-2014,https://www.eliteprospects.com/player/97764/brett-ayers,brett-ayers,CCHL2
+EOJHL,Jordan Vachon,3,5.77,0.8290000000000001,MET,6310,207918,2013-2014,https://www.eliteprospects.com/player/207918/jordan-vachon,jordan-vachon,CCHL2
+EOJHL,John Gilmer,23,4.98,0.872,MOR,9176,206894,2013-2014,https://www.eliteprospects.com/player/206894/john-gilmer,john-gilmer,CCHL2
+EOJHL,Brendan Chilton,21,5.35,0.865,MOR,9176,125021,2013-2014,https://www.eliteprospects.com/player/125021/brendan-chilton,brendan-chilton,CCHL2
+EOJHL,Keiran Weir,0,0.0,0.0,MOR,9176,369202,2013-2014,https://www.eliteprospects.com/player/369202/keiran-weir,keiran-weir,CCHL2
+EOJHL,Anthony Salahor,2,2.5,0.92,OTT,7155,262546,2013-2014,https://www.eliteprospects.com/player/262546/anthony-salahor,anthony-salahor,CCHL2
+EOJHL,Dominic Plaschy,17,2.93,0.919,OTT,7155,77992,2013-2014,https://www.eliteprospects.com/player/77992/dominic-plaschy,dominic-plaschy,CCHL2
+EOJHL,Matt Couvrette,8,2.75,0.9059999999999999,OTT,7155,78209,2013-2014,https://www.eliteprospects.com/player/78209/matt-couvrette,matt-couvrette,CCHL2
+EOJHL,Drew Reinhardt,15,3.12,0.9059999999999999,OTT,7155,126758,2013-2014,https://www.eliteprospects.com/player/126758/drew-reinhardt,drew-reinhardt,CCHL2
+EOJHL,Justin Villeneuve,4,4.42,0.8590000000000001,OTT,7155,271059,2013-2014,https://www.eliteprospects.com/player/271059/justin-villeneuve,justin-villeneuve,CCHL2
+EOJHL,Erik Plumadore,20,3.22,0.899,OTT,6850,150122,2013-2014,https://www.eliteprospects.com/player/150122/erik-plumadore,erik-plumadore,CCHL2
+EOJHL,JJ Pristanski,22,3.04,0.898,OTT,6850,737800,2013-2014,https://www.eliteprospects.com/player/737800/jj-pristanski,jj-pristanski,CCHL2
+EOJHL,Michael Cullen,1,3.2,0.917,PER,6846,252861,2013-2014,https://www.eliteprospects.com/player/252861/michael-cullen,michael-cullen,CCHL2
+EOJHL,Nick Hodgins,3,3.24,0.917,PER,6846,158037,2013-2014,https://www.eliteprospects.com/player/158037/nick-hodgins,nick-hodgins,CCHL2
+EOJHL,Jeremy Wright,23,3.92,0.892,PER,6846,639449,2013-2014,https://www.eliteprospects.com/player/639449/jeremy-wright,jeremy-wright,CCHL2
+EOJHL,Cam Lerner,10,3.39,0.8809999999999999,PER,6846,116939,2013-2014,https://www.eliteprospects.com/player/116939/cam-lerner,cam-lerner,CCHL2
+EOJHL,Dallas Slack,21,3.1,0.905,PRE,24543,97724,2013-2014,https://www.eliteprospects.com/player/97724/dallas-slack,dallas-slack,CCHL2
+EOJHL,Jarrett Pitt,22,3.8,0.8809999999999999,PRE,24543,97722,2013-2014,https://www.eliteprospects.com/player/97722/jarrett-pitt,jarrett-pitt,CCHL2
+EOJHL,Devin Crary,6,4.52,0.8640000000000001,PRE,24543,804243,2013-2014,https://www.eliteprospects.com/player/804243/devin-crary,devin-crary,CCHL2
+EOJHL,Dominic Rowe,3,6.22,0.845,PRE,24543,804244,2013-2014,https://www.eliteprospects.com/player/804244/dominic-rowe,dominic-rowe,CCHL2
+EOJHL,Mitchell Knight,5,3.99,0.904,REN,6434,96458,2013-2014,https://www.eliteprospects.com/player/96458/mitchell-knight,mitchell-knight,CCHL2
+EOJHL,Matt Schroeder,20,3.3,0.895,REN,6434,737818,2013-2014,https://www.eliteprospects.com/player/737818/matt-schroeder,matt-schroeder,CCHL2
+EOJHL,Matt Gagne,8,3.22,0.889,REN,6434,150129,2013-2014,https://www.eliteprospects.com/player/150129/matt-gagne,matt-gagne,CCHL2
+EOJHL,Brayden St-Germain,12,3.83,0.873,REN,6434,158029,2013-2014,https://www.eliteprospects.com/player/158029/brayden-st-germain,brayden-st-germain,CCHL2
+EOJHL,Josh Horner,2,2.0,0.946,SHA,6344,305823,2013-2014,https://www.eliteprospects.com/player/305823/josh-horner,josh-horner,CCHL2
+EOJHL,Danick Boisvert,21,4.09,0.88,SHA,6344,127163,2013-2014,https://www.eliteprospects.com/player/127163/danick-boisvert,danick-boisvert,CCHL2
+EOJHL,Trevor McGee,16,3.82,0.879,SHA,6344,75351,2013-2014,https://www.eliteprospects.com/player/75351/trevor-mcgee,trevor-mcgee,CCHL2
+EOJHL,Karsten Pankhurst,3,4.86,0.872,SHA,6344,56320,2013-2014,https://www.eliteprospects.com/player/56320/karsten-pankhurst,karsten-pankhurst,CCHL2
+EOJHL,Brandon Abraham,1,3.99,0.8,SHA,6344,739255,2013-2014,https://www.eliteprospects.com/player/739255/brandon-abraham,brandon-abraham,CCHL2
+EOJHL,Trevor Saloman,1,3.04,0.9209999999999999,STI,6849,634377,2013-2014,https://www.eliteprospects.com/player/634377/trevor-saloman,trevor-saloman,CCHL2
+EOJHL,Quentin Abrams,9,2.82,0.917,STI,6849,120618,2013-2014,https://www.eliteprospects.com/player/120618/quentin-abrams,quentin-abrams,CCHL2
+EOJHL,Zachary Mills,2,4.13,0.8959999999999999,STI,6849,331265,2013-2014,https://www.eliteprospects.com/player/331265/zachary-mills,zachary-mills,CCHL2
+EOJHL,Patrick Kealey,27,3.6,0.892,STI,6849,254451,2013-2014,https://www.eliteprospects.com/player/254451/patrick-kealey,patrick-kealey,CCHL2
+EOJHL,Jason Shaw,8,4.54,0.878,STI,6849,737805,2013-2014,https://www.eliteprospects.com/player/737805/jason-shaw,jason-shaw,CCHL2
+EOJHL,Marcus Rice,1,0.0,1.0,WES,9701,804249,2013-2014,https://www.eliteprospects.com/player/804249/marcus-rice,marcus-rice,CCHL2
+EOJHL,Nicholas Newport,20,2.95,0.924,WES,9701,206767,2013-2014,https://www.eliteprospects.com/player/206767/nicholas-newport,nicholas-newport,CCHL2
+EOJHL,Spencer Emery,17,3.4,0.9109999999999999,WES,9701,804245,2013-2014,https://www.eliteprospects.com/player/804245/spencer-emery,spencer-emery,CCHL2
+EOJHL,Richard Barr,11,4.22,0.894,WES,9701,78183,2013-2014,https://www.eliteprospects.com/player/78183/richard-barr,richard-barr,CCHL2
+EOJHL,Jeremy Wright,9,3.71,0.903,WIN,5867,639449,2013-2014,https://www.eliteprospects.com/player/639449/jeremy-wright,jeremy-wright,CCHL2
+EOJHL,Brandon Lowry,17,4.34,0.889,WIN,5867,333041,2013-2014,https://www.eliteprospects.com/player/333041/brandon-lowry,brandon-lowry,CCHL2
+EOJHL,Nathan Bowness,18,4.32,0.871,WIN,5867,262495,2013-2014,https://www.eliteprospects.com/player/262495/nathan-bowness,nathan-bowness,CCHL2
+EOJHL,Greg Carre,1,6.0,0.8,WIN,5867,369009,2013-2014,https://www.eliteprospects.com/player/369009/greg-carre,greg-carre,CCHL2
+EOJHL,Cory Garrow,25,3.95,0.8909999999999999,AKW,5684,292332,2014-2015,https://www.eliteprospects.com/player/292332/cory-garrow,cory-garrow,CCHL2
+EOJHL,Logan Gauthier,16,3.98,0.8909999999999999,AKW,5684,251742,2014-2015,https://www.eliteprospects.com/player/251742/logan-gauthier,logan-gauthier,CCHL2
+EOJHL,Callum Cassidy-Matthews,6,4.41,0.895,ALE,6623,369036,2014-2015,https://www.eliteprospects.com/player/369036/callum-cassidy-matthews,callum-cassidy-matthews,CCHL2
+EOJHL,Liam Lascelle,19,3.45,0.894,ALE,6623,207355,2014-2015,https://www.eliteprospects.com/player/207355/liam-lascelle,liam-lascelle,CCHL2
+EOJHL,Nicholas Maheux,22,4.66,0.867,ALE,6623,369032,2014-2015,https://www.eliteprospects.com/player/369032/nicholas-maheux,nicholas-maheux,CCHL2
+EOJHL,Cameron Scott,5,3.33,0.894,ALM,6289,354996,2014-2015,https://www.eliteprospects.com/player/354996/cameron-scott,cameron-scott,CCHL2
+EOJHL,Matthew Dods,27,4.91,0.867,ALM,6289,251680,2014-2015,https://www.eliteprospects.com/player/251680/matthew-dods,matthew-dods,CCHL2
+EOJHL,Alex Ebner,3,5.53,0.85,ALM,6289,367074,2014-2015,https://www.eliteprospects.com/player/367074/alex-ebner,alex-ebner,CCHL2
+EOJHL,Jesse Schoeman,9,6.04,0.825,ALM,6289,238511,2014-2015,https://www.eliteprospects.com/player/238511/jesse-schoeman,jesse-schoeman,CCHL2
+EOJHL,Phil Miller,1,9.49,0.81,ALM,6289,367068,2014-2015,https://www.eliteprospects.com/player/367068/phil-miller,phil-miller,CCHL2
+EOJHL,Sterling Wright,1,9.02,0.706,ALM,6289,367062,2014-2015,https://www.eliteprospects.com/player/367062/sterling-wright,sterling-wright,CCHL2
+EOJHL,Jonathan Goodman,1,12.0,0.6920000000000001,ALM,6289,367073,2014-2015,https://www.eliteprospects.com/player/367073/jonathan-goodman,jonathan-goodman,CCHL2
+EOJHL,Dominic Plaschy,28,2.97,0.903,ARN,6848,77992,2014-2015,https://www.eliteprospects.com/player/77992/dominic-plaschy,dominic-plaschy,CCHL2
+EOJHL,Matteo Scapillati,11,5.48,0.8540000000000001,ARN,6848,367124,2014-2015,https://www.eliteprospects.com/player/367124/matteo-scapillati,matteo-scapillati,CCHL2
+EOJHL,Brett Hahn,1,7.0,0.825,ARN,6848,367123,2014-2015,https://www.eliteprospects.com/player/367123/brett-hahn,brett-hahn,CCHL2
+EOJHL,Stephane Robitaille,0,0.0,0.0,ARN,6848,367128,2014-2015,https://www.eliteprospects.com/player/367128/stephane-robitaille,stephane-robitaille,CCHL2
+EOJHL,Alex Desjardins,0,0.0,0.0,ARN,6848,252087,2014-2015,https://www.eliteprospects.com/player/252087/alex-desjardins,alex-desjardins,CCHL2
+EOJHL,Alexandre Daley,33,2.74,0.915,ATH,3518,106159,2014-2015,https://www.eliteprospects.com/player/106159/alexandre-daley,alexandre-daley,CCHL2
+EOJHL,Greg Carre,18,3.54,0.892,ATH,3518,369009,2014-2015,https://www.eliteprospects.com/player/369009/greg-carre,greg-carre,CCHL2
+EOJHL,Kyle Herbison,1,2.4,0.9470000000000001,BRO,5683,299569,2014-2015,https://www.eliteprospects.com/player/299569/kyle-herbison,kyle-herbison,CCHL2
+EOJHL,Chad Melbourne,18,2.69,0.9109999999999999,BRO,5683,369085,2014-2015,https://www.eliteprospects.com/player/369085/chad-melbourne,chad-melbourne,CCHL2
+EOJHL,Nathan Peters,19,3.46,0.9009999999999999,BRO,5683,127500,2014-2015,https://www.eliteprospects.com/player/127500/nathan-peters,nathan-peters,CCHL2
+EOJHL,Kenton Carmody,8,4.35,0.868,BRO,5683,369091,2014-2015,https://www.eliteprospects.com/player/369091/kenton-carmody,kenton-carmody,CCHL2
+EOJHL,Drew Dubas,1,6.0,0.85,BRO,5683,369089,2014-2015,https://www.eliteprospects.com/player/369089/drew-dubas,drew-dubas,CCHL2
+EOJHL,Matt Richards,1,25.47,0.7,BRO,5683,369084,2014-2015,https://www.eliteprospects.com/player/369084/matt-richards,matt-richards,CCHL2
+EOJHL,Lee Spurgeon,0,0.0,0.0,BRO,5683,298141,2014-2015,https://www.eliteprospects.com/player/298141/lee-spurgeon,lee-spurgeon,CCHL2
+EOJHL,Gianmarco De Meis,31,2.01,0.9229999999999999,CAS,6354,78271,2014-2015,https://www.eliteprospects.com/player/78271/gianmarco-de-meis,gianmarco-de-meis,CCHL2
+EOJHL,Reilly Tondreau,11,4.25,0.861,CAS,6354,249515,2014-2015,https://www.eliteprospects.com/player/249515/reilly-tondreau,reilly-tondreau,CCHL2
+EOJHL,Kevan Dumouchel,14,3.84,0.897,CHA,6851,206862,2014-2015,https://www.eliteprospects.com/player/206862/kevan-dumouchel,kevan-dumouchel,CCHL2
+EOJHL,Ryan Cooper,28,4.39,0.8640000000000001,CHA,6851,218068,2014-2015,https://www.eliteprospects.com/player/218068/ryan-cooper,ryan-cooper,CCHL2
+EOJHL,Aaron Cathcart-McKinnon,6,2.36,0.9279999999999999,CLA,24541,365924,2014-2015,https://www.eliteprospects.com/player/365924/aaron-cathcart-mckinnon,aaron-cathcart-mckinnon,CCHL2
+EOJHL,Philippe Quesnel,33,3.29,0.899,CLA,24541,101951,2014-2015,https://www.eliteprospects.com/player/101951/philippe-quesnel,philippe-quesnel,CCHL2
+EOJHL,Ryan McLaughlin,4,5.68,0.831,CLA,24541,117939,2014-2015,https://www.eliteprospects.com/player/117939/ryan-mclaughlin,ryan-mclaughlin,CCHL2
+EOJHL,Troy Paquette,15,2.92,0.922,GAN,6240,208718,2014-2015,https://www.eliteprospects.com/player/208718/troy-paquette,troy-paquette,CCHL2
+EOJHL,Nicolas Cosgrove,8,4.86,0.902,GAN,6240,242866,2014-2015,https://www.eliteprospects.com/player/242866/nicolas-cosgrove,nicolas-cosgrove,CCHL2
+EOJHL,Quinn Cota,28,3.84,0.897,GAN,6240,253224,2014-2015,https://www.eliteprospects.com/player/253224/quinn-cota,quinn-cota,CCHL2
+EOJHL,Jordan Tompkins,2,3.25,0.889,GAN,6240,369166,2014-2015,https://www.eliteprospects.com/player/369166/jordan-tompkins,jordan-tompkins,CCHL2
+EOJHL,Louis-André Jalbert,17,3.78,0.885,GAT,10381,266544,2014-2015,https://www.eliteprospects.com/player/266544/louis-andre-jalbert,louis-andre-jalbert,CCHL2
+EOJHL,Justin Malette-Trottier,25,4.0,0.867,GAT,10381,365885,2014-2015,https://www.eliteprospects.com/player/365885/justin-malette-trottier,justin-malette-trottier,CCHL2
+EOJHL,Jean-Pascal Sabourin,20,3.77,0.904,MET,6310,245340,2014-2015,https://www.eliteprospects.com/player/245340/jean-pascal-sabourin,jean-pascal-sabourin,CCHL2
+EOJHL,Anthony Salahor,21,3.67,0.899,MET,6310,262546,2014-2015,https://www.eliteprospects.com/player/262546/anthony-salahor,anthony-salahor,CCHL2
+EOJHL,Keiran Weir,23,5.06,0.863,MOR,9176,369202,2014-2015,https://www.eliteprospects.com/player/369202/keiran-weir,keiran-weir,CCHL2
+EOJHL,Brett Hahn,5,4.86,0.857,MOR,9176,367123,2014-2015,https://www.eliteprospects.com/player/367123/brett-hahn,brett-hahn,CCHL2
+EOJHL,John Gilmer,18,5.55,0.845,MOR,9176,206894,2014-2015,https://www.eliteprospects.com/player/206894/john-gilmer,john-gilmer,CCHL2
+EOJHL,Gabriel Mollot-Hill,21,3.34,0.903,OTT,7155,245223,2014-2015,https://www.eliteprospects.com/player/245223/gabriel-mollot-hill,gabriel-mollot-hill,CCHL2
+EOJHL,Kenneth Nichol,22,3.54,0.889,OTT,7155,285916,2014-2015,https://www.eliteprospects.com/player/285916/kenneth-nichol,kenneth-nichol,CCHL2
+EOJHL,Drew Reinhardt,2,6.44,0.83,OTT,7155,126758,2014-2015,https://www.eliteprospects.com/player/126758/drew-reinhardt,drew-reinhardt,CCHL2
+EOJHL,Charles Jensen,32,3.32,0.8859999999999999,OTT,6850,207888,2014-2015,https://www.eliteprospects.com/player/207888/charles-jensen,charles-jensen,CCHL2
+EOJHL,Kyle Copeland,17,4.62,0.862,OTT,6850,278704,2014-2015,https://www.eliteprospects.com/player/278704/kyle-copeland,kyle-copeland,CCHL2
+EOJHL,Nick Marchant,1,0.0,1.0,PER,6846,367187,2014-2015,https://www.eliteprospects.com/player/367187/nick-marchant,nick-marchant,CCHL2
+EOJHL,Dylan BrindAmour,19,4.31,0.879,PER,6846,78075,2014-2015,https://www.eliteprospects.com/player/78075/dylan-brindamour,dylan-brindamour,CCHL2
+EOJHL,Justin Morell,6,4.31,0.8759999999999999,PER,6846,738934,2014-2015,https://www.eliteprospects.com/player/738934/justin-morell,justin-morell,CCHL2
+EOJHL,Brett Ayers,16,5.06,0.87,PER,6846,97764,2014-2015,https://www.eliteprospects.com/player/97764/brett-ayers,brett-ayers,CCHL2
+EOJHL,Phil Miller,4,6.4,0.8390000000000001,PER,6846,367068,2014-2015,https://www.eliteprospects.com/player/367068/phil-miller,phil-miller,CCHL2
+EOJHL,Alex Desjardins,3,8.36,0.823,PER,6846,252087,2014-2015,https://www.eliteprospects.com/player/252087/alex-desjardins,alex-desjardins,CCHL2
+EOJHL,Jarrett Pitt,29,2.27,0.92,PRE,24543,97722,2014-2015,https://www.eliteprospects.com/player/97722/jarrett-pitt,jarrett-pitt,CCHL2
+EOJHL,Dallas Slack,15,2.35,0.9159999999999999,PRE,24543,97724,2014-2015,https://www.eliteprospects.com/player/97724/dallas-slack,dallas-slack,CCHL2
+EOJHL,Dave James,1,7.02,0.774,PRE,24543,369250,2014-2015,https://www.eliteprospects.com/player/369250/dave-james,dave-james,CCHL2
+EOJHL,Matt Gagne,30,3.51,0.89,REN,6434,150129,2014-2015,https://www.eliteprospects.com/player/150129/matt-gagne,matt-gagne,CCHL2
+EOJHL,Dane Brumm,14,3.39,0.858,REN,6434,254450,2014-2015,https://www.eliteprospects.com/player/254450/dane-brumm,dane-brumm,CCHL2
+EOJHL,Nicholas Desrochers,21,3.22,0.893,SHA,6344,128925,2014-2015,https://www.eliteprospects.com/player/128925/nicholas-desrochers,nicholas-desrochers,CCHL2
+EOJHL,Danick Boisvert,20,3.63,0.883,SHA,6344,127163,2014-2015,https://www.eliteprospects.com/player/127163/danick-boisvert,danick-boisvert,CCHL2
+EOJHL,Connor Ellis,18,2.98,0.912,STI,6849,367524,2014-2015,https://www.eliteprospects.com/player/367524/connor-ellis,connor-ellis,CCHL2
+EOJHL,Matt Couvrette,24,3.33,0.9059999999999999,STI,6849,78209,2014-2015,https://www.eliteprospects.com/player/78209/matt-couvrette,matt-couvrette,CCHL2
+EOJHL,Patrick Kealey,1,3.71,0.9059999999999999,STI,6849,254451,2014-2015,https://www.eliteprospects.com/player/254451/patrick-kealey,patrick-kealey,CCHL2
+EOJHL,Alex Ebner,1,5.04,0.8079999999999999,STI,6849,367074,2014-2015,https://www.eliteprospects.com/player/367074/alex-ebner,alex-ebner,CCHL2
+EOJHL,Michael Cullen,39,3.42,0.9079999999999999,WES,9701,252861,2014-2015,https://www.eliteprospects.com/player/252861/michael-cullen,michael-cullen,CCHL2
+EOJHL,Nicholas Newport,3,5.88,0.841,WES,9701,206767,2014-2015,https://www.eliteprospects.com/player/206767/nicholas-newport,nicholas-newport,CCHL2
+EOJHL,Aaron West,5,5.88,0.84,WES,9701,369264,2014-2015,https://www.eliteprospects.com/player/369264/aaron-west,aaron-west,CCHL2
+EOJHL,Dylan BrindAmour,7,2.11,0.938,WIN,5867,78075,2014-2015,https://www.eliteprospects.com/player/78075/dylan-brindamour,dylan-brindamour,CCHL2
+EOJHL,Brandon Lowry,29,4.12,0.884,WIN,5867,333041,2014-2015,https://www.eliteprospects.com/player/333041/brandon-lowry,brandon-lowry,CCHL2
+EOJHL,Leif Hertz,5,4.04,0.865,WIN,5867,245215,2014-2015,https://www.eliteprospects.com/player/245215/leif-hertz,leif-hertz,CCHL2
+EOJHL,Daylon Courchene,2,7.26,0.8240000000000001,WIN,5867,268724,2014-2015,https://www.eliteprospects.com/player/268724/daylon-courchene,daylon-courchene,CCHL2
+Regular Season,Nicholas Campbell,29,3.43,0.8959999999999999,ALE,6623,299470,2015-2016,https://www.eliteprospects.com/player/299470/nicholas-campbell,nicholas-campbell,CCHL2
+Regular Season,Cole Skinner,1,2.92,0.893,ALE,6623,130192,2015-2016,https://www.eliteprospects.com/player/130192/cole-skinner,cole-skinner,CCHL2
+Regular Season,Georgis Rentopoulos,10,3.78,0.884,ALE,6623,342890,2015-2016,https://www.eliteprospects.com/player/342890/georgis-rentopoulos,georgis-rentopoulos,CCHL2
+Regular Season,James Hack,14,4.06,0.883,ALE,6623,273002,2015-2016,https://www.eliteprospects.com/player/273002/james-hack,james-hack,CCHL2
+Regular Season,Angus McRae,0,0.0,0.0,ALE,6623,401682,2015-2016,https://www.eliteprospects.com/player/401682/angus-mcrae,angus-mcrae,CCHL2
+Regular Season,Peter Brooks,12,2.54,0.9259999999999999,ARN,6848,269316,2015-2016,https://www.eliteprospects.com/player/269316/peter-brooks,peter-brooks,CCHL2
+Regular Season,Matthew Dods,25,4.43,0.888,ARN,6848,251680,2015-2016,https://www.eliteprospects.com/player/251680/matthew-dods,matthew-dods,CCHL2
+Regular Season,Patrick Kealey,11,5.03,0.853,ARN,6848,254451,2015-2016,https://www.eliteprospects.com/player/254451/patrick-kealey,patrick-kealey,CCHL2
+Regular Season,Nick Quade,2,9.0,0.795,ARN,6848,400153,2015-2016,https://www.eliteprospects.com/player/400153/nick-quade,nick-quade,CCHL2
+Regular Season,Matteo Scapillati,0,0.0,0.0,ARN,6848,367124,2015-2016,https://www.eliteprospects.com/player/367124/matteo-scapillati,matteo-scapillati,CCHL2
+Regular Season,Brennan Kitchen,30,3.23,0.91,ATH,3518,269342,2015-2016,https://www.eliteprospects.com/player/269342/brennan-kitchen,brennan-kitchen,CCHL2
+Regular Season,Alexandre Daley,7,4.01,0.877,ATH,3518,106159,2015-2016,https://www.eliteprospects.com/player/106159/alexandre-daley,alexandre-daley,CCHL2
+Regular Season,Nathan Peters,11,4.09,0.8420000000000001,ATH,3518,127500,2015-2016,https://www.eliteprospects.com/player/127500/nathan-peters,nathan-peters,CCHL2
+Regular Season,Parker Jelly,0,0.0,0.0,ATH,3518,400426,2015-2016,https://www.eliteprospects.com/player/400426/parker-jelly,parker-jelly,CCHL2
+Regular Season,Nick Nadeau,0,0.0,0.0,ATH,3518,400424,2015-2016,https://www.eliteprospects.com/player/400424/nick-nadeau,nick-nadeau,CCHL2
+Regular Season,Kyle Herbison,2,4.55,0.88,BRO,5683,299569,2015-2016,https://www.eliteprospects.com/player/299569/kyle-herbison,kyle-herbison,CCHL2
+Regular Season,Chad Melbourne,6,4.21,0.872,BRO,5683,369085,2015-2016,https://www.eliteprospects.com/player/369085/chad-melbourne,chad-melbourne,CCHL2
+Regular Season,Alex Benetos,27,5.23,0.863,BRO,5683,352111,2015-2016,https://www.eliteprospects.com/player/352111/alex-benetos,alex-benetos,CCHL2
+Regular Season,Raffaele Izzo,17,6.71,0.861,BRO,5683,254641,2015-2016,https://www.eliteprospects.com/player/254641/raffaele-izzo,raffaele-izzo,CCHL2
+Regular Season,Cole McCaugherty,0,0.0,0.0,BRO,5683,410936,2015-2016,https://www.eliteprospects.com/player/410936/cole-mccaugherty,cole-mccaugherty,CCHL2
+Regular Season,Gianmarco De Meis,31,2.43,0.919,CAS,6354,78271,2015-2016,https://www.eliteprospects.com/player/78271/gianmarco-de-meis,gianmarco-de-meis,CCHL2
+Regular Season,Reilly Tondreau,15,2.92,0.895,CAS,6354,249515,2015-2016,https://www.eliteprospects.com/player/249515/reilly-tondreau,reilly-tondreau,CCHL2
+Regular Season,Jean-Marc Brisson,1,10.87,0.7140000000000001,CAS,6354,400399,2015-2016,https://www.eliteprospects.com/player/400399/jean-marc-brisson,jean-marc-brisson,CCHL2
+Regular Season,Cedrick Andree,0,0.0,0.0,CAS,6354,317609,2015-2016,https://www.eliteprospects.com/player/317609/cedrick-andree,cedrick-andree,CCHL2
+Regular Season,Miguel Laroche,0,0.0,0.0,CAS,6354,168844,2015-2016,https://www.eliteprospects.com/player/168844/miguel-laroche,miguel-laroche,CCHL2
+Regular Season,Gabriel Laplante,0,0.0,0.0,CAS,6354,286943,2015-2016,https://www.eliteprospects.com/player/286943/gabriel-laplante,gabriel-laplante,CCHL2
+Regular Season,Cory Garrow,19,4.07,0.8690000000000001,CHA,6851,292332,2015-2016,https://www.eliteprospects.com/player/292332/cory-garrow,cory-garrow,CCHL2
+Regular Season,Aaron Cathcart-McKinnon,17,4.56,0.861,CHA,6851,365924,2015-2016,https://www.eliteprospects.com/player/365924/aaron-cathcart-mckinnon,aaron-cathcart-mckinnon,CCHL2
+Regular Season,Alex Horawski,9,4.93,0.8590000000000001,CHA,6851,290765,2015-2016,https://www.eliteprospects.com/player/290765/alex-horawski,alex-horawski,CCHL2
+Regular Season,Keiran Weir,2,4.0,0.83,CHA,6851,369202,2015-2016,https://www.eliteprospects.com/player/369202/keiran-weir,keiran-weir,CCHL2
+Regular Season,Charles Grimard,1,9.58,0.7829999999999999,CHA,6851,256596,2015-2016,https://www.eliteprospects.com/player/256596/charles-grimard,charles-grimard,CCHL2
+Regular Season,Dakota Sinclair,1,12.0,0.677,CHA,6851,360740,2015-2016,https://www.eliteprospects.com/player/360740/dakota-sinclair,dakota-sinclair,CCHL2
+Regular Season,Craig Grant,0,0.0,0.0,CHA,6851,355020,2015-2016,https://www.eliteprospects.com/player/355020/craig-grant,craig-grant,CCHL2
+Regular Season,Ryan McLaughlin,35,4.33,0.887,CLA,24541,117939,2015-2016,https://www.eliteprospects.com/player/117939/ryan-mclaughlin,ryan-mclaughlin,CCHL2
+Regular Season,Miguel Daoust,16,4.89,0.872,CLA,24541,400374,2015-2016,https://www.eliteprospects.com/player/400374/miguel-daoust,miguel-daoust,CCHL2
+Regular Season,Stéphane Dumoulin,0,0.0,0.0,CLA,24541,400375,2015-2016,https://www.eliteprospects.com/player/400375/stephane-dumoulin,stephane-dumoulin,CCHL2
+Regular Season,Zachary Guindon,0,0.0,0.0,CLA,24541,400376,2015-2016,https://www.eliteprospects.com/player/400376/zachary-guindon,zachary-guindon,CCHL2
+Regular Season,Anthony Salahor,20,3.49,0.9009999999999999,MET,6310,262546,2015-2016,https://www.eliteprospects.com/player/262546/anthony-salahor,anthony-salahor,CCHL2
+Regular Season,Kenneth Nichol,16,3.83,0.8959999999999999,MET,6310,285916,2015-2016,https://www.eliteprospects.com/player/285916/kenneth-nichol,kenneth-nichol,CCHL2
+Regular Season,Nathan Peters,14,3.77,0.893,MET,6310,127500,2015-2016,https://www.eliteprospects.com/player/127500/nathan-peters,nathan-peters,CCHL2
+Regular Season,Conor Lahey,2,3.78,0.878,MET,6310,400394,2015-2016,https://www.eliteprospects.com/player/400394/conor-lahey,conor-lahey,CCHL2
+Regular Season,Brent Pledge-Dickson,0,0.0,0.0,MET,6310,325950,2015-2016,https://www.eliteprospects.com/player/325950/brent-pledge-dickson,brent-pledge-dickson,CCHL2
+Regular Season,Jean-Philippe Tourigny,1,4.33,0.9329999999999999,OTT,7155,398032,2015-2016,https://www.eliteprospects.com/player/398032/jean-philippe-tourigny,jean-philippe-tourigny,CCHL2
+Regular Season,Jordan Vachon,21,4.25,0.8909999999999999,OTT,7155,207918,2015-2016,https://www.eliteprospects.com/player/207918/jordan-vachon,jordan-vachon,CCHL2
+Regular Season,Lee Spurgeon,22,4.73,0.878,OTT,7155,298141,2015-2016,https://www.eliteprospects.com/player/298141/lee-spurgeon,lee-spurgeon,CCHL2
+Regular Season,Aidan Ethier,6,3.4,0.872,OTT,7155,254394,2015-2016,https://www.eliteprospects.com/player/254394/aidan-ethier,aidan-ethier,CCHL2
+Regular Season,Austin Cain,20,3.06,0.903,OTT,6850,286240,2015-2016,https://www.eliteprospects.com/player/286240/austin-cain,austin-cain,CCHL2
+Regular Season,Nicholas Macina,17,3.41,0.8909999999999999,OTT,6850,254135,2015-2016,https://www.eliteprospects.com/player/254135/nicholas-macina,nicholas-macina,CCHL2
+Regular Season,Cory Garrow,12,4.54,0.88,OTT,6850,292332,2015-2016,https://www.eliteprospects.com/player/292332/cory-garrow,cory-garrow,CCHL2
+Regular Season,Cameron Scott,1,1.0,0.958,PER,6846,354996,2015-2016,https://www.eliteprospects.com/player/354996/cameron-scott,cameron-scott,CCHL2
+Regular Season,Kevan Dumouchel,21,2.36,0.905,PER,6846,206862,2015-2016,https://www.eliteprospects.com/player/206862/kevan-dumouchel,kevan-dumouchel,CCHL2
+Regular Season,Jonathan Peacock,25,2.85,0.902,PER,6846,269352,2015-2016,https://www.eliteprospects.com/player/269352/jonathan-peacock,jonathan-peacock,CCHL2
+Regular Season,Jarrett Pitt,31,4.27,0.8740000000000001,PRE,24543,97722,2015-2016,https://www.eliteprospects.com/player/97722/jarrett-pitt,jarrett-pitt,CCHL2
+Regular Season,Chad Melbourne,14,4.65,0.867,PRE,24543,369085,2015-2016,https://www.eliteprospects.com/player/369085/chad-melbourne,chad-melbourne,CCHL2
+Regular Season,Spenser Ross,1,7.12,0.778,PRE,24543,400414,2015-2016,https://www.eliteprospects.com/player/400414/spenser-ross,spenser-ross,CCHL2
+Regular Season,Callum Bolland,2,8.35,0.774,PRE,24543,400413,2015-2016,https://www.eliteprospects.com/player/400413/callum-bolland,callum-bolland,CCHL2
+Regular Season,John-Luke Prystayko,0,0.0,0.0,PRE,24543,405517,2015-2016,https://www.eliteprospects.com/player/405517/john-luke-prystayko,john-luke-prystayko,CCHL2
+Regular Season,Ryan Green,0,0.0,0.0,PRE,24543,302088,2015-2016,https://www.eliteprospects.com/player/302088/ryan-green,ryan-green,CCHL2
+Regular Season,Charles Jensen,13,4.92,0.873,REN,6434,207888,2015-2016,https://www.eliteprospects.com/player/207888/charles-jensen,charles-jensen,CCHL2
+Regular Season,Mackenzie Bruce,11,4.13,0.868,REN,6434,262547,2015-2016,https://www.eliteprospects.com/player/262547/mackenzie-bruce,mackenzie-bruce,CCHL2
+Regular Season,Aidan Ethier,17,4.31,0.858,REN,6434,254394,2015-2016,https://www.eliteprospects.com/player/254394/aidan-ethier,aidan-ethier,CCHL2
+Regular Season,J.P. Peladeau,9,5.71,0.8320000000000001,REN,6434,299698,2015-2016,https://www.eliteprospects.com/player/299698/j.p.-peladeau,j.p.-peladeau,CCHL2
+Regular Season,Cameron Iob,0,0.0,0.0,REN,6434,299486,2015-2016,https://www.eliteprospects.com/player/299486/cameron-iob,cameron-iob,CCHL2
+Regular Season,Patrick Steski,5,3.2,0.9109999999999999,STI,6849,269315,2015-2016,https://www.eliteprospects.com/player/269315/patrick-steski,patrick-steski,CCHL2
+Regular Season,Connor Ellis,28,3.51,0.9079999999999999,STI,6849,367524,2015-2016,https://www.eliteprospects.com/player/367524/connor-ellis,connor-ellis,CCHL2
+Regular Season,Spyros Koskinas,14,4.2,0.878,STI,6849,273003,2015-2016,https://www.eliteprospects.com/player/273003/spyros-koskinas,spyros-koskinas,CCHL2
+Regular Season,Alex Miotla,2,5.34,0.843,STI,6849,414440,2015-2016,https://www.eliteprospects.com/player/414440/alex-miotla,alex-miotla,CCHL2
+Regular Season,Bennett Oxborough,1,11.99,0.7929999999999999,STI,6849,400145,2015-2016,https://www.eliteprospects.com/player/400145/bennett-oxborough,bennett-oxborough,CCHL2
+Regular Season,Dyllan Lubbesmeyer,1,1.0,0.958,WES,9701,340268,2015-2016,https://www.eliteprospects.com/player/340268/dyllan-lubbesmeyer,dyllan-lubbesmeyer,CCHL2
+Regular Season,Michael Cullen,34,3.31,0.907,WES,9701,252861,2015-2016,https://www.eliteprospects.com/player/252861/michael-cullen,michael-cullen,CCHL2
+Regular Season,Graeme Gemmill,10,3.25,0.88,WES,9701,261351,2015-2016,https://www.eliteprospects.com/player/261351/graeme-gemmill,graeme-gemmill,CCHL2
+Regular Season,Aaron West,2,7.66,0.778,WES,9701,369264,2015-2016,https://www.eliteprospects.com/player/369264/aaron-west,aaron-west,CCHL2
+Regular Season,Logan Gauthier,4,3.3,0.907,WIN,5867,251742,2015-2016,https://www.eliteprospects.com/player/251742/logan-gauthier,logan-gauthier,CCHL2
+Regular Season,Brandon Lowry,32,4.27,0.8959999999999999,WIN,5867,333041,2015-2016,https://www.eliteprospects.com/player/333041/brandon-lowry,brandon-lowry,CCHL2
+Regular Season,John Gilmer,10,4.68,0.85,WIN,5867,206894,2015-2016,https://www.eliteprospects.com/player/206894/john-gilmer,john-gilmer,CCHL2
+Regular Season,Emil Lamontagne,1,6.0,0.833,WIN,5867,268869,2015-2016,https://www.eliteprospects.com/player/268869/emil-lamontagne,emil-lamontagne,CCHL2
+Regular Season,Shane Rodney,0,0.0,0.0,WIN,5867,400389,2015-2016,https://www.eliteprospects.com/player/400389/shane-rodney,shane-rodney,CCHL2
+Regular Season,Nicholas Rousseau,29,3.69,0.912,ALE,6623,299471,2016-2017,https://www.eliteprospects.com/player/299471/nicholas-rousseau,nicholas-rousseau,CCHL2
+Regular Season,Drew Carle,25,4.0,0.89,ALE,6623,297019,2016-2017,https://www.eliteprospects.com/player/297019/drew-carle,drew-carle,CCHL2
+Regular Season,Brennan Nadeau,0,0.0,0.0,ALE,6623,496551,2016-2017,https://www.eliteprospects.com/player/496551/brennan-nadeau,brennan-nadeau,CCHL2
+Regular Season,Nick Quade,1,2.0,0.941,ARN,6848,400153,2016-2017,https://www.eliteprospects.com/player/400153/nick-quade,nick-quade,CCHL2
+Regular Season,Anthony Salahor,22,3.06,0.9009999999999999,ARN,6848,262546,2016-2017,https://www.eliteprospects.com/player/262546/anthony-salahor,anthony-salahor,CCHL2
+Regular Season,Tom Meyerhans,27,3.82,0.885,ARN,6848,402552,2016-2017,https://www.eliteprospects.com/player/402552/tom-meyerhans,tom-meyerhans,CCHL2
+Regular Season,Bennett Oxborough,30,3.04,0.894,ATH,3518,400145,2016-2017,https://www.eliteprospects.com/player/400145/bennett-oxborough,bennett-oxborough,CCHL2
+Regular Season,William Rawski,4,3.22,0.88,ATH,3518,240110,2016-2017,https://www.eliteprospects.com/player/240110/william-rawski,william-rawski,CCHL2
+Regular Season,Charles Grimard,12,3.32,0.88,ATH,3518,256596,2016-2017,https://www.eliteprospects.com/player/256596/charles-grimard,charles-grimard,CCHL2
+Regular Season,Nick Quade,2,4.7,0.857,ATH,3518,400153,2016-2017,https://www.eliteprospects.com/player/400153/nick-quade,nick-quade,CCHL2
+Regular Season,Kyle Martelle,4,3.65,0.8490000000000001,ATH,3518,299673,2016-2017,https://www.eliteprospects.com/player/299673/kyle-martelle,kyle-martelle,CCHL2
+Regular Season,Steven Cyr,3,4.59,0.848,ATH,3518,469914,2016-2017,https://www.eliteprospects.com/player/469914/steven-cyr,steven-cyr,CCHL2
+Regular Season,Matt Pilon,1,16.65,0.6920000000000001,ATH,3518,496550,2016-2017,https://www.eliteprospects.com/player/496550/matt-pilon,matt-pilon,CCHL2
+Regular Season,Curtis Stewart,25,4.3,0.894,BRO,5683,469922,2016-2017,https://www.eliteprospects.com/player/469922/curtis-stewart,curtis-stewart,CCHL2
+Regular Season,Kyle Herbison,24,4.42,0.885,BRO,5683,299569,2016-2017,https://www.eliteprospects.com/player/299569/kyle-herbison,kyle-herbison,CCHL2
+Regular Season,Thomas Cook,2,5.31,0.879,BRO,5683,317533,2016-2017,https://www.eliteprospects.com/player/317533/thomas-cook,thomas-cook,CCHL2
+Regular Season,Jacob Drover,1,4.06,0.852,BRO,5683,297909,2016-2017,https://www.eliteprospects.com/player/297909/jacob-drover,jacob-drover,CCHL2
+Regular Season,Connor McNair,2,5.2,0.833,BRO,5683,509653,2016-2017,https://www.eliteprospects.com/player/509653/connor-mcnair,connor-mcnair,CCHL2
+Regular Season,Ryan Green,1,14.12,0.75,BRO,5683,302088,2016-2017,https://www.eliteprospects.com/player/302088/ryan-green,ryan-green,CCHL2
+Regular Season,Connor Ellis,11,1.79,0.9279999999999999,CAS,6354,367524,2016-2017,https://www.eliteprospects.com/player/367524/connor-ellis,connor-ellis,CCHL2
+Regular Season,Seth Carter,36,2.72,0.905,CAS,6354,339331,2016-2017,https://www.eliteprospects.com/player/339331/seth-carter,seth-carter,CCHL2
+Regular Season,Miguel Laroche,1,3.0,0.893,CAS,6354,168844,2016-2017,https://www.eliteprospects.com/player/168844/miguel-laroche,miguel-laroche,CCHL2
+Regular Season,Gabriel Laplante,1,9.0,0.7,CAS,6354,286943,2016-2017,https://www.eliteprospects.com/player/286943/gabriel-laplante,gabriel-laplante,CCHL2
+Regular Season,Craig Grant,32,4.66,0.889,CHA,6851,355020,2016-2017,https://www.eliteprospects.com/player/355020/craig-grant,craig-grant,CCHL2
+Regular Season,Kyle Martelle,9,5.47,0.847,CHA,6851,299673,2016-2017,https://www.eliteprospects.com/player/299673/kyle-martelle,kyle-martelle,CCHL2
+Regular Season,Dawson Irving,2,6.75,0.847,CHA,6851,355186,2016-2017,https://www.eliteprospects.com/player/355186/dawson-irving,dawson-irving,CCHL2
+Regular Season,Cory Garrow,14,6.75,0.8220000000000001,CHA,6851,292332,2016-2017,https://www.eliteprospects.com/player/292332/cory-garrow,cory-garrow,CCHL2
+Regular Season,Miguel Daoust,26,4.38,0.883,CLA,24541,400374,2016-2017,https://www.eliteprospects.com/player/400374/miguel-daoust,miguel-daoust,CCHL2
+Regular Season,Jean-Sébastien Gratton,29,4.39,0.88,CLA,24541,299436,2016-2017,https://www.eliteprospects.com/player/299436/jean-sebastien-gratton,jean-sebastien-gratton,CCHL2
+Regular Season,Kenneth Nichol,27,3.1,0.912,MET,6310,285916,2016-2017,https://www.eliteprospects.com/player/285916/kenneth-nichol,kenneth-nichol,CCHL2
+Regular Season,Kyle Charette,24,3.8,0.8809999999999999,MET,6310,355028,2016-2017,https://www.eliteprospects.com/player/355028/kyle-charette,kyle-charette,CCHL2
+Regular Season,Jordan Vachon,33,3.85,0.898,OTT,7155,207918,2016-2017,https://www.eliteprospects.com/player/207918/jordan-vachon,jordan-vachon,CCHL2
+Regular Season,Lee Spurgeon,1,2.0,0.895,OTT,7155,298141,2016-2017,https://www.eliteprospects.com/player/298141/lee-spurgeon,lee-spurgeon,CCHL2
+Regular Season,Alexandre Labrèche,20,4.47,0.878,OTT,7155,339322,2016-2017,https://www.eliteprospects.com/player/339322/alexandre-labreche,alexandre-labreche,CCHL2
+Regular Season,Christopher Cuglietta,31,3.35,0.897,OTT,6850,299485,2016-2017,https://www.eliteprospects.com/player/299485/christopher-cuglietta,christopher-cuglietta,CCHL2
+Regular Season,Cameron Parr,21,3.17,0.892,OTT,6850,253442,2016-2017,https://www.eliteprospects.com/player/253442/cameron-parr,cameron-parr,CCHL2
+Regular Season,Danik Gervais,1,9.42,0.762,OTT,6850,496544,2016-2017,https://www.eliteprospects.com/player/496544/danik-gervais,danik-gervais,CCHL2
+Regular Season,Cameron Scott,22,2.43,0.9159999999999999,PER,6846,354996,2016-2017,https://www.eliteprospects.com/player/354996/cameron-scott,cameron-scott,CCHL2
+Regular Season,Jonathan Peacock,24,2.5,0.912,PER,6846,269352,2016-2017,https://www.eliteprospects.com/player/269352/jonathan-peacock,jonathan-peacock,CCHL2
+Regular Season,Jacob Lavergne,2,3.48,0.851,PER,6846,302115,2016-2017,https://www.eliteprospects.com/player/302115/jacob-lavergne,jacob-lavergne,CCHL2
+Regular Season,Reilly Tondreau,12,4.98,0.868,PRE,24543,249515,2016-2017,https://www.eliteprospects.com/player/249515/reilly-tondreau,reilly-tondreau,CCHL2
+Regular Season,Sam Limoges-Ring,36,5.21,0.852,PRE,24543,442101,2016-2017,https://www.eliteprospects.com/player/442101/sam-limoges-ring,sam-limoges-ring,CCHL2
+Regular Season,Brennan Dumas,3,8.36,0.821,PRE,24543,519743,2016-2017,https://www.eliteprospects.com/player/519743/brennan-dumas,brennan-dumas,CCHL2
+Regular Season,Steven Cyr,7,8.09,0.797,PRE,24543,469914,2016-2017,https://www.eliteprospects.com/player/469914/steven-cyr,steven-cyr,CCHL2
+Regular Season,Jeremy Bibeau,7,6.01,0.865,REN,6434,469931,2016-2017,https://www.eliteprospects.com/player/469931/jeremy-bibeau,jeremy-bibeau,CCHL2
+Regular Season,Jacob Drover,20,5.59,0.857,REN,6434,297909,2016-2017,https://www.eliteprospects.com/player/297909/jacob-drover,jacob-drover,CCHL2
+Regular Season,Dane Brumm,1,5.12,0.853,REN,6434,254450,2016-2017,https://www.eliteprospects.com/player/254450/dane-brumm,dane-brumm,CCHL2
+Regular Season,Ethan Lapenskie,30,6.3,0.8440000000000001,REN,6434,469933,2016-2017,https://www.eliteprospects.com/player/469933/ethan-lapenskie,ethan-lapenskie,CCHL2
+Regular Season,Nick Quade,2,8.69,0.75,REN,6434,400153,2016-2017,https://www.eliteprospects.com/player/400153/nick-quade,nick-quade,CCHL2
+Regular Season,Alexander Borrelli,3,2.0,0.929,RIC,6849,469936,2016-2017,https://www.eliteprospects.com/player/469936/alexander-borrelli,alexander-borrelli,CCHL2
+Regular Season,Nick Bond,29,3.16,0.897,RIC,6849,355017,2016-2017,https://www.eliteprospects.com/player/355017/nick-bond,nick-bond,CCHL2
+Regular Season,Patrick Kealey,21,4.21,0.8809999999999999,RIC,6849,254451,2016-2017,https://www.eliteprospects.com/player/254451/patrick-kealey,patrick-kealey,CCHL2
+Regular Season,Alex Zoutis,23,3.03,0.914,WES,9701,299570,2016-2017,https://www.eliteprospects.com/player/299570/alex-zoutis,alex-zoutis,CCHL2
+Regular Season,Lee Spurgeon,26,3.76,0.897,WES,9701,298141,2016-2017,https://www.eliteprospects.com/player/298141/lee-spurgeon,lee-spurgeon,CCHL2
+Regular Season,Kyle Renaud,1,4.0,0.892,WES,9701,300808,2016-2017,https://www.eliteprospects.com/player/300808/kyle-renaud,kyle-renaud,CCHL2
+Regular Season,Conor Lahey,16,3.45,0.899,WIN,5867,400394,2016-2017,https://www.eliteprospects.com/player/400394/conor-lahey,conor-lahey,CCHL2
+Regular Season,Kevan Dumouchel,36,4.07,0.884,WIN,5867,206862,2016-2017,https://www.eliteprospects.com/player/206862/kevan-dumouchel,kevan-dumouchel,CCHL2
+Regular Season,Luke Cavallin,1,5.02,0.857,WIN,5867,317532,2016-2017,https://www.eliteprospects.com/player/317532/luke-cavallin,luke-cavallin,CCHL2
+Regular Season,Nicholas Rousseau,40,3.14,0.9109999999999999,ALE,6623,299471,2017-2018,https://www.eliteprospects.com/player/299471/nicholas-rousseau,nicholas-rousseau,CCHL2
+Regular Season,Brennan Nadeau,17,2.82,0.9009999999999999,ALE,6623,496551,2017-2018,https://www.eliteprospects.com/player/496551/brennan-nadeau,brennan-nadeau,CCHL2
+Regular Season,Tye Austin,1,4.0,0.909,ARN,6848,413682,2017-2018,https://www.eliteprospects.com/player/413682/tye-austin,tye-austin,CCHL2
+Regular Season,Patrick Kealey,16,3.49,0.904,ARN,6848,254451,2017-2018,https://www.eliteprospects.com/player/254451/patrick-kealey,patrick-kealey,CCHL2
+Regular Season,Mitchell Rukavina,28,4.69,0.8759999999999999,ARN,6848,300807,2017-2018,https://www.eliteprospects.com/player/300807/mitchell-rukavina,mitchell-rukavina,CCHL2
+Regular Season,J.P. Donnelly,9,5.68,0.86,ARN,6848,507032,2017-2018,https://www.eliteprospects.com/player/507032/j.p.-donnelly,j.p.-donnelly,CCHL2
+Regular Season,Braydon Prince,1,7.0,0.841,ARN,6848,608662,2017-2018,https://www.eliteprospects.com/player/608662/braydon-prince,braydon-prince,CCHL2
+Regular Season,Curtis Hanspiker,35,3.42,0.909,ATH,3518,326454,2017-2018,https://www.eliteprospects.com/player/326454/curtis-hanspiker,curtis-hanspiker,CCHL2
+Regular Season,Cameron Millar,1,3.0,0.9,ATH,3518,608661,2017-2018,https://www.eliteprospects.com/player/608661/cameron-millar,cameron-millar,CCHL2
+Regular Season,Aidan Ethier,22,3.89,0.883,ATH,3518,254394,2017-2018,https://www.eliteprospects.com/player/254394/aidan-ethier,aidan-ethier,CCHL2
+Regular Season,Shea Spanier,27,5.81,0.878,BRO,5683,349141,2017-2018,https://www.eliteprospects.com/player/349141/shea-spanier,shea-spanier,CCHL2
+Regular Season,Nick DeAntonio,14,4.69,0.8759999999999999,BRO,5683,393437,2017-2018,https://www.eliteprospects.com/player/393437/nick-deantonio,nick-deantonio,CCHL2
+Regular Season,Connor McNair,19,6.54,0.8590000000000001,BRO,5683,509653,2017-2018,https://www.eliteprospects.com/player/509653/connor-mcnair,connor-mcnair,CCHL2
+Regular Season,Brandon White,2,8.74,0.813,BRO,5683,413837,2017-2018,https://www.eliteprospects.com/player/413837/brandon-white,brandon-white,CCHL2
+Regular Season,Vincent Bujold-Roux,26,2.17,0.9259999999999999,CAR,24541,469902,2017-2018,https://www.eliteprospects.com/player/469902/vincent-bujold-roux,vincent-bujold-roux,CCHL2
+Regular Season,Jacob Lavergne,26,2.79,0.894,CAR,24541,302115,2017-2018,https://www.eliteprospects.com/player/302115/jacob-lavergne,jacob-lavergne,CCHL2
+Regular Season,Tom Meyerhans,4,1.13,0.9590000000000001,CAS,6354,402552,2017-2018,https://www.eliteprospects.com/player/402552/tom-meyerhans,tom-meyerhans,CCHL2
+Regular Season,Zachary Paputsakis,25,2.13,0.927,CAS,6354,317458,2017-2018,https://www.eliteprospects.com/player/317458/zachary-paputsakis,zachary-paputsakis,CCHL2
+Regular Season,Nicholas Campbell,25,2.64,0.9,CAS,6354,299470,2017-2018,https://www.eliteprospects.com/player/299470/nicholas-campbell,nicholas-campbell,CCHL2
+Regular Season,Darien Johnson,6,3.89,0.895,CHA,6851,270764,2017-2018,https://www.eliteprospects.com/player/270764/darien-johnson,darien-johnson,CCHL2
+Regular Season,Craig Grant,27,4.23,0.88,CHA,6851,355020,2017-2018,https://www.eliteprospects.com/player/355020/craig-grant,craig-grant,CCHL2
+Regular Season,Dawson Irving,24,4.3,0.866,CHA,6851,355186,2017-2018,https://www.eliteprospects.com/player/355186/dawson-irving,dawson-irving,CCHL2
+Regular Season,Kyle Charette,2,2.33,0.9440000000000001,EMB,9755,355028,2017-2018,https://www.eliteprospects.com/player/355028/kyle-charette,kyle-charette,CCHL2
+Regular Season,Jean-Pascal Sabourin,31,2.58,0.914,EMB,9755,245340,2017-2018,https://www.eliteprospects.com/player/245340/jean-pascal-sabourin,jean-pascal-sabourin,CCHL2
+Regular Season,Jean-Sébastien Gratton,23,3.05,0.898,EMB,9755,299436,2017-2018,https://www.eliteprospects.com/player/299436/jean-sebastien-gratton,jean-sebastien-gratton,CCHL2
+Regular Season,Ryan Whitehurst,36,2.51,0.917,OTT,7155,442091,2017-2018,https://www.eliteprospects.com/player/442091/ryan-whitehurst,ryan-whitehurst,CCHL2
+Regular Season,Bennett Oxborough,11,3.02,0.898,OTT,7155,400145,2017-2018,https://www.eliteprospects.com/player/400145/bennett-oxborough,bennett-oxborough,CCHL2
+Regular Season,J.P. Donnelly,6,3.18,0.877,OTT,7155,507032,2017-2018,https://www.eliteprospects.com/player/507032/j.p.-donnelly,j.p.-donnelly,CCHL2
+Regular Season,Christopher Cuglietta,18,3.36,0.9079999999999999,OTT,6850,299485,2017-2018,https://www.eliteprospects.com/player/299485/christopher-cuglietta,christopher-cuglietta,CCHL2
+Regular Season,Cameron Iob,28,2.81,0.9059999999999999,OTT,6850,299486,2017-2018,https://www.eliteprospects.com/player/299486/cameron-iob,cameron-iob,CCHL2
+Regular Season,Cameron Parr,11,3.39,0.893,OTT,6850,253442,2017-2018,https://www.eliteprospects.com/player/253442/cameron-parr,cameron-parr,CCHL2
+Regular Season,Vincent Rivest,1,4.74,0.865,OTT,6850,405332,2017-2018,https://www.eliteprospects.com/player/405332/vincent-rivest,vincent-rivest,CCHL2
+Regular Season,Tom Meyerhans,2,2.4,0.9279999999999999,PER,6846,402552,2017-2018,https://www.eliteprospects.com/player/402552/tom-meyerhans,tom-meyerhans,CCHL2
+Regular Season,Jonathan Peacock,32,2.6,0.912,PER,6846,269352,2017-2018,https://www.eliteprospects.com/player/269352/jonathan-peacock,jonathan-peacock,CCHL2
+Regular Season,Cameron Scott,21,3.41,0.8759999999999999,PER,6846,354996,2017-2018,https://www.eliteprospects.com/player/354996/cameron-scott,cameron-scott,CCHL2
+Regular Season,Hayden Graboski,1,9.0,0.8,PER,6846,579180,2017-2018,https://www.eliteprospects.com/player/579180/hayden-graboski,hayden-graboski,CCHL2
+Regular Season,Dane Brumm,20,3.55,0.892,REN,6434,254450,2017-2018,https://www.eliteprospects.com/player/254450/dane-brumm,dane-brumm,CCHL2
+Regular Season,Bennett Oxborough,12,4.07,0.887,REN,6434,400145,2017-2018,https://www.eliteprospects.com/player/400145/bennett-oxborough,bennett-oxborough,CCHL2
+Regular Season,Ethan Lapenskie,23,4.23,0.875,REN,6434,469933,2017-2018,https://www.eliteprospects.com/player/469933/ethan-lapenskie,ethan-lapenskie,CCHL2
+Regular Season,Jonathan Lemaire,2,2.01,0.946,RIC,6849,479896,2017-2018,https://www.eliteprospects.com/player/479896/jonathan-lemaire,jonathan-lemaire,CCHL2
+Regular Season,William Anderson,17,3.9,0.899,RIC,6849,299502,2017-2018,https://www.eliteprospects.com/player/299502/william-anderson,william-anderson,CCHL2
+Regular Season,Jean-Philippe Tourigny,31,4.29,0.895,RIC,6849,398032,2017-2018,https://www.eliteprospects.com/player/398032/jean-philippe-tourigny,jean-philippe-tourigny,CCHL2
+Regular Season,Alexander Borrelli,4,6.38,0.847,RIC,6849,469936,2017-2018,https://www.eliteprospects.com/player/469936/alexander-borrelli,alexander-borrelli,CCHL2
+Regular Season,Kyle Renaud,1,1.0,0.968,WES,9701,300808,2017-2018,https://www.eliteprospects.com/player/300808/kyle-renaud,kyle-renaud,CCHL2
+Regular Season,Alex Zoutis,22,2.3,0.93,WES,9701,299570,2017-2018,https://www.eliteprospects.com/player/299570/alex-zoutis,alex-zoutis,CCHL2
+Regular Season,Eric Tessier,18,2.6,0.9259999999999999,WES,9701,416695,2017-2018,https://www.eliteprospects.com/player/416695/eric-tessier,eric-tessier,CCHL2
+Regular Season,Darien Johnson,8,2.97,0.9209999999999999,WES,9701,270764,2017-2018,https://www.eliteprospects.com/player/270764/darien-johnson,darien-johnson,CCHL2
+Regular Season,Lee Spurgeon,2,3.0,0.9059999999999999,WES,9701,298141,2017-2018,https://www.eliteprospects.com/player/298141/lee-spurgeon,lee-spurgeon,CCHL2
+Regular Season,Brody Bernard,1,5.0,0.833,WES,9701,317498,2017-2018,https://www.eliteprospects.com/player/317498/brody-bernard,brody-bernard,CCHL2
+Regular Season,Darian McTavish,18,3.74,0.8809999999999999,WHI,24543,355026,2017-2018,https://www.eliteprospects.com/player/355026/darian-mctavish,darian-mctavish,CCHL2
+Regular Season,Kevin Proulx,33,3.95,0.8809999999999999,WHI,24543,492946,2017-2018,https://www.eliteprospects.com/player/492946/kevin-proulx,kevin-proulx,CCHL2
+Regular Season,Darien Johnson,16,4.1,0.898,WIN,5867,270764,2017-2018,https://www.eliteprospects.com/player/270764/darien-johnson,darien-johnson,CCHL2
+Regular Season,Brent Pledge-Dickson,31,4.55,0.89,WIN,5867,325950,2017-2018,https://www.eliteprospects.com/player/325950/brent-pledge-dickson,brent-pledge-dickson,CCHL2
+Regular Season,Conor Lahey,9,5.71,0.868,WIN,5867,400394,2017-2018,https://www.eliteprospects.com/player/400394/conor-lahey,conor-lahey,CCHL2
+Regular Season,Nicholas Rousseau,32,3.4,0.9129999999999999,ALE,6623,299471,2018-2019,https://www.eliteprospects.com/player/299471/nicholas-rousseau,nicholas-rousseau,CCHL2
+Regular Season,Brennan Nadeau,16,3.78,0.898,ALE,6623,496551,2018-2019,https://www.eliteprospects.com/player/496551/brennan-nadeau,brennan-nadeau,CCHL2
+Regular Season,Cameron Scott,39,4.25,0.898,ARN,6848,354996,2018-2019,https://www.eliteprospects.com/player/354996/cameron-scott,cameron-scott,CCHL2
+Regular Season,Braydon Prince,13,6.36,0.861,ARN,6848,608662,2018-2019,https://www.eliteprospects.com/player/608662/braydon-prince,braydon-prince,CCHL2
+Regular Season,Mitchell Rukavina,22,3.48,0.912,ATH,3518,300807,2018-2019,https://www.eliteprospects.com/player/300807/mitchell-rukavina,mitchell-rukavina,CCHL2
+Regular Season,Curtis Hanspiker,8,3.59,0.9,ATH,3518,326454,2018-2019,https://www.eliteprospects.com/player/326454/curtis-hanspiker,curtis-hanspiker,CCHL2
+Regular Season,Emerson Hunt,11,4.9,0.878,ATH,3518,508818,2018-2019,https://www.eliteprospects.com/player/508818/emerson-hunt,emerson-hunt,CCHL2
+Regular Season,Morgan Penwell,8,5.39,0.858,ATH,3518,568131,2018-2019,https://www.eliteprospects.com/player/568131/morgan-penwell,morgan-penwell,CCHL2
+Regular Season,Theo Heropoulas,4,2.46,0.912,BRO,5683,559930,2018-2019,https://www.eliteprospects.com/player/559930/theo-heropoulas,theo-heropoulas,CCHL2
+Regular Season,Jordan Yaremchuk,20,2.96,0.907,BRO,5683,397422,2018-2019,https://www.eliteprospects.com/player/397422/jordan-yaremchuk,jordan-yaremchuk,CCHL2
+Regular Season,Brayden Kelso,15,3.08,0.9,BRO,5683,424395,2018-2019,https://www.eliteprospects.com/player/424395/brayden-kelso,brayden-kelso,CCHL2
+Regular Season,Paolo Suppa,4,3.16,0.871,BRO,5683,566773,2018-2019,https://www.eliteprospects.com/player/566773/paolo-suppa,paolo-suppa,CCHL2
+Regular Season,Owen Bennett,29,2.48,0.909,CAR,24541,504057,2018-2019,https://www.eliteprospects.com/player/504057/owen-bennett,owen-bennett,CCHL2
+Regular Season,Brody Bernard,17,3.03,0.905,CAR,24541,317498,2018-2019,https://www.eliteprospects.com/player/317498/brody-bernard,brody-bernard,CCHL2
+Regular Season,Brady McEwan,1,5.51,0.8859999999999999,CAR,24541,479814,2018-2019,https://www.eliteprospects.com/player/479814/brady-mcewan,brady-mcewan,CCHL2
+Regular Season,Mathieu Chenier,19,2.36,0.9179999999999999,CAS,6354,475660,2018-2019,https://www.eliteprospects.com/player/475660/mathieu-chenier,mathieu-chenier,CCHL2
+Regular Season,Nicholas Campbell,26,2.83,0.907,CAS,6354,299470,2018-2019,https://www.eliteprospects.com/player/299470/nicholas-campbell,nicholas-campbell,CCHL2
+Regular Season,Zachari Racine,1,5.0,0.821,CAS,6354,479859,2018-2019,https://www.eliteprospects.com/player/479859/zachari-racine,zachari-racine,CCHL2
+Regular Season,Dawson Irving,11,2.54,0.9279999999999999,CHA,6851,355186,2018-2019,https://www.eliteprospects.com/player/355186/dawson-irving,dawson-irving,CCHL2
+Regular Season,Craig Grant,24,3.79,0.897,CHA,6851,355020,2018-2019,https://www.eliteprospects.com/player/355020/craig-grant,craig-grant,CCHL2
+Regular Season,Julien Cholette,14,3.94,0.887,CHA,6851,336932,2018-2019,https://www.eliteprospects.com/player/336932/julien-cholette,julien-cholette,CCHL2
+Regular Season,Danik Martin,1,7.01,0.826,CHA,6851,509118,2018-2019,https://www.eliteprospects.com/player/509118/danik-martin,danik-martin,CCHL2
+Regular Season,Joshua Ivanski,22,3.78,0.894,EMB,9755,339167,2018-2019,https://www.eliteprospects.com/player/339167/joshua-ivanski,joshua-ivanski,CCHL2
+Regular Season,Cody MacEachern,23,3.69,0.89,EMB,9755,317483,2018-2019,https://www.eliteprospects.com/player/317483/cody-maceachern,cody-maceachern,CCHL2
+Regular Season,Ryan Whitehurst,28,1.89,0.9279999999999999,OTT,7155,442091,2018-2019,https://www.eliteprospects.com/player/442091/ryan-whitehurst,ryan-whitehurst,CCHL2
+Regular Season,Conor Corrigan,16,2.0,0.919,OTT,7155,300746,2018-2019,https://www.eliteprospects.com/player/300746/conor-corrigan,conor-corrigan,CCHL2
+Regular Season,Miguel Daoust,21,2.7,0.912,OTT,6850,400374,2018-2019,https://www.eliteprospects.com/player/400374/miguel-daoust,miguel-daoust,CCHL2
+Regular Season,Mitchell Bown,25,2.84,0.9,OTT,6850,283765,2018-2019,https://www.eliteprospects.com/player/283765/mitchell-bown,mitchell-bown,CCHL2
+Regular Season,A.J. Lariviere,2,4.5,0.85,OTT,6850,426788,2018-2019,https://www.eliteprospects.com/player/426788/a.j.-lariviere,a.j.-lariviere,CCHL2
+Regular Season,Noah Bascelli,1,9.0,0.7,OTT,6850,575892,2018-2019,https://www.eliteprospects.com/player/575892/noah-bascelli,noah-bascelli,CCHL2
+Regular Season,Justin Lafrance,0,0.0,0.0,OTT,6850,479874,2018-2019,https://www.eliteprospects.com/player/479874/justin-lafrance,justin-lafrance,CCHL2
+Regular Season,Darien Johnson,12,2.12,0.922,PER,6846,270764,2018-2019,https://www.eliteprospects.com/player/270764/darien-johnson,darien-johnson,CCHL2
+Regular Season,Jonathan Peacock,32,2.55,0.9179999999999999,PER,6846,269352,2018-2019,https://www.eliteprospects.com/player/269352/jonathan-peacock,jonathan-peacock,CCHL2
+Regular Season,Nathan Cheung,8,2.96,0.885,PER,6846,496545,2018-2019,https://www.eliteprospects.com/player/496545/nathan-cheung,nathan-cheung,CCHL2
+Regular Season,Ethan Lapenskie,31,3.77,0.89,REN,6434,469933,2018-2019,https://www.eliteprospects.com/player/469933/ethan-lapenskie,ethan-lapenskie,CCHL2
+Regular Season,Tyler Austin,3,4.8,0.89,REN,6434,317517,2018-2019,https://www.eliteprospects.com/player/317517/tyler-austin,tyler-austin,CCHL2
+Regular Season,Kyle Renaud,9,5.25,0.871,REN,6434,300808,2018-2019,https://www.eliteprospects.com/player/300808/kyle-renaud,kyle-renaud,CCHL2
+Regular Season,Daniel Christea,5,5.69,0.857,REN,6434,609383,2018-2019,https://www.eliteprospects.com/player/609383/daniel-christea,daniel-christea,CCHL2
+Regular Season,Eric Tessier,25,4.87,0.889,RIC,6849,416695,2018-2019,https://www.eliteprospects.com/player/416695/eric-tessier,eric-tessier,CCHL2
+Regular Season,Nicolas Redmond,21,5.35,0.862,RIC,6849,356088,2018-2019,https://www.eliteprospects.com/player/356088/nicolas-redmond,nicolas-redmond,CCHL2
+Regular Season,Alex Miotla,1,4.62,0.8440000000000001,RIC,6849,414440,2018-2019,https://www.eliteprospects.com/player/414440/alex-miotla,alex-miotla,CCHL2
+Regular Season,Kyle Stacey,1,6.0,0.8240000000000001,RIC,6849,678916,2018-2019,https://www.eliteprospects.com/player/678916/kyle-stacey,kyle-stacey,CCHL2
+Regular Season,Liam White,3,6.47,0.818,RIC,6849,470255,2018-2019,https://www.eliteprospects.com/player/470255/liam-white,liam-white,CCHL2
+Regular Season,Patrick Leaver,1,1.92,0.941,WES,9701,479813,2018-2019,https://www.eliteprospects.com/player/479813/patrick-leaver,patrick-leaver,CCHL2
+Regular Season,Alex Zoutis,25,3.48,0.9159999999999999,WES,9701,299570,2018-2019,https://www.eliteprospects.com/player/299570/alex-zoutis,alex-zoutis,CCHL2
+Regular Season,Kaleb Griffin,20,3.38,0.915,WES,9701,424237,2018-2019,https://www.eliteprospects.com/player/424237/kaleb-griffin,kaleb-griffin,CCHL2
+Regular Season,Bennett Oxborough,12,4.02,0.904,WHI,24543,400145,2018-2019,https://www.eliteprospects.com/player/400145/bennett-oxborough,bennett-oxborough,CCHL2
+Regular Season,Kevin Proulx,27,3.75,0.902,WHI,24543,492946,2018-2019,https://www.eliteprospects.com/player/492946/kevin-proulx,kevin-proulx,CCHL2
+Regular Season,Anthony Kervin,11,5.41,0.848,WHI,24543,483366,2018-2019,https://www.eliteprospects.com/player/483366/anthony-kervin,anthony-kervin,CCHL2
+Regular Season,Lucas de Vries,8,3.63,0.925,WIN,5867,509670,2018-2019,https://www.eliteprospects.com/player/509670/lucas-de-vries,lucas-de-vries,CCHL2
+Regular Season,Darien Johnson,9,3.92,0.922,WIN,5867,270764,2018-2019,https://www.eliteprospects.com/player/270764/darien-johnson,darien-johnson,CCHL2
+Regular Season,Brent Pledge-Dickson,30,4.02,0.9059999999999999,WIN,5867,325950,2018-2019,https://www.eliteprospects.com/player/325950/brent-pledge-dickson,brent-pledge-dickson,CCHL2
+Regular Season,Nathan Cheung,2,7.0,0.8290000000000001,WIN,5867,496545,2018-2019,https://www.eliteprospects.com/player/496545/nathan-cheung,nathan-cheung,CCHL2
+Regular Season,Joshua Ivanski,1,0.0,1.0,ALE,6623,339167,2019-2020,https://www.eliteprospects.com/player/339167/joshua-ivanski,joshua-ivanski,CCHL2
+Regular Season,Nicholas Rousseau,11,3.1,0.9179999999999999,ALE,6623,299471,2019-2020,https://www.eliteprospects.com/player/299471/nicholas-rousseau,nicholas-rousseau,CCHL2
+Regular Season,Tyler Desjardins,15,3.9,0.8809999999999999,ALE,6623,507610,2019-2020,https://www.eliteprospects.com/player/507610/tyler-desjardins,tyler-desjardins,CCHL2
+Regular Season,Danik Martin,20,5.2,0.866,ALE,6623,509118,2019-2020,https://www.eliteprospects.com/player/509118/danik-martin,danik-martin,CCHL2
+Regular Season,Henri Creighton,3,5.96,0.845,ALE,6623,649901,2019-2020,https://www.eliteprospects.com/player/649901/henri-creighton,henri-creighton,CCHL2
+Regular Season,Cameron Scott,36,3.4,0.912,ARN,6848,354996,2019-2020,https://www.eliteprospects.com/player/354996/cameron-scott,cameron-scott,CCHL2
+Regular Season,Braydon Prince,10,5.37,0.863,ARN,6848,608662,2019-2020,https://www.eliteprospects.com/player/608662/braydon-prince,braydon-prince,CCHL2
+Regular Season,Anthony Kervin,2,5.36,0.927,ATH,3518,483366,2019-2020,https://www.eliteprospects.com/player/483366/anthony-kervin,anthony-kervin,CCHL2
+Regular Season,Matthew Maas,8,4.06,0.9179999999999999,ATH,3518,564103,2019-2020,https://www.eliteprospects.com/player/564103/matthew-maas,matthew-maas,CCHL2
+Regular Season,Justin Lafrance,17,5.13,0.895,ATH,3518,479874,2019-2020,https://www.eliteprospects.com/player/479874/justin-lafrance,justin-lafrance,CCHL2
+Regular Season,Hayden Graboski,8,5.31,0.888,ATH,3518,579180,2019-2020,https://www.eliteprospects.com/player/579180/hayden-graboski,hayden-graboski,CCHL2
+Regular Season,Ross Furgiuele,15,5.89,0.866,ATH,3518,718045,2019-2020,https://www.eliteprospects.com/player/718045/ross-furgiuele,ross-furgiuele,CCHL2
+Regular Season,Brayden Kelso,28,3.18,0.9129999999999999,BRO,5683,424395,2019-2020,https://www.eliteprospects.com/player/424395/brayden-kelso,brayden-kelso,CCHL2
+Regular Season,Nicholas Ciccarelli,17,3.09,0.9109999999999999,BRO,5683,503258,2019-2020,https://www.eliteprospects.com/player/503258/nicholas-ciccarelli,nicholas-ciccarelli,CCHL2
+Regular Season,Philippe MacNab,4,3.76,0.8909999999999999,BRO,5683,722284,2019-2020,https://www.eliteprospects.com/player/722284/philippe-macnab,philippe-macnab,CCHL2
+Regular Season,Brady McEwan,1,2.58,0.9229999999999999,CAR,24541,479814,2019-2020,https://www.eliteprospects.com/player/479814/brady-mcewan,brady-mcewan,CCHL2
+Regular Season,Bradley Mitchell,20,2.98,0.888,CAR,24541,718046,2019-2020,https://www.eliteprospects.com/player/718046/bradley-mitchell,bradley-mitchell,CCHL2
+Regular Season,Brody Bernard,31,3.15,0.884,CAR,24541,317498,2019-2020,https://www.eliteprospects.com/player/317498/brody-bernard,brody-bernard,CCHL2
+Regular Season,Charlie Schenkel,1,4.35,0.9,CAS,6354,535827,2019-2020,https://www.eliteprospects.com/player/535827/charlie-schenkel,charlie-schenkel,CCHL2
+Regular Season,Nicholas Campbell,26,2.96,0.8909999999999999,CAS,6354,299470,2019-2020,https://www.eliteprospects.com/player/299470/nicholas-campbell,nicholas-campbell,CCHL2
+Regular Season,Zachari Racine,19,3.5,0.8740000000000001,CAS,6354,479859,2019-2020,https://www.eliteprospects.com/player/479859/zachari-racine,zachari-racine,CCHL2
+Regular Season,Jackson Parsons,3,2.79,0.919,CHA,6851,526085,2019-2020,https://www.eliteprospects.com/player/526085/jackson-parsons,jackson-parsons,CCHL2
+Regular Season,Ceili Picard,19,3.62,0.895,CHA,6851,479784,2019-2020,https://www.eliteprospects.com/player/479784/ceili-picard,ceili-picard,CCHL2
+Regular Season,Dawson Irving,3,3.67,0.8909999999999999,CHA,6851,355186,2019-2020,https://www.eliteprospects.com/player/355186/dawson-irving,dawson-irving,CCHL2
+Regular Season,Devon Popp,11,3.5,0.858,CHA,6851,580648,2019-2020,https://www.eliteprospects.com/player/580648/devon-popp,devon-popp,CCHL2
+Regular Season,Cole Eakins,7,4.64,0.856,CHA,6851,631356,2019-2020,https://www.eliteprospects.com/player/631356/cole-eakins,cole-eakins,CCHL2
+Regular Season,Summy Mughal,12,4.64,0.852,CHA,6851,336806,2019-2020,https://www.eliteprospects.com/player/336806/summy-mughal,summy-mughal,CCHL2
+Regular Season,William Nguyen,28,2.06,0.943,EMB,9755,413656,2019-2020,https://www.eliteprospects.com/player/413656/william-nguyen,william-nguyen,CCHL2
+Regular Season,Felix Schnell,3,2.0,0.94,EMB,9755,509152,2019-2020,https://www.eliteprospects.com/player/509152/felix-schnell,felix-schnell,CCHL2
+Regular Season,Marco Latassa,10,2.75,0.925,EMB,9755,201935,2019-2020,https://www.eliteprospects.com/player/201935/marco-latassa,marco-latassa,CCHL2
+Regular Season,Joshua Paradis,2,2.5,0.909,EMB,9755,684470,2019-2020,https://www.eliteprospects.com/player/684470/joshua-paradis,joshua-paradis,CCHL2
+Regular Season,Joshua Ivanski,1,2.0,0.9,EMB,9755,339167,2019-2020,https://www.eliteprospects.com/player/339167/joshua-ivanski,joshua-ivanski,CCHL2
+Regular Season,Ty Lalonde,0,0.0,0.0,EMB,9755,575649,2019-2020,https://www.eliteprospects.com/player/575649/ty-lalonde,ty-lalonde,CCHL2
+Regular Season,Caleb Gervais,0,0.0,0.0,EMB,9755,409637,2019-2020,https://www.eliteprospects.com/player/409637/caleb-gervais,caleb-gervais,CCHL2
+Regular Season,Ryan Whitehurst,26,2.29,0.935,OTT,7155,442091,2019-2020,https://www.eliteprospects.com/player/442091/ryan-whitehurst,ryan-whitehurst,CCHL2
+Regular Season,Conor Corrigan,18,2.97,0.9059999999999999,OTT,7155,300746,2019-2020,https://www.eliteprospects.com/player/300746/conor-corrigan,conor-corrigan,CCHL2
+Regular Season,William McEvoy,20,2.07,0.9229999999999999,OTT,6850,413653,2019-2020,https://www.eliteprospects.com/player/413653/william-mcevoy,william-mcevoy,CCHL2
+Regular Season,Brent Pledge-Dickson,24,2.55,0.919,OTT,6850,325950,2019-2020,https://www.eliteprospects.com/player/325950/brent-pledge-dickson,brent-pledge-dickson,CCHL2
+Regular Season,Connor Shibley,0,0.0,0.0,OTT,6850,479782,2019-2020,https://www.eliteprospects.com/player/479782/connor-shibley,connor-shibley,CCHL2
+Regular Season,Colby Drummond,1,2.92,0.935,PER,6846,336916,2019-2020,https://www.eliteprospects.com/player/336916/colby-drummond,colby-drummond,CCHL2
+Regular Season,Alex Zoutis,33,2.46,0.92,PER,6846,299570,2019-2020,https://www.eliteprospects.com/player/299570/alex-zoutis,alex-zoutis,CCHL2
+Regular Season,Justin Lafrance,7,3.01,0.9009999999999999,PER,6846,479874,2019-2020,https://www.eliteprospects.com/player/479874/justin-lafrance,justin-lafrance,CCHL2
+Regular Season,Matthew Maas,6,2.85,0.898,PER,6846,564103,2019-2020,https://www.eliteprospects.com/player/564103/matthew-maas,matthew-maas,CCHL2
+Regular Season,Dylan Dallaire,22,2.86,0.915,REN,6434,485883,2019-2020,https://www.eliteprospects.com/player/485883/dylan-dallaire,dylan-dallaire,CCHL2
+Regular Season,Ethan Lapenskie,25,3.01,0.907,REN,6434,469933,2019-2020,https://www.eliteprospects.com/player/469933/ethan-lapenskie,ethan-lapenskie,CCHL2
+Regular Season,Ryan Broome,1,0.0,0.0,REN,6434,747472,2019-2020,https://www.eliteprospects.com/player/747472/ryan-broome,ryan-broome,CCHL2
+Regular Season,Josh Lacelle,25,4.21,0.905,RIC,6849,676688,2019-2020,https://www.eliteprospects.com/player/676688/josh-lacelle,josh-lacelle,CCHL2
+Regular Season,Darien Johnson,26,4.8,0.892,RIC,6849,270764,2019-2020,https://www.eliteprospects.com/player/270764/darien-johnson,darien-johnson,CCHL2
+Regular Season,Anton Moshchensky,0,0.0,0.0,RIC,6849,509034,2019-2020,https://www.eliteprospects.com/player/509034/anton-moshchensky,anton-moshchensky,CCHL2
+Regular Season,Patrick Leaver,27,2.75,0.92,WES,9701,479813,2019-2020,https://www.eliteprospects.com/player/479813/patrick-leaver,patrick-leaver,CCHL2
+Regular Season,Kaleb Griffin,22,3.39,0.899,WES,9701,424237,2019-2020,https://www.eliteprospects.com/player/424237/kaleb-griffin,kaleb-griffin,CCHL2
+Regular Season,Joseph Weise,28,3.75,0.899,WHI,24543,525066,2019-2020,https://www.eliteprospects.com/player/525066/joseph-weise,joseph-weise,CCHL2
+Regular Season,Darian McTavish,5,3.46,0.887,WHI,24543,355026,2019-2020,https://www.eliteprospects.com/player/355026/darian-mctavish,darian-mctavish,CCHL2
+Regular Season,Andrew Cristea,3,6.76,0.865,WHI,24543,479781,2019-2020,https://www.eliteprospects.com/player/479781/andrew-cristea,andrew-cristea,CCHL2
+Regular Season,Connor Carroll,14,5.47,0.847,WHI,24543,509175,2019-2020,https://www.eliteprospects.com/player/509175/connor-carroll,connor-carroll,CCHL2
+Regular Season,Lucas de Vries,28,3.34,0.9109999999999999,WIN,5867,509670,2019-2020,https://www.eliteprospects.com/player/509670/lucas-de-vries,lucas-de-vries,CCHL2
+Regular Season,Cole Defazio,21,3.97,0.9059999999999999,WIN,5867,710709,2019-2020,https://www.eliteprospects.com/player/710709/cole-defazio,cole-defazio,CCHL2
+EOJHL,Tyler Desjardins,0,0.0,0.0,ALE,6623,507610,2020-2021,https://www.eliteprospects.com/player/507610/tyler-desjardins,tyler-desjardins,CCHL2
+EOJHL,Tanner Gillies,0,0.0,0.0,ALE,6623,479860,2020-2021,https://www.eliteprospects.com/player/479860/tanner-gillies,tanner-gillies,CCHL2
+EOJHL,Sebastien Quesnel,0,0.0,0.0,ALE,6623,413639,2020-2021,https://www.eliteprospects.com/player/413639/sebastien-quesnel,sebastien-quesnel,CCHL2
+EOJHL,Braydon Prince,0,0.0,0.0,ARN,6848,608662,2020-2021,https://www.eliteprospects.com/player/608662/braydon-prince,braydon-prince,CCHL2
+EOJHL,Porter Robertson,0,0.0,0.0,ARN,6848,508973,2020-2021,https://www.eliteprospects.com/player/508973/porter-robertson,porter-robertson,CCHL2
+EOJHL,Jett Miller,0,0.0,0.0,ARN,6848,673051,2020-2021,https://www.eliteprospects.com/player/673051/jett-miller,jett-miller,CCHL2
+EOJHL,Anton Moshchensky,0,0.0,0.0,ATH,3518,509034,2020-2021,https://www.eliteprospects.com/player/509034/anton-moshchensky,anton-moshchensky,CCHL2
+EOJHL,Emerson Hunt,0,0.0,0.0,ATH,3518,508818,2020-2021,https://www.eliteprospects.com/player/508818/emerson-hunt,emerson-hunt,CCHL2
+Regular Season,Jordan Papirny,54,2.61,0.91,BRA,857,84239,2015-2016,https://www.eliteprospects.com/player/84239/jordan-papirny,jordan-papirny,WHL
+Regular Season,Logan Thompson,23,2.63,0.898,BRA,857,161070,2015-2016,https://www.eliteprospects.com/player/161070/logan-thompson,logan-thompson,WHL
+M-Cup,Jordan Papirny,3,5.16,0.8390000000000001,BRA,857,84239,2015-2016,https://www.eliteprospects.com/player/84239/jordan-papirny,jordan-papirny,WHL
+M-Cup,Logan Thompson,1,6.0,0.6,BRA,857,161070,2015-2016,https://www.eliteprospects.com/player/161070/logan-thompson,logan-thompson,WHL
+Regular Season,Brendan Burke,7,1.97,0.9309999999999999,CAL,576,118579,2015-2016,https://www.eliteprospects.com/player/118579/brendan-burke,brendan-burke,WHL
+Regular Season,Nik Amundrud,21,2.53,0.899,CAL,576,199900,2015-2016,https://www.eliteprospects.com/player/199900/nik-amundrud,nik-amundrud,WHL
+Regular Season,Cody Porter,41,2.98,0.885,CAL,576,202388,2015-2016,https://www.eliteprospects.com/player/202388/cody-porter,cody-porter,WHL
+Regular Season,Lasse M. Petersen,7,3.13,0.879,CAL,576,206837,2015-2016,https://www.eliteprospects.com/player/206837/lasse-m.-petersen,lasse-m.-petersen,WHL
+Regular Season,Kyle Dumba,10,4.3,0.857,CAL,576,161089,2015-2016,https://www.eliteprospects.com/player/161089/kyle-dumba,kyle-dumba,WHL
+Regular Season,Patrick Dea,46,3.01,0.895,EDM,1783,131330,2015-2016,https://www.eliteprospects.com/player/131330/patrick-dea,patrick-dea,WHL
+Regular Season,Payton Lee,28,3.36,0.882,EDM,1783,155968,2015-2016,https://www.eliteprospects.com/player/155968/payton-lee,payton-lee,WHL
+Regular Season,Alec Dillon,7,3.81,0.871,EDM,1783,120757,2015-2016,https://www.eliteprospects.com/player/120757/alec-dillon,alec-dillon,WHL
+Regular Season,Carter Phair,1,3.0,0.833,EDM,1783,200708,2015-2016,https://www.eliteprospects.com/player/200708/carter-phair,carter-phair,WHL
+Regular Season,Connor Ingram,61,2.61,0.922,KAM,725,200675,2015-2016,https://www.eliteprospects.com/player/200675/connor-ingram,connor-ingram,WHL
+Regular Season,Dylan Ferguson,16,4.13,0.875,KAM,725,247471,2015-2016,https://www.eliteprospects.com/player/247471/dylan-ferguson,dylan-ferguson,WHL
+Regular Season,Cole Kehler,0,0.0,0.0,KAM,725,199938,2015-2016,https://www.eliteprospects.com/player/199938/cole-kehler,cole-kehler,WHL

@@ -1,0 +1,337 @@
+team,teamid,season,shortname,league,url,gp,w,t,l,otw,otl,gf,ga,gd,tp
+ Akwesasne Wolves,5684,2005-2006,akwesasne-wolves,CCHL2,https://www.eliteprospects.com/team/5684/akwesasne-wolves/2005-2006,45,1,1.0,42,0.0,1,136,375,-239,4
+ Alexandria Glens,6623,2005-2006,alexandria-glens,CCHL2,https://www.eliteprospects.com/team/6623/alexandria-glens/2005-2006,45,30,3.0,11,0.0,1,248,163,85,64
+ Arnprior Packers,6848,2005-2006,arnprior-packers,CCHL2,https://www.eliteprospects.com/team/6848/arnprior-packers/2005-2006,40,5,2.0,33,0.0,0,110,226,-116,12
+ Athens Aeros,3518,2005-2006,athens-aeros,CCHL2,https://www.eliteprospects.com/team/3518/athens-aeros/2005-2006,42,7,2.0,32,0.0,1,164,308,-144,17
+ Brockville Tikis,5683,2005-2006,brockville-tikis,CCHL2,https://www.eliteprospects.com/team/5683/brockville-tikis/2005-2006,42,19,2.0,19,0.0,2,203,169,34,42
+ Carleton Place Kings,8670,2005-2006,carleton-place-kings,CCHL2,https://www.eliteprospects.com/team/8670/carleton-place-kings/2005-2006,40,19,2.0,17,0.0,2,166,151,15,42
+ Char-Lan Rebels,6851,2005-2006,char-lan-rebels,CCHL2,https://www.eliteprospects.com/team/6851/char-lan-rebels/2005-2006,45,16,2.0,24,0.0,3,203,261,-58,37
+ Clarence Beavers,24541,2005-2006,clarence-beavers,CCHL2,https://www.eliteprospects.com/team/24541/clarence-beavers/2005-2006,39,31,1.0,7,0.0,0,219,127,92,63
+ Gananoque Islanders,6240,2005-2006,gananoque-islanders,CCHL2,https://www.eliteprospects.com/team/6240/gananoque-islanders/2005-2006,42,14,2.0,23,0.0,3,206,217,-11,33
+ Gatineau Mustangs,10381,2005-2006,gatineau-mustangs,CCHL2,https://www.eliteprospects.com/team/10381/gatineau-mustangs/2005-2006,40,11,1.0,25,0.0,3,162,225,-63,26
+ Kemptville 73's,4349,2005-2006,kemptville-73-s,CCHL2,https://www.eliteprospects.com/team/4349/kemptville-73-s/2005-2006,45,31,0.0,12,0.0,2,293,196,97,64
+ Metcalfe Jets,6310,2005-2006,metcalfe-jets,CCHL2,https://www.eliteprospects.com/team/6310/metcalfe-jets/2005-2006,40,20,2.0,16,0.0,2,185,184,1,44
+ Morrisburg Lions,9176,2005-2006,morrisburg-lions,CCHL2,https://www.eliteprospects.com/team/9176/morrisburg-lions/2005-2006,45,25,2.0,17,0.0,1,265,220,45,53
+ Ottawa West Golden Knights,6850,2005-2006,ottawa-west-golden-knights,CCHL2,https://www.eliteprospects.com/team/6850/ottawa-west-golden-knights/2005-2006,39,27,2.0,9,0.0,1,187,124,63,57
+ Perth Blue Wings,6846,2005-2006,perth-blue-wings,CCHL2,https://www.eliteprospects.com/team/6846/perth-blue-wings/2005-2006,39,25,3.0,8,0.0,3,174,115,59,56
+ Renfrew Timberwolves,6434,2005-2006,renfrew-timberwolves,CCHL2,https://www.eliteprospects.com/team/6434/renfrew-timberwolves/2005-2006,40,20,0.0,18,0.0,2,148,157,-9,42
+ Shawville Pontiacs,6344,2005-2006,shawville-pontiacs,CCHL2,https://www.eliteprospects.com/team/6344/shawville-pontiacs/2005-2006,39,17,1.0,21,0.0,0,130,158,-28,35
+ South Grenville Rangers,24543,2005-2006,south-grenville-rangers,CCHL2,https://www.eliteprospects.com/team/24543/south-grenville-rangers/2005-2006,42,32,1.0,8,0.0,1,264,132,132,66
+ South Ottawa Canadians,7155,2005-2006,south-ottawa-canadians,CCHL2,https://www.eliteprospects.com/team/7155/south-ottawa-canadians/2005-2006,40,18,0.0,17,0.0,5,176,176,0,41
+ Stittsville Royals,6849,2005-2006,stittsville-royals,CCHL2,https://www.eliteprospects.com/team/6849/stittsville-royals/2005-2006,40,16,4.0,18,0.0,2,160,174,-14,38
+ Westport Rideaus,9701,2005-2006,westport-rideaus,CCHL2,https://www.eliteprospects.com/team/9701/westport-rideaus/2005-2006,42,35,1.0,5,0.0,1,323,154,169,72
+ Winchester Hawks,5867,2005-2006,winchester-hawks,CCHL2,https://www.eliteprospects.com/team/5867/winchester-hawks/2005-2006,45,22,4.0,18,0.0,1,182,196,-14,49
+ Akwesasne Wolves,5684,2006-2007,akwesasne-wolves,CCHL2,https://www.eliteprospects.com/team/5684/akwesasne-wolves/2006-2007,40,9,2.0,27,0.0,2,154,257,-103,22
+ Alexandria Glens,6623,2006-2007,alexandria-glens,CCHL2,https://www.eliteprospects.com/team/6623/alexandria-glens/2006-2007,40,30,3.0,5,0.0,2,263,145,118,65
+ Arnprior Packers,6848,2006-2007,arnprior-packers,CCHL2,https://www.eliteprospects.com/team/6848/arnprior-packers/2006-2007,40,8,3.0,28,0.0,1,142,238,-96,20
+ Athens Aeros,3518,2006-2007,athens-aeros,CCHL2,https://www.eliteprospects.com/team/3518/athens-aeros/2006-2007,44,13,5.0,26,0.0,0,169,229,-60,31
+ Brockville Tikis,5683,2006-2007,brockville-tikis,CCHL2,https://www.eliteprospects.com/team/5683/brockville-tikis/2006-2007,44,24,5.0,13,0.0,2,218,159,59,55
+ Carleton Place Kings,8670,2006-2007,carleton-place-kings,CCHL2,https://www.eliteprospects.com/team/8670/carleton-place-kings/2006-2007,40,13,5.0,20,0.0,2,159,204,-45,33
+ Char-Lan Rebels,6851,2006-2007,char-lan-rebels,CCHL2,https://www.eliteprospects.com/team/6851/char-lan-rebels/2006-2007,40,8,2.0,30,0.0,0,133,236,-103,18
+ Clarence Castors,24541,2006-2007,clarence-castors,CCHL2,https://www.eliteprospects.com/team/24541/clarence-castors/2006-2007,40,27,1.0,12,0.0,0,210,139,71,55
+ Gananoque Islanders,6240,2006-2007,gananoque-islanders,CCHL2,https://www.eliteprospects.com/team/6240/gananoque-islanders/2006-2007,44,24,2.0,16,0.0,2,205,171,34,52
+ Gatineau Mustangs,10381,2006-2007,gatineau-mustangs,CCHL2,https://www.eliteprospects.com/team/10381/gatineau-mustangs/2006-2007,40,25,0.0,14,0.0,1,229,164,65,51
+ Kemptville 73's,4349,2006-2007,kemptville-73-s,CCHL2,https://www.eliteprospects.com/team/4349/kemptville-73-s/2006-2007,40,21,2.0,15,0.0,2,217,179,38,46
+ Metcalfe Jets,6310,2006-2007,metcalfe-jets,CCHL2,https://www.eliteprospects.com/team/6310/metcalfe-jets/2006-2007,40,10,1.0,28,0.0,1,140,232,-92,22
+ Morrisburg Lions,9176,2006-2007,morrisburg-lions,CCHL2,https://www.eliteprospects.com/team/9176/morrisburg-lions/2006-2007,40,24,1.0,14,0.0,1,257,208,49,50
+ Ottawa West Golden Knights,6850,2006-2007,ottawa-west-golden-knights,CCHL2,https://www.eliteprospects.com/team/6850/ottawa-west-golden-knights/2006-2007,40,24,1.0,15,0.0,0,168,141,27,49
+ Perth Blue Wings,6846,2006-2007,perth-blue-wings,CCHL2,https://www.eliteprospects.com/team/6846/perth-blue-wings/2006-2007,40,18,2.0,17,0.0,3,156,165,-9,41
+ Renfrew Timberwolves,6434,2006-2007,renfrew-timberwolves,CCHL2,https://www.eliteprospects.com/team/6434/renfrew-timberwolves/2006-2007,40,18,3.0,18,0.0,1,175,158,17,40
+ Shawville Pontiacs,6344,2006-2007,shawville-pontiacs,CCHL2,https://www.eliteprospects.com/team/6344/shawville-pontiacs/2006-2007,40,23,1.0,13,0.0,3,204,172,32,50
+ South Grenville Rangers,24543,2006-2007,south-grenville-rangers,CCHL2,https://www.eliteprospects.com/team/24543/south-grenville-rangers/2006-2007,44,8,2.0,33,0.0,1,148,287,-139,19
+ South Ottawa Canadians,7155,2006-2007,south-ottawa-canadians,CCHL2,https://www.eliteprospects.com/team/7155/south-ottawa-canadians/2006-2007,40,24,1.0,14,0.0,1,216,155,61,50
+ Stittsville Royals,6849,2006-2007,stittsville-royals,CCHL2,https://www.eliteprospects.com/team/6849/stittsville-royals/2006-2007,40,23,1.0,13,0.0,3,204,172,32,50
+ Westport Rideaus,9701,2006-2007,westport-rideaus,CCHL2,https://www.eliteprospects.com/team/9701/westport-rideaus/2006-2007,44,24,5.0,14,0.0,1,211,167,44,54
+ Winchester Hawks,5867,2006-2007,winchester-hawks,CCHL2,https://www.eliteprospects.com/team/5867/winchester-hawks/2006-2007,40,30,1.0,9,0.0,0,225,162,63,61
+ Akwesasne Wolves,5684,2007-2008,akwesasne-wolves,CCHL2,https://www.eliteprospects.com/team/5684/akwesasne-wolves/2007-2008,41,5,3.0,32,0.0,1,114,202,-88,14
+ Alexandria Glens,6623,2007-2008,alexandria-glens,CCHL2,https://www.eliteprospects.com/team/6623/alexandria-glens/2007-2008,42,31,0.0,10,0.0,1,246,139,107,63
+ Arnprior Packers,6848,2007-2008,arnprior-packers,CCHL2,https://www.eliteprospects.com/team/6848/arnprior-packers/2007-2008,40,7,3.0,30,0.0,0,123,232,-109,17
+ Athens Aeros,3518,2007-2008,athens-aeros,CCHL2,https://www.eliteprospects.com/team/3518/athens-aeros/2007-2008,42,27,4.0,10,0.0,1,193,144,49,59
+ Brockville Tikis,5683,2007-2008,brockville-tikis,CCHL2,https://www.eliteprospects.com/team/5683/brockville-tikis/2007-2008,42,14,5.0,21,0.0,2,167,198,-31,35
+ Carleton Place Kings,8670,2007-2008,carleton-place-kings,CCHL2,https://www.eliteprospects.com/team/8670/carleton-place-kings/2007-2008,39,25,3.0,10,0.0,1,176,135,41,54
+ Char-Lan Rebels,6851,2007-2008,char-lan-rebels,CCHL2,https://www.eliteprospects.com/team/6851/char-lan-rebels/2007-2008,42,15,4.0,20,0.0,3,172,211,-39,37
+ Clarence Castors,24541,2007-2008,clarence-castors,CCHL2,https://www.eliteprospects.com/team/24541/clarence-castors/2007-2008,40,27,0.0,10,0.0,3,195,139,56,57
+ Gananoque Islanders,6240,2007-2008,gananoque-islanders,CCHL2,https://www.eliteprospects.com/team/6240/gananoque-islanders/2007-2008,42,21,3.0,17,0.0,1,171,166,5,46
+ Gatineau Mustangs,10381,2007-2008,gatineau-mustangs,CCHL2,https://www.eliteprospects.com/team/10381/gatineau-mustangs/2007-2008,39,28,1.0,8,0.0,2,238,121,117,59
+ Metcalfe Jets,6310,2007-2008,metcalfe-jets,CCHL2,https://www.eliteprospects.com/team/6310/metcalfe-jets/2007-2008,40,3,4.0,32,0.0,1,124,251,-127,11
+ Morrisburg Lions,9176,2007-2008,morrisburg-lions,CCHL2,https://www.eliteprospects.com/team/9176/morrisburg-lions/2007-2008,42,16,1.0,23,0.0,2,196,249,-53,35
+ Ottawa Jr. Canadians,7155,2007-2008,ottawa-jr.-canadians,CCHL2,https://www.eliteprospects.com/team/7155/ottawa-jr.-canadians/2007-2008,39,26,2.0,10,0.0,1,199,137,62,55
+ Ottawa West Golden Knights,6850,2007-2008,ottawa-west-golden-knights,CCHL2,https://www.eliteprospects.com/team/6850/ottawa-west-golden-knights/2007-2008,40,20,2.0,16,0.0,2,156,137,19,44
+ Perth Blue Wings,6846,2007-2008,perth-blue-wings,CCHL2,https://www.eliteprospects.com/team/6846/perth-blue-wings/2007-2008,40,21,3.0,16,0.0,0,140,144,-4,45
+ Renfrew Timberwolves,6434,2007-2008,renfrew-timberwolves,CCHL2,https://www.eliteprospects.com/team/6434/renfrew-timberwolves/2007-2008,40,11,4.0,25,0.0,0,147,202,-55,26
+ Shawville Pontiacs,6344,2007-2008,shawville-pontiacs,CCHL2,https://www.eliteprospects.com/team/6344/shawville-pontiacs/2007-2008,40,18,2.0,18,0.0,2,176,186,-10,40
+ South Grenville Rangers,24543,2007-2008,south-grenville-rangers,CCHL2,https://www.eliteprospects.com/team/24543/south-grenville-rangers/2007-2008,42,20,1.0,21,0.0,0,154,184,-30,41
+ Stittsville Royals,6849,2007-2008,stittsville-royals,CCHL2,https://www.eliteprospects.com/team/6849/stittsville-royals/2007-2008,40,18,2.0,18,0.0,2,176,186,-10,40
+ Westport Rideaus,9701,2007-2008,westport-rideaus,CCHL2,https://www.eliteprospects.com/team/9701/westport-rideaus/2007-2008,42,23,1.0,17,0.0,1,184,161,23,48
+ Winchester Hawks,5867,2007-2008,winchester-hawks,CCHL2,https://www.eliteprospects.com/team/5867/winchester-hawks/2007-2008,41,25,2.0,13,0.0,1,187,130,57,53
+ Alexandria Glens,6623,2008-2009,alexandria-glens,CCHL2,https://www.eliteprospects.com/team/6623/alexandria-glens/2008-2009,42,31,1.0,9,0.0,1,272,148,124,64
+ Arnprior Packers,6848,2008-2009,arnprior-packers,CCHL2,https://www.eliteprospects.com/team/6848/arnprior-packers/2008-2009,40,17,2.0,21,0.0,0,178,209,-31,36
+ Athens Aeros,3518,2008-2009,athens-aeros,CCHL2,https://www.eliteprospects.com/team/3518/athens-aeros/2008-2009,42,26,4.0,9,0.0,3,220,170,50,59
+ Brockville Tikis,5683,2008-2009,brockville-tikis,CCHL2,https://www.eliteprospects.com/team/5683/brockville-tikis/2008-2009,42,18,2.0,20,0.0,2,178,165,13,40
+ Carleton Place Kings,8670,2008-2009,carleton-place-kings,CCHL2,https://www.eliteprospects.com/team/8670/carleton-place-kings/2008-2009,40,28,4.0,6,0.0,2,201,116,85,62
+ Casselman Vikings,6354,2008-2009,casselman-vikings,CCHL2,https://www.eliteprospects.com/team/6354/casselman-vikings/2008-2009,42,30,2.0,9,0.0,1,270,180,90,63
+ Char-Lan Rebels,6851,2008-2009,char-lan-rebels,CCHL2,https://www.eliteprospects.com/team/6851/char-lan-rebels/2008-2009,42,25,1.0,15,0.0,1,207,161,46,52
+ Clarence Castors,24541,2008-2009,clarence-castors,CCHL2,https://www.eliteprospects.com/team/24541/clarence-castors/2008-2009,40,22,3.0,15,0.0,0,184,158,26,47
+ Gananoque Islanders,6240,2008-2009,gananoque-islanders,CCHL2,https://www.eliteprospects.com/team/6240/gananoque-islanders/2008-2009,42,17,3.0,20,0.0,2,169,185,-16,39
+ Gatineau Mustangs,10381,2008-2009,gatineau-mustangs,CCHL2,https://www.eliteprospects.com/team/10381/gatineau-mustangs/2008-2009,40,15,3.0,20,0.0,2,162,201,-39,35
+ Metcalfe Jets,6310,2008-2009,metcalfe-jets,CCHL2,https://www.eliteprospects.com/team/6310/metcalfe-jets/2008-2009,40,7,1.0,32,0.0,0,132,250,-118,15
+ Morrisburg Lions,9176,2008-2009,morrisburg-lions,CCHL2,https://www.eliteprospects.com/team/9176/morrisburg-lions/2008-2009,42,2,0.0,39,0.0,1,125,357,-232,5
+ Ottawa Jr. Canadians,7155,2008-2009,ottawa-jr.-canadians,CCHL2,https://www.eliteprospects.com/team/7155/ottawa-jr.-canadians/2008-2009,39,24,4.0,10,0.0,1,202,133,69,53
+ Ottawa West Golden Knights,6850,2008-2009,ottawa-west-golden-knights,CCHL2,https://www.eliteprospects.com/team/6850/ottawa-west-golden-knights/2008-2009,40,29,3.0,7,0.0,1,212,105,107,62
+ Perth Blue Wings,6846,2008-2009,perth-blue-wings,CCHL2,https://www.eliteprospects.com/team/6846/perth-blue-wings/2008-2009,39,11,3.0,20,0.0,5,125,149,-24,30
+ Renfrew Timberwolves,6434,2008-2009,renfrew-timberwolves,CCHL2,https://www.eliteprospects.com/team/6434/renfrew-timberwolves/2008-2009,40,10,6.0,23,0.0,1,141,220,-79,27
+ Shawville Pontiacs,6344,2008-2009,shawville-pontiacs,CCHL2,https://www.eliteprospects.com/team/6344/shawville-pontiacs/2008-2009,40,13,2.0,20,0.0,5,187,221,-34,33
+ South Grenville Rangers,24543,2008-2009,south-grenville-rangers,CCHL2,https://www.eliteprospects.com/team/24543/south-grenville-rangers/2008-2009,42,11,1.0,27,0.0,3,114,201,-87,26
+ Stittsville Royals,6849,2008-2009,stittsville-royals,CCHL2,https://www.eliteprospects.com/team/6849/stittsville-royals/2008-2009,40,26,3.0,11,0.0,0,198,160,38,55
+ Westport Rideaus,9701,2008-2009,westport-rideaus,CCHL2,https://www.eliteprospects.com/team/9701/westport-rideaus/2008-2009,42,20,1.0,17,0.0,4,218,212,6,45
+ Winchester Hawks,5867,2008-2009,winchester-hawks,CCHL2,https://www.eliteprospects.com/team/5867/winchester-hawks/2008-2009,42,21,3.0,16,0.0,2,181,175,6,47
+ Akwesasne Wolves,5684,2009-2010,akwesasne-wolves,CCHL2,https://www.eliteprospects.com/team/5684/akwesasne-wolves/2009-2010,40,4,2.0,32,0.0,2,140,284,-144,12
+ Alexandria Glens,6623,2009-2010,alexandria-glens,CCHL2,https://www.eliteprospects.com/team/6623/alexandria-glens/2009-2010,40,23,4.0,12,0.0,1,213,148,65,51
+ Almonte Thunder,6289,2009-2010,almonte-thunder,CCHL2,https://www.eliteprospects.com/team/6289/almonte-thunder/2009-2010,45,16,2.0,27,0.0,0,136,230,-94,34
+ Arnprior Packers,6848,2009-2010,arnprior-packers,CCHL2,https://www.eliteprospects.com/team/6848/arnprior-packers/2009-2010,45,21,5.0,17,0.0,2,175,171,4,49
+ Athens Aeros,3518,2009-2010,athens-aeros,CCHL2,https://www.eliteprospects.com/team/3518/athens-aeros/2009-2010,44,28,4.0,11,0.0,1,235,160,75,61
+ Brockville Tikis,5683,2009-2010,brockville-tikis,CCHL2,https://www.eliteprospects.com/team/5683/brockville-tikis/2009-2010,44,23,2.0,17,0.0,2,198,175,23,50
+ Casselman Vikings,6354,2009-2010,casselman-vikings,CCHL2,https://www.eliteprospects.com/team/6354/casselman-vikings/2009-2010,40,29,2.0,7,0.0,2,254,107,147,62
+ Char-Lan Rebels,6851,2009-2010,char-lan-rebels,CCHL2,https://www.eliteprospects.com/team/6851/char-lan-rebels/2009-2010,40,19,2.0,17,0.0,2,160,186,-26,42
+ Clarence Castors,24541,2009-2010,clarence-castors,CCHL2,https://www.eliteprospects.com/team/24541/clarence-castors/2009-2010,44,25,2.0,15,0.0,2,224,185,39,54
+ Ganonoque Islanders,6240,2009-2010,ganonoque-islanders,CCHL2,https://www.eliteprospects.com/team/6240/ganonoque-islanders/2009-2010,44,14,3.0,23,0.0,4,166,204,-38,35
+ Gatineau Mustangs,10381,2009-2010,gatineau-mustangs,CCHL2,https://www.eliteprospects.com/team/10381/gatineau-mustangs/2009-2010,44,27,2.0,14,0.0,1,217,155,62,57
+ Metcalfe Jets,6310,2009-2010,metcalfe-jets,CCHL2,https://www.eliteprospects.com/team/6310/metcalfe-jets/2009-2010,44,13,4.0,22,0.0,5,154,213,-59,35
+ Morrisburg Lions,9176,2009-2010,morrisburg-lions,CCHL2,https://www.eliteprospects.com/team/9176/morrisburg-lions/2009-2010,40,17,2.0,21,0.0,0,192,253,-61,36
+ Ottawa Jr. Canadians,7155,2009-2010,ottawa-jr.-canadians,CCHL2,https://www.eliteprospects.com/team/7155/ottawa-jr.-canadians/2009-2010,44,29,0.0,14,0.0,1,206,169,37,59
+ Ottawa West Golden Knights,6850,2009-2010,ottawa-west-golden-knights,CCHL2,https://www.eliteprospects.com/team/6850/ottawa-west-golden-knights/2009-2010,44,32,3.0,9,0.0,0,207,117,90,67
+ Perth Blue Wings,6846,2009-2010,perth-blue-wings,CCHL2,https://www.eliteprospects.com/team/6846/perth-blue-wings/2009-2010,45,23,6.0,13,0.0,3,191,143,48,55
+ Renfrew Timberwolves,6434,2009-2010,renfrew-timberwolves,CCHL2,https://www.eliteprospects.com/team/6434/renfrew-timberwolves/2009-2010,45,21,2.0,20,0.0,2,177,170,7,46
+ Shawville Pontiacs,6344,2009-2010,shawville-pontiacs,CCHL2,https://www.eliteprospects.com/team/6344/shawville-pontiacs/2009-2010,45,11,4.0,30,0.0,0,134,175,-41,26
+ South Grenville Rangers,24543,2009-2010,south-grenville-rangers,CCHL2,https://www.eliteprospects.com/team/24543/south-grenville-rangers/2009-2010,44,10,4.0,30,0.0,0,151,230,-79,24
+ Stittsville Royals,6849,2009-2010,stittsville-royals,CCHL2,https://www.eliteprospects.com/team/6849/stittsville-royals/2009-2010,45,11,4.0,30,0.0,0,134,175,-41,26
+ Westport Rideaus,9701,2009-2010,westport-rideaus,CCHL2,https://www.eliteprospects.com/team/9701/westport-rideaus/2009-2010,44,29,5.0,10,0.0,0,241,172,69,63
+ Winchester Hawks,5867,2009-2010,winchester-hawks,CCHL2,https://www.eliteprospects.com/team/5867/winchester-hawks/2009-2010,40,18,2.0,19,0.0,1,156,187,-31,39
+ Akwesasne Wolves,5684,2010-2011,akwesasne-wolves,CCHL2,https://www.eliteprospects.com/team/5684/akwesasne-wolves/2010-2011,42,12,1.0,24,0.0,5,164,218,-54,30
+ Alexandria Glens,6623,2010-2011,alexandria-glens,CCHL2,https://www.eliteprospects.com/team/6623/alexandria-glens/2010-2011,42,29,0.0,9,0.0,4,195,142,53,62
+ Almonte Thunder,6289,2010-2011,almonte-thunder,CCHL2,https://www.eliteprospects.com/team/6289/almonte-thunder/2010-2011,42,21,2.0,18,0.0,1,165,163,2,45
+ Arnprior Packers,6848,2010-2011,arnprior-packers,CCHL2,https://www.eliteprospects.com/team/6848/arnprior-packers/2010-2011,42,21,3.0,18,0.0,0,176,158,18,45
+ Athens Aeros,3518,2010-2011,athens-aeros,CCHL2,https://www.eliteprospects.com/team/3518/athens-aeros/2010-2011,46,38,0.0,7,0.0,1,279,138,141,77
+ Brockville Tikis,5683,2010-2011,brockville-tikis,CCHL2,https://www.eliteprospects.com/team/5683/brockville-tikis/2010-2011,46,15,0.0,28,0.0,3,158,244,-86,33
+ Casselman Vikings,6354,2010-2011,casselman-vikings,CCHL2,https://www.eliteprospects.com/team/6354/casselman-vikings/2010-2011,42,35,1.0,5,0.0,1,256,117,139,72
+ Char-Lan Rebels,6851,2010-2011,char-lan-rebels,CCHL2,https://www.eliteprospects.com/team/6851/char-lan-rebels/2010-2011,42,8,0.0,32,0.0,2,132,269,-137,18
+ Clarence Castors,24541,2010-2011,clarence-castors,CCHL2,https://www.eliteprospects.com/team/24541/clarence-castors/2010-2011,42,30,3.0,8,0.0,1,200,118,82,64
+ Gananoque Islanders,6240,2010-2011,gananoque-islanders,CCHL2,https://www.eliteprospects.com/team/6240/gananoque-islanders/2010-2011,46,15,0.0,30,0.0,1,167,254,-87,31
+ Gatineau Mustangs,10381,2010-2011,gatineau-mustangs,CCHL2,https://www.eliteprospects.com/team/10381/gatineau-mustangs/2010-2011,42,14,1.0,26,0.0,1,138,154,-16,30
+ Metcalfe Jets,6310,2010-2011,metcalfe-jets,CCHL2,https://www.eliteprospects.com/team/6310/metcalfe-jets/2010-2011,42,15,3.0,23,0.0,1,124,167,-43,34
+ Morrisburg Lions,9176,2010-2011,morrisburg-lions,CCHL2,https://www.eliteprospects.com/team/9176/morrisburg-lions/2010-2011,42,14,0.0,25,0.0,3,168,230,-62,31
+ Ottawa Jr. Canadians,7155,2010-2011,ottawa-jr.-canadians,CCHL2,https://www.eliteprospects.com/team/7155/ottawa-jr.-canadians/2010-2011,42,25,2.0,14,0.0,1,150,125,25,53
+ Ottawa West Golden Knights,6850,2010-2011,ottawa-west-golden-knights,CCHL2,https://www.eliteprospects.com/team/6850/ottawa-west-golden-knights/2010-2011,42,27,0.0,14,0.0,1,198,153,45,55
+ Perth Blue Wings,6846,2010-2011,perth-blue-wings,CCHL2,https://www.eliteprospects.com/team/6846/perth-blue-wings/2010-2011,42,30,1.0,10,0.0,1,199,135,64,62
+ Renfrew Timberwolves,6434,2010-2011,renfrew-timberwolves,CCHL2,https://www.eliteprospects.com/team/6434/renfrew-timberwolves/2010-2011,42,20,4.0,18,0.0,0,170,157,13,44
+ Shawville Pontiacs,6344,2010-2011,shawville-pontiacs,CCHL2,https://www.eliteprospects.com/team/6344/shawville-pontiacs/2010-2011,42,12,1.0,27,0.0,2,133,190,-57,27
+ South Grenville Rangers,24543,2010-2011,south-grenville-rangers,CCHL2,https://www.eliteprospects.com/team/24543/south-grenville-rangers/2010-2011,46,13,0.0,31,0.0,2,156,244,-88,28
+ Stittsville Royals,6849,2010-2011,stittsville-royals,CCHL2,https://www.eliteprospects.com/team/6849/stittsville-royals/2010-2011,42,12,1.0,27,0.0,2,133,190,-57,27
+ Westport Rideaus,9701,2010-2011,westport-rideaus,CCHL2,https://www.eliteprospects.com/team/9701/westport-rideaus/2010-2011,46,28,0.0,18,0.0,0,254,183,71,56
+ Winchester Hawks,5867,2010-2011,winchester-hawks,CCHL2,https://www.eliteprospects.com/team/5867/winchester-hawks/2010-2011,42,29,1.0,11,0.0,1,217,138,79,60
+ Akwesasne Wolves,5684,2011-2012,akwesasne-wolves,CCHL2,https://www.eliteprospects.com/team/5684/akwesasne-wolves/2011-2012,42,9,1.0,30,0.0,2,123,230,-107,21
+ Alexandria Glens,6623,2011-2012,alexandria-glens,CCHL2,https://www.eliteprospects.com/team/6623/alexandria-glens/2011-2012,42,25,0.0,16,0.0,1,194,151,43,51
+ Almonte Thunder,6289,2011-2012,almonte-thunder,CCHL2,https://www.eliteprospects.com/team/6289/almonte-thunder/2011-2012,42,15,5.0,19,0.0,3,186,212,-26,38
+ Arnprior Packers,6848,2011-2012,arnprior-packers,CCHL2,https://www.eliteprospects.com/team/6848/arnprior-packers/2011-2012,42,31,4.0,7,0.0,0,212,133,79,66
+ Athens Aeros,3518,2011-2012,athens-aeros,CCHL2,https://www.eliteprospects.com/team/3518/athens-aeros/2011-2012,46,30,0.0,11,0.0,5,277,148,129,65
+ Brockville Tikis,5683,2011-2012,brockville-tikis,CCHL2,https://www.eliteprospects.com/team/5683/brockville-tikis/2011-2012,45,1,0.0,43,0.0,1,111,345,-234,3
+ Casselman Vikings,6354,2011-2012,casselman-vikings,CCHL2,https://www.eliteprospects.com/team/6354/casselman-vikings/2011-2012,42,32,0.0,8,0.0,2,239,118,121,66
+ Char-Lan Rebels,6851,2011-2012,char-lan-rebels,CCHL2,https://www.eliteprospects.com/team/6851/char-lan-rebels/2011-2012,41,14,0.0,24,0.0,3,144,232,-88,31
+ Clarence Castors,24541,2011-2012,clarence-castors,CCHL2,https://www.eliteprospects.com/team/24541/clarence-castors/2011-2012,42,27,1.0,13,0.0,1,230,178,52,56
+ Gananoque Islanders,6240,2011-2012,gananoque-islanders,CCHL2,https://www.eliteprospects.com/team/6240/gananoque-islanders/2011-2012,46,27,0.0,17,0.0,2,210,183,27,56
+ Gatineau Mustangs,10381,2011-2012,gatineau-mustangs,CCHL2,https://www.eliteprospects.com/team/10381/gatineau-mustangs/2011-2012,42,28,6.0,7,0.0,1,217,141,76,63
+ Metcalfe Jets,6310,2011-2012,metcalfe-jets,CCHL2,https://www.eliteprospects.com/team/6310/metcalfe-jets/2011-2012,42,17,5.0,19,0.0,1,158,169,-11,40
+ Morrisburg Lions,9176,2011-2012,morrisburg-lions,CCHL2,https://www.eliteprospects.com/team/9176/morrisburg-lions/2011-2012,42,13,0.0,28,0.0,1,154,219,-65,27
+ Ottawa Jr. Canadians,7155,2011-2012,ottawa-jr.-canadians,CCHL2,https://www.eliteprospects.com/team/7155/ottawa-jr.-canadians/2011-2012,42,11,3.0,25,0.0,3,149,196,-47,28
+ Ottawa West Golden Knights,6850,2011-2012,ottawa-west-golden-knights,CCHL2,https://www.eliteprospects.com/team/6850/ottawa-west-golden-knights/2011-2012,42,25,5.0,12,0.0,0,195,150,45,55
+ Perth Blue Wings,6846,2011-2012,perth-blue-wings,CCHL2,https://www.eliteprospects.com/team/6846/perth-blue-wings/2011-2012,42,20,4.0,16,0.0,2,194,181,13,46
+ Renfrew Timberwolves,6434,2011-2012,renfrew-timberwolves,CCHL2,https://www.eliteprospects.com/team/6434/renfrew-timberwolves/2011-2012,42,16,3.0,23,0.0,0,157,190,-33,35
+ Shawville Pontiacs,6344,2011-2012,shawville-pontiacs,CCHL2,https://www.eliteprospects.com/team/6344/shawville-pontiacs/2011-2012,42,9,0.0,30,0.0,3,171,249,-78,21
+ South Grenville Rangers,24543,2011-2012,south-grenville-rangers,CCHL2,https://www.eliteprospects.com/team/24543/south-grenville-rangers/2011-2012,46,16,0.0,27,0.0,3,154,223,-69,35
+ Stittvsille Roylas,6849,2011-2012,stittvsille-roylas,CCHL2,https://www.eliteprospects.com/team/6849/stittvsille-roylas/2011-2012,42,14,3.0,25,0.0,0,143,190,-47,31
+ Westport Rideaus,9701,2011-2012,westport-rideaus,CCHL2,https://www.eliteprospects.com/team/9701/westport-rideaus/2011-2012,46,34,1.0,10,0.0,1,237,158,79,70
+ Winchester Hawks,5867,2011-2012,winchester-hawks,CCHL2,https://www.eliteprospects.com/team/5867/winchester-hawks/2011-2012,42,36,1.0,4,0.0,1,251,110,141,74
+ Akwesasne Wolves,5684,2012-2013,akwesasne-wolves,CCHL2,https://www.eliteprospects.com/team/5684/akwesasne-wolves/2012-2013,41,21,0.0,17,0.0,3,148,142,6,45
+ Alexandria Glens,6623,2012-2013,alexandria-glens,CCHL2,https://www.eliteprospects.com/team/6623/alexandria-glens/2012-2013,41,16,0.0,23,0.0,2,144,185,-41,34
+ Almonte Thunder,6289,2012-2013,almonte-thunder,CCHL2,https://www.eliteprospects.com/team/6289/almonte-thunder/2012-2013,41,15,0.0,22,0.0,4,137,183,-46,34
+ Arnprior Packers,6848,2012-2013,arnprior-packers,CCHL2,https://www.eliteprospects.com/team/6848/arnprior-packers/2012-2013,42,19,0.0,21,0.0,2,175,188,-13,40
+ Athens Aeros,3518,2012-2013,athens-aeros,CCHL2,https://www.eliteprospects.com/team/3518/athens-aeros/2012-2013,46,30,0.0,14,0.0,2,189,148,41,62
+ Brockville Tikis,5683,2012-2013,brockville-tikis,CCHL2,https://www.eliteprospects.com/team/5683/brockville-tikis/2012-2013,46,19,0.0,24,0.0,3,145,192,-47,41
+ Casselman Vikings,6354,2012-2013,casselman-vikings,CCHL2,https://www.eliteprospects.com/team/6354/casselman-vikings/2012-2013,42,31,0.0,7,0.0,4,230,128,102,66
+ Char-Lan Rebels,6851,2012-2013,char-lan-rebels,CCHL2,https://www.eliteprospects.com/team/6851/char-lan-rebels/2012-2013,42,22,0.0,17,0.0,3,171,174,-3,47
+ Clarence Castors,24541,2012-2013,clarence-castors,CCHL2,https://www.eliteprospects.com/team/24541/clarence-castors/2012-2013,42,22,0.0,14,0.0,6,156,142,14,50
+ Gananoque Islanders,6240,2012-2013,gananoque-islanders,CCHL2,https://www.eliteprospects.com/team/6240/gananoque-islanders/2012-2013,46,29,0.0,14,0.0,3,213,162,51,61
+ Gatineau Mustangs,10381,2012-2013,gatineau-mustangs,CCHL2,https://www.eliteprospects.com/team/10381/gatineau-mustangs/2012-2013,41,27,0.0,11,0.0,2,199,117,82,57
+ Metcalfe Jets,6310,2012-2013,metcalfe-jets,CCHL2,https://www.eliteprospects.com/team/6310/metcalfe-jets/2012-2013,42,20,0.0,20,0.0,2,146,160,-14,42
+ Morrisburg Lions,9176,2012-2013,morrisburg-lions,CCHL2,https://www.eliteprospects.com/team/9176/morrisburg-lions/2012-2013,41,7,0.0,33,0.0,1,113,242,-129,15
+ Ottawa Jr. Canadians,7155,2012-2013,ottawa-jr.-canadians,CCHL2,https://www.eliteprospects.com/team/7155/ottawa-jr.-canadians/2012-2013,41,30,0.0,11,0.0,0,216,130,86,60
+ Ottawa West Golden Knights,6850,2012-2013,ottawa-west-golden-knights,CCHL2,https://www.eliteprospects.com/team/6850/ottawa-west-golden-knights/2012-2013,42,23,0.0,18,0.0,1,177,171,6,47
+ Perth Blue Wings,6846,2012-2013,perth-blue-wings,CCHL2,https://www.eliteprospects.com/team/6846/perth-blue-wings/2012-2013,42,25,0.0,14,0.0,3,193,172,21,53
+ Renfrew Timberwolves,6434,2012-2013,renfrew-timberwolves,CCHL2,https://www.eliteprospects.com/team/6434/renfrew-timberwolves/2012-2013,42,20,0.0,19,0.0,3,146,162,-16,43
+ Shawville Pontiacs,6344,2012-2013,shawville-pontiacs,CCHL2,https://www.eliteprospects.com/team/6344/shawville-pontiacs/2012-2013,41,14,0.0,23,0.0,4,128,186,-58,32
+ South Grenville Rangers,24543,2012-2013,south-grenville-rangers,CCHL2,https://www.eliteprospects.com/team/24543/south-grenville-rangers/2012-2013,46,14,0.0,29,0.0,3,146,208,-62,31
+ Stittsville Royals,6849,2012-2013,stittsville-royals,CCHL2,https://www.eliteprospects.com/team/6849/stittsville-royals/2012-2013,42,18,0.0,21,0.0,3,162,172,-10,39
+ Westport Rideaus,9701,2012-2013,westport-rideaus,CCHL2,https://www.eliteprospects.com/team/9701/westport-rideaus/2012-2013,46,28,0.0,15,0.0,3,215,175,40,59
+ Winchester Hawks,5867,2012-2013,winchester-hawks,CCHL2,https://www.eliteprospects.com/team/5867/winchester-hawks/2012-2013,41,17,0.0,19,0.0,5,158,168,-10,39
+ Akwesasne Wolves,5684,2013-2014,akwesasne-wolves,CCHL2,https://www.eliteprospects.com/team/5684/akwesasne-wolves/2013-2014,41,22,0.0,18,0.0,1,145,139,6,45
+ Alexandria Glens,6623,2013-2014,alexandria-glens,CCHL2,https://www.eliteprospects.com/team/6623/alexandria-glens/2013-2014,41,19,0.0,16,0.0,6,169,189,-20,44
+ Almonte Thunder,6289,2013-2014,almonte-thunder,CCHL2,https://www.eliteprospects.com/team/6289/almonte-thunder/2013-2014,41,18,0.0,16,0.0,7,149,171,-22,43
+ Arnprior Packers,6848,2013-2014,arnprior-packers,CCHL2,https://www.eliteprospects.com/team/6848/arnprior-packers/2013-2014,41,19,0.0,19,0.0,3,133,156,-23,41
+ Athens Aeros,3518,2013-2014,athens-aeros,CCHL2,https://www.eliteprospects.com/team/3518/athens-aeros/2013-2014,45,21,0.0,18,0.0,6,169,170,-1,48
+ Brockville Tikis,5683,2013-2014,brockville-tikis,CCHL2,https://www.eliteprospects.com/team/5683/brockville-tikis/2013-2014,45,14,0.0,26,0.0,5,140,171,-31,33
+ Casselman Vikings,6354,2013-2014,casselman-vikings,CCHL2,https://www.eliteprospects.com/team/6354/casselman-vikings/2013-2014,41,35,0.0,2,0.0,4,231,96,135,74
+ Char-Lan Rebels,6851,2013-2014,char-lan-rebels,CCHL2,https://www.eliteprospects.com/team/6851/char-lan-rebels/2013-2014,41,22,0.0,14,0.0,5,176,162,14,49
+ Clarence Castors,24541,2013-2014,clarence-castors,CCHL2,https://www.eliteprospects.com/team/24541/clarence-castors/2013-2014,41,25,0.0,14,0.0,2,144,140,4,52
+ Gananoque Islanders,6240,2013-2014,gananoque-islanders,CCHL2,https://www.eliteprospects.com/team/6240/gananoque-islanders/2013-2014,45,28,0.0,14,0.0,3,168,137,31,59
+ Gatineau Mustangs,10381,2013-2014,gatineau-mustangs,CCHL2,https://www.eliteprospects.com/team/10381/gatineau-mustangs/2013-2014,41,21,0.0,15,0.0,5,180,166,14,47
+ Metcalfe Jets,6310,2013-2014,metcalfe-jets,CCHL2,https://www.eliteprospects.com/team/6310/metcalfe-jets/2013-2014,41,15,0.0,26,0.0,0,115,159,-44,30
+ Morrisburg Lions,9176,2013-2014,morrisburg-lions,CCHL2,https://www.eliteprospects.com/team/9176/morrisburg-lions/2013-2014,41,7,0.0,32,0.0,2,124,220,-96,16
+ Ottawa Jr. Canadians,7155,2013-2014,ottawa-jr.-canadians,CCHL2,https://www.eliteprospects.com/team/7155/ottawa-jr.-canadians/2013-2014,41,25,0.0,12,0.0,4,162,131,31,54
+ Ottawa West Golden Knights,6850,2013-2014,ottawa-west-golden-knights,CCHL2,https://www.eliteprospects.com/team/6850/ottawa-west-golden-knights/2013-2014,41,28,0.0,12,0.0,1,167,135,32,57
+ Perth Blue Wings,6846,2013-2014,perth-blue-wings,CCHL2,https://www.eliteprospects.com/team/6846/perth-blue-wings/2013-2014,41,16,0.0,17,0.0,8,156,165,-9,40
+ Prescott Flyers,24543,2013-2014,prescott-flyers,CCHL2,https://www.eliteprospects.com/team/24543/prescott-flyers/2013-2014,45,26,0.0,19,0.0,0,159,172,-13,52
+ Renfrew Timberwolves,6434,2013-2014,renfrew-timberwolves,CCHL2,https://www.eliteprospects.com/team/6434/renfrew-timberwolves/2013-2014,41,24,0.0,13,0.0,4,181,151,30,52
+ Shawville Pontiacs,6344,2013-2014,shawville-pontiacs,CCHL2,https://www.eliteprospects.com/team/6344/shawville-pontiacs/2013-2014,41,18,0.0,18,0.0,5,179,168,11,41
+ Stittsville Royals,6849,2013-2014,stittsville-royals,CCHL2,https://www.eliteprospects.com/team/6849/stittsville-royals/2013-2014,41,18,0.0,18,0.0,5,137,156,-19,40
+ Westport Rideaus,9701,2013-2014,westport-rideaus,CCHL2,https://www.eliteprospects.com/team/9701/westport-rideaus/2013-2014,45,17,0.0,20,0.0,8,143,160,-17,42
+ Winchester Hawks,5867,2013-2014,winchester-hawks,CCHL2,https://www.eliteprospects.com/team/5867/winchester-hawks/2013-2014,41,23,0.0,16,0.0,2,160,177,-17,48
+ Akwesasne Wolves,5684,2014-2015,akwesasne-wolves,CCHL2,https://www.eliteprospects.com/team/5684/akwesasne-wolves/2014-2015,39,13,0.0,21,0.0,5,110,162,-52,31
+ Alexandria Glens,6623,2014-2015,alexandria-glens,CCHL2,https://www.eliteprospects.com/team/6623/alexandria-glens/2014-2015,40,23,0.0,14,0.0,3,179,171,8,49
+ Almonte Thunder,6289,2014-2015,almonte-thunder,CCHL2,https://www.eliteprospects.com/team/6289/almonte-thunder/2014-2015,40,11,0.0,27,0.0,2,121,217,-96,24
+ Arnprior Packers,6848,2014-2015,arnprior-packers,CCHL2,https://www.eliteprospects.com/team/6848/arnprior-packers/2014-2015,40,23,0.0,16,0.0,1,170,154,16,47
+ Athens Aeros,3518,2014-2015,athens-aeros,CCHL2,https://www.eliteprospects.com/team/3518/athens-aeros/2014-2015,44,17,0.0,20,0.0,7,141,144,-3,41
+ Brockville Tikis,5683,2014-2015,brockville-tikis,CCHL2,https://www.eliteprospects.com/team/5683/brockville-tikis/2014-2015,44,20,0.0,20,0.0,4,132,159,-27,44
+ Casselman Vikings,6354,2014-2015,casselman-vikings,CCHL2,https://www.eliteprospects.com/team/6354/casselman-vikings/2014-2015,40,34,0.0,4,0.0,2,233,105,128,70
+ Char-Lan Rebels,6851,2014-2015,char-lan-rebels,CCHL2,https://www.eliteprospects.com/team/6851/char-lan-rebels/2014-2015,40,19,0.0,20,0.0,1,171,176,-5,39
+ Clarence Castors,24541,2014-2015,clarence-castors,CCHL2,https://www.eliteprospects.com/team/24541/clarence-castors/2014-2015,40,20,0.0,16,0.0,4,154,141,13,44
+ Gananoque Islanders,6240,2014-2015,gananoque-islanders,CCHL2,https://www.eliteprospects.com/team/6240/gananoque-islanders/2014-2015,44,17,0.0,24,0.0,3,121,175,-54,37
+ Gatineau Mustangs,10381,2014-2015,gatineau-mustangs,CCHL2,https://www.eliteprospects.com/team/10381/gatineau-mustangs/2014-2015,40,23,0.0,16,0.0,1,186,159,27,47
+ Metcalfe Jets,6310,2014-2015,metcalfe-jets,CCHL2,https://www.eliteprospects.com/team/6310/metcalfe-jets/2014-2015,40,18,0.0,18,0.0,4,154,155,-1,40
+ Morrisburg Lions,9176,2014-2015,morrisburg-lions,CCHL2,https://www.eliteprospects.com/team/9176/morrisburg-lions/2014-2015,39,11,0.0,25,0.0,3,146,215,-69,25
+ Ottawa Jr. Canadians,7155,2014-2015,ottawa-jr.-canadians,CCHL2,https://www.eliteprospects.com/team/7155/ottawa-jr.-canadians/2014-2015,40,17,0.0,19,0.0,4,131,150,-19,38
+ Ottawa West Golden Knights,6850,2014-2015,ottawa-west-golden-knights,CCHL2,https://www.eliteprospects.com/team/6850/ottawa-west-golden-knights/2014-2015,40,23,0.0,16,0.0,1,159,155,4,47
+ Perth Blue Wings,6846,2014-2015,perth-blue-wings,CCHL2,https://www.eliteprospects.com/team/6846/perth-blue-wings/2014-2015,40,10,0.0,30,0.0,0,108,206,-98,20
+ Prescott Flyers,24543,2014-2015,prescott-flyers,CCHL2,https://www.eliteprospects.com/team/24543/prescott-flyers/2014-2015,44,33,0.0,7,0.0,4,164,111,53,70
+ Renfrew Timberwolves,6434,2014-2015,renfrew-timberwolves,CCHL2,https://www.eliteprospects.com/team/6434/renfrew-timberwolves/2014-2015,40,27,0.0,9,0.0,4,183,144,39,58
+ Shawville Pontiacs,6344,2014-2015,shawville-pontiacs,CCHL2,https://www.eliteprospects.com/team/6344/shawville-pontiacs/2014-2015,40,21,0.0,15,0.0,4,189,142,47,46
+ Stittsville Rams,6849,2014-2015,stittsville-rams,CCHL2,https://www.eliteprospects.com/team/6849/stittsville-rams/2014-2015,40,27,0.0,12,0.0,1,202,134,68,55
+ Westport Rideaus,9701,2014-2015,westport-rideaus,CCHL2,https://www.eliteprospects.com/team/9701/westport-rideaus/2014-2015,44,19,0.0,24,0.0,1,169,176,-7,39
+ Winchester Hawks,5867,2014-2015,winchester-hawks,CCHL2,https://www.eliteprospects.com/team/5867/winchester-hawks/2014-2015,40,23,0.0,14,0.0,3,192,164,28,49
+ Alexandria Glens,6623,2015-2016,alexandria-glens,CCHL2,https://www.eliteprospects.com/team/6623/alexandria-glens/2015-2016,44,24,0.0,16,0.0,4,209,164,45,52
+ Arnprior Packers,6848,2015-2016,arnprior-packers,CCHL2,https://www.eliteprospects.com/team/6848/arnprior-packers/2015-2016,44,23,0.0,19,0.0,2,166,183,-17,48
+ Athens Aeros,3518,2015-2016,athens-aeros,CCHL2,https://www.eliteprospects.com/team/3518/athens-aeros/2015-2016,44,24,0.0,18,0.0,2,155,163,-8,50
+ Brockville Tikis,5683,2015-2016,brockville-tikis,CCHL2,https://www.eliteprospects.com/team/5683/brockville-tikis/2015-2016,44,6,0.0,38,0.0,0,103,245,-142,12
+ Casselman Vikings,6354,2015-2016,casselman-vikings,CCHL2,https://www.eliteprospects.com/team/6354/casselman-vikings/2015-2016,44,40,0.0,3,0.0,1,266,116,150,81
+ Char-Lan Rebels,6851,2015-2016,char-lan-rebels,CCHL2,https://www.eliteprospects.com/team/6851/char-lan-rebels/2015-2016,44,17,0.0,21,0.0,6,178,208,-30,40
+ Clarence Castors,24541,2015-2016,clarence-castors,CCHL2,https://www.eliteprospects.com/team/24541/clarence-castors/2015-2016,44,13,0.0,30,0.0,1,139,205,-66,27
+ Metcalfe Jets,6310,2015-2016,metcalfe-jets,CCHL2,https://www.eliteprospects.com/team/6310/metcalfe-jets/2015-2016,44,26,0.0,15,0.0,3,184,168,16,55
+ Ottawa Jr. Canadians,7155,2015-2016,ottawa-jr.-canadians,CCHL2,https://www.eliteprospects.com/team/7155/ottawa-jr.-canadians/2015-2016,44,13,0.0,28,0.0,3,126,199,-73,29
+ Ottawa West Golden Knights,6850,2015-2016,ottawa-west-golden-knights,CCHL2,https://www.eliteprospects.com/team/6850/ottawa-west-golden-knights/2015-2016,44,27,0.0,15,0.0,2,209,161,48,56
+ Perth Blue Wings,6846,2015-2016,perth-blue-wings,CCHL2,https://www.eliteprospects.com/team/6846/perth-blue-wings/2015-2016,44,38,0.0,4,0.0,2,260,116,144,78
+ Prescott Flyers,24543,2015-2016,prescott-flyers,CCHL2,https://www.eliteprospects.com/team/24543/prescott-flyers/2015-2016,44,10,0.0,28,0.0,6,132,206,-74,26
+ Renfrew Timberwolves,6434,2015-2016,renfrew-timberwolves,CCHL2,https://www.eliteprospects.com/team/6434/renfrew-timberwolves/2015-2016,44,18,0.0,24,0.0,2,183,208,-25,38
+ Stittsville Rams,6849,2015-2016,stittsville-rams,CCHL2,https://www.eliteprospects.com/team/6849/stittsville-rams/2015-2016,44,30,0.0,12,0.0,2,219,173,46,62
+ Westport Rideaus,9701,2015-2016,westport-rideaus,CCHL2,https://www.eliteprospects.com/team/9701/westport-rideaus/2015-2016,44,26,0.0,17,0.0,1,171,152,19,53
+ Winchester Hawks,5867,2015-2016,winchester-hawks,CCHL2,https://www.eliteprospects.com/team/5867/winchester-hawks/2015-2016,44,17,0.0,21,0.0,6,166,199,-33,40
+ Alexandria Glens,6623,2016-2017,alexandria-glens,CCHL2,https://www.eliteprospects.com/team/6623/alexandria-glens/2016-2017,48,18,0.0,28,0.0,2,168,197,-29,38
+ Arnprior Packers,6848,2016-2017,arnprior-packers,CCHL2,https://www.eliteprospects.com/team/6848/arnprior-packers/2016-2017,48,33,0.0,12,0.0,3,249,168,81,69
+ Athens Aeros,3518,2016-2017,athens-aeros,CCHL2,https://www.eliteprospects.com/team/3518/athens-aeros/2016-2017,48,24,0.0,15,0.0,9,203,173,30,57
+ Brockville Tikis,5683,2016-2017,brockville-tikis,CCHL2,https://www.eliteprospects.com/team/5683/brockville-tikis/2016-2017,48,17,0.0,30,0.0,1,140,217,-77,35
+ Casselman Vikings,6354,2016-2017,casselman-vikings,CCHL2,https://www.eliteprospects.com/team/6354/casselman-vikings/2016-2017,48,36,0.0,8,0.0,4,236,130,106,76
+ Char-Lan Rebels,6851,2016-2017,char-lan-rebels,CCHL2,https://www.eliteprospects.com/team/6851/char-lan-rebels/2016-2017,48,12,0.0,33,0.0,3,173,265,-92,27
+ Clarence Castors,24541,2016-2017,clarence-castors,CCHL2,https://www.eliteprospects.com/team/24541/clarence-castors/2016-2017,48,23,0.0,21,0.0,4,209,218,-9,50
+ Metcalfe Jets,6310,2016-2017,metcalfe-jets,CCHL2,https://www.eliteprospects.com/team/6310/metcalfe-jets/2016-2017,48,31,0.0,16,0.0,1,218,168,50,63
+ Ottawa Jr. Canadians,7155,2016-2017,ottawa-jr.-canadians,CCHL2,https://www.eliteprospects.com/team/7155/ottawa-jr.-canadians/2016-2017,48,15,0.0,28,0.0,5,151,198,-47,35
+ Ottawa West Golden Knights,6850,2016-2017,ottawa-west-golden-knights,CCHL2,https://www.eliteprospects.com/team/6850/ottawa-west-golden-knights/2016-2017,48,39,0.0,7,0.0,2,265,164,101,80
+ Perth Blue Wings,6846,2016-2017,perth-blue-wings,CCHL2,https://www.eliteprospects.com/team/6846/perth-blue-wings/2016-2017,48,39,0.0,8,0.0,1,234,123,111,79
+ Prescott Flyers,24543,2016-2017,prescott-flyers,CCHL2,https://www.eliteprospects.com/team/24543/prescott-flyers/2016-2017,48,12,0.0,29,0.0,7,152,270,-118,31
+ Renfrew Timberwolves,6434,2016-2017,renfrew-timberwolves,CCHL2,https://www.eliteprospects.com/team/6434/renfrew-timberwolves/2016-2017,48,8,0.0,36,0.0,4,123,294,-171,20
+ Richmond Royals,6849,2016-2017,richmond-royals,CCHL2,https://www.eliteprospects.com/team/6849/richmond-royals/2016-2017,48,32,0.0,12,0.0,4,240,173,67,68
+ Westport Rideaus,9701,2016-2017,westport-rideaus,CCHL2,https://www.eliteprospects.com/team/9701/westport-rideaus/2016-2017,48,25,0.0,17,0.0,6,200,173,27,56
+ Winchester Hawks,5867,2016-2017,winchester-hawks,CCHL2,https://www.eliteprospects.com/team/5867/winchester-hawks/2016-2017,48,20,0.0,24,0.0,4,162,192,-30,44
+ Alexandria Glens,6623,2017-2018,alexandria-glens,CCHL2,https://www.eliteprospects.com/team/6623/alexandria-glens/2017-2018,52,31,0.0,16,0.0,5,201,166,35,67
+ Arnprior Packers,6848,2017-2018,arnprior-packers,CCHL2,https://www.eliteprospects.com/team/6848/arnprior-packers/2017-2018,51,15,0.0,34,0.0,2,148,229,-81,32
+ Athens Aeros,3518,2017-2018,athens-aeros,CCHL2,https://www.eliteprospects.com/team/3518/athens-aeros/2017-2018,52,29,0.0,19,0.0,4,200,191,9,62
+ Brockville Tikis,5683,2017-2018,brockville-tikis,CCHL2,https://www.eliteprospects.com/team/5683/brockville-tikis/2017-2018,52,6,0.0,43,0.0,3,125,311,-186,15
+ Carleton Place Jr. Canadians,24541,2017-2018,carleton-place-jr.-canadians,CCHL2,https://www.eliteprospects.com/team/24541/carleton-place-jr.-canadians/2017-2018,52,37,0.0,13,0.0,2,219,132,87,76
+ Casselman Vikings,6354,2017-2018,casselman-vikings,CCHL2,https://www.eliteprospects.com/team/6354/casselman-vikings/2017-2018,52,40,0.0,10,0.0,2,289,121,168,82
+ Char-Lan Rebels,6851,2017-2018,char-lan-rebels,CCHL2,https://www.eliteprospects.com/team/6851/char-lan-rebels/2017-2018,51,20,0.0,30,0.0,1,175,219,-44,41
+ Embrun Panthers,9755,2017-2018,embrun-panthers,CCHL2,https://www.eliteprospects.com/team/9755/embrun-panthers/2017-2018,52,28,0.0,20,0.0,4,188,153,35,60
+ Ottawa Jr. Canadians,7155,2017-2018,ottawa-jr.-canadians,CCHL2,https://www.eliteprospects.com/team/7155/ottawa-jr.-canadians/2017-2018,52,34,0.0,15,0.0,3,200,147,53,71
+ Ottawa West Golden Knights,6850,2017-2018,ottawa-west-golden-knights,CCHL2,https://www.eliteprospects.com/team/6850/ottawa-west-golden-knights/2017-2018,52,28,0.0,17,0.0,7,205,177,28,63
+ Perth Blue Wings,6846,2017-2018,perth-blue-wings,CCHL2,https://www.eliteprospects.com/team/6846/perth-blue-wings/2017-2018,52,31,0.0,17,0.0,4,181,158,23,66
+ Renfrew Timberwolves,6434,2017-2018,renfrew-timberwolves,CCHL2,https://www.eliteprospects.com/team/6434/renfrew-timberwolves/2017-2018,52,24,0.0,23,0.0,5,196,211,-15,53
+ Richmond Royals,6849,2017-2018,richmond-royals,CCHL2,https://www.eliteprospects.com/team/6849/richmond-royals/2017-2018,52,17,0.0,29,0.0,6,185,233,-48,40
+ Westport Rideaus,9701,2017-2018,westport-rideaus,CCHL2,https://www.eliteprospects.com/team/9701/westport-rideaus/2017-2018,52,34,0.0,13,0.0,5,198,141,57,73
+ Whitewater Kings,24543,2017-2018,whitewater-kings,CCHL2,https://www.eliteprospects.com/team/24543/whitewater-kings/2017-2018,52,26,0.0,26,0.0,0,193,211,-18,52
+ Winchester Hawks,5867,2017-2018,winchester-hawks,CCHL2,https://www.eliteprospects.com/team/5867/winchester-hawks/2017-2018,52,15,0.0,36,0.0,1,140,243,-103,31
+ Alexandria Glens,6623,2018-2019,alexandria-glens,CCHL2,https://www.eliteprospects.com/team/6623/alexandria-glens/2018-2019,44,23,0.0,17,0.0,4,169,160,9,50
+ Arnprior Packers,6848,2018-2019,arnprior-packers,CCHL2,https://www.eliteprospects.com/team/6848/arnprior-packers/2018-2019,44,18,0.0,21,0.0,5,137,208,-71,41
+ Athens Aeros,3518,2018-2019,athens-aeros,CCHL2,https://www.eliteprospects.com/team/3518/athens-aeros/2018-2019,43,14,0.0,23,0.0,6,115,183,-68,34
+ Brockville Tikis,5683,2018-2019,brockville-tikis,CCHL2,https://www.eliteprospects.com/team/5683/brockville-tikis/2018-2019,44,24,0.0,14,0.0,6,159,138,21,54
+ Carleton Place Jr. Canadians,24541,2018-2019,carleton-place-jr.-canadians,CCHL2,https://www.eliteprospects.com/team/24541/carleton-place-jr.-canadians/2018-2019,44,25,0.0,16,0.0,3,153,128,25,53
+ Casselman Vikings,6354,2018-2019,casselman-vikings,CCHL2,https://www.eliteprospects.com/team/6354/casselman-vikings/2018-2019,44,32,0.0,9,0.0,3,197,123,74,67
+ Char-Lan Rebels,6851,2018-2019,char-lan-rebels,CCHL2,https://www.eliteprospects.com/team/6851/char-lan-rebels/2018-2019,44,20,0.0,20,0.0,4,147,167,-20,44
+ Embrun Panthers,9755,2018-2019,embrun-panthers,CCHL2,https://www.eliteprospects.com/team/9755/embrun-panthers/2018-2019,44,13,0.0,24,0.0,7,114,170,-56,33
+ Ottawa Jr. Canadians,7155,2018-2019,ottawa-jr.-canadians,CCHL2,https://www.eliteprospects.com/team/7155/ottawa-jr.-canadians/2018-2019,44,39,0.0,4,0.0,1,256,85,171,79
+ Ottawa West Golden Knights,6850,2018-2019,ottawa-west-golden-knights,CCHL2,https://www.eliteprospects.com/team/6850/ottawa-west-golden-knights/2018-2019,44,29,0.0,13,0.0,2,166,133,33,60
+ Perth Blue Wings,6846,2018-2019,perth-blue-wings,CCHL2,https://www.eliteprospects.com/team/6846/perth-blue-wings/2018-2019,44,27,0.0,12,0.0,5,150,115,35,59
+ Renfrew Timberwolves,6434,2018-2019,renfrew-timberwolves,CCHL2,https://www.eliteprospects.com/team/6434/renfrew-timberwolves/2018-2019,43,21,0.0,20,0.0,2,165,187,-22,44
+ Richmond Royals,6849,2018-2019,richmond-royals,CCHL2,https://www.eliteprospects.com/team/6849/richmond-royals/2018-2019,44,10,0.0,33,0.0,1,149,236,-87,21
+ Westport Rideaus,9701,2018-2019,westport-rideaus,CCHL2,https://www.eliteprospects.com/team/9701/westport-rideaus/2018-2019,44,27,0.0,12,0.0,5,198,156,42,59
+ Whitewater Kings,24543,2018-2019,whitewater-kings,CCHL2,https://www.eliteprospects.com/team/24543/whitewater-kings/2018-2019,44,14,0.0,23,0.0,7,166,193,-27,35
+ Winchester Hawks,5867,2018-2019,winchester-hawks,CCHL2,https://www.eliteprospects.com/team/5867/winchester-hawks/2018-2019,44,15,0.0,24,0.0,5,127,186,-59,35
+ Alexandria Glens,6623,2019-2020,alexandria-glens,CCHL2,https://www.eliteprospects.com/team/6623/alexandria-glens/2019-2020,44,9,0.0,31,0.0,4,132,199,-67,22
+ Arnprior Packers,6848,2019-2020,arnprior-packers,CCHL2,https://www.eliteprospects.com/team/6848/arnprior-packers/2019-2020,44,22,0.0,19,0.0,3,153,172,-19,47
+ Athens Aeros,3518,2019-2020,athens-aeros,CCHL2,https://www.eliteprospects.com/team/3518/athens-aeros/2019-2020,44,0,0.0,40,0.0,4,87,236,-149,4
+ Brockville Tikis,5683,2019-2020,brockville-tikis,CCHL2,https://www.eliteprospects.com/team/5683/brockville-tikis/2019-2020,44,18,0.0,20,0.0,6,139,150,-11,42
+ Carleton Place Jr. Canadians,24541,2019-2020,carleton-place-jr.-canadians,CCHL2,https://www.eliteprospects.com/team/24541/carleton-place-jr.-canadians/2019-2020,44,30,0.0,13,0.0,1,173,139,34,61
+ Casselman Vikings,6354,2019-2020,casselman-vikings,CCHL2,https://www.eliteprospects.com/team/6354/casselman-vikings/2019-2020,44,27,0.0,13,0.0,4,185,146,39,58
+ Char-Lan Rebels,6851,2019-2020,char-lan-rebels,CCHL2,https://www.eliteprospects.com/team/6851/char-lan-rebels/2019-2020,44,20,0.0,21,0.0,3,157,177,-20,43
+ Embrun Panthers,9755,2019-2020,embrun-panthers,CCHL2,https://www.eliteprospects.com/team/9755/embrun-panthers/2019-2020,44,29,0.0,10,0.0,5,149,102,47,63
+ Ottawa Jr. Canadians,7155,2019-2020,ottawa-jr.-canadians,CCHL2,https://www.eliteprospects.com/team/7155/ottawa-jr.-canadians/2019-2020,44,29,0.0,9,0.0,6,182,117,65,64
+ Ottawa West Golden Knights,6850,2019-2020,ottawa-west-golden-knights,CCHL2,https://www.eliteprospects.com/team/6850/ottawa-west-golden-knights/2019-2020,44,36,0.0,6,0.0,2,192,108,84,74
+ Perth Blue Wings,6846,2019-2020,perth-blue-wings,CCHL2,https://www.eliteprospects.com/team/6846/perth-blue-wings/2019-2020,44,29,0.0,12,0.0,3,149,120,29,61
+ Renfrew Timberwolves,6434,2019-2020,renfrew-timberwolves,CCHL2,https://www.eliteprospects.com/team/6434/renfrew-timberwolves/2019-2020,44,25,0.0,14,0.0,5,167,137,30,55
+ Richmond Royals,6849,2019-2020,richmond-royals,CCHL2,https://www.eliteprospects.com/team/6849/richmond-royals/2019-2020,44,14,0.0,25,0.0,5,142,210,-68,33
+ Westport Rideaus,9701,2019-2020,westport-rideaus,CCHL2,https://www.eliteprospects.com/team/9701/westport-rideaus/2019-2020,44,30,0.0,11,0.0,3,230,140,90,63
+ Whitewater Kings,24543,2019-2020,whitewater-kings,CCHL2,https://www.eliteprospects.com/team/24543/whitewater-kings/2019-2020,44,10,0.0,29,0.0,5,102,196,-94,25
+ Winchester Hawks,5867,2019-2020,winchester-hawks,CCHL2,https://www.eliteprospects.com/team/5867/winchester-hawks/2019-2020,44,24,0.0,14,0.0,6,175,165,10,54
+ Alexandria Glens,6623,2020-2021,alexandria-glens,CCHL2,https://www.eliteprospects.com/team/6623/alexandria-glens/2020-2021,0,0,0.0,0,0.0,0,0,0,0,0
+ Arnprior Packers,6848,2020-2021,arnprior-packers,CCHL2,https://www.eliteprospects.com/team/6848/arnprior-packers/2020-2021,0,0,0.0,0,0.0,0,0,0,0,0
+ Athens Aeros,3518,2020-2021,athens-aeros,CCHL2,https://www.eliteprospects.com/team/3518/athens-aeros/2020-2021,0,0,0.0,0,0.0,0,0,0,0,0
+ Brockville Tikis,5683,2020-2021,brockville-tikis,CCHL2,https://www.eliteprospects.com/team/5683/brockville-tikis/2020-2021,0,0,0.0,0,0.0,0,0,0,0,0
+ Carleton Place Jr. Canadians,24541,2020-2021,carleton-place-jr.-canadians,CCHL2,https://www.eliteprospects.com/team/24541/carleton-place-jr.-canadians/2020-2021,0,0,0.0,0,0.0,0,0,0,0,0
+ Casselman Vikings,6354,2020-2021,casselman-vikings,CCHL2,https://www.eliteprospects.com/team/6354/casselman-vikings/2020-2021,0,0,0.0,0,0.0,0,0,0,0,0
+ Char-Lan Rebels,6851,2020-2021,char-lan-rebels,CCHL2,https://www.eliteprospects.com/team/6851/char-lan-rebels/2020-2021,0,0,0.0,0,0.0,0,0,0,0,0
+ Embrun Panthers,9755,2020-2021,embrun-panthers,CCHL2,https://www.eliteprospects.com/team/9755/embrun-panthers/2020-2021,0,0,0.0,0,0.0,0,0,0,0,0
+ Ottawa Jr. Canadians,7155,2020-2021,ottawa-jr.-canadians,CCHL2,https://www.eliteprospects.com/team/7155/ottawa-jr.-canadians/2020-2021,0,0,0.0,0,0.0,0,0,0,0,0
+ Ottawa West Golden Knights,6850,2020-2021,ottawa-west-golden-knights,CCHL2,https://www.eliteprospects.com/team/6850/ottawa-west-golden-knights/2020-2021,0,0,0.0,0,0.0,0,0,0,0,0
+ Perth Blue Wings,6846,2020-2021,perth-blue-wings,CCHL2,https://www.eliteprospects.com/team/6846/perth-blue-wings/2020-2021,0,0,0.0,0,0.0,0,0,0,0,0
+ Richmond Royals,6849,2020-2021,richmond-royals,CCHL2,https://www.eliteprospects.com/team/6849/richmond-royals/2020-2021,0,0,0.0,0,0.0,0,0,0,0,0
+ Valley Timberwolves,6434,2020-2021,valley-timberwolves,CCHL2,https://www.eliteprospects.com/team/6434/valley-timberwolves/2020-2021,0,0,0.0,0,0.0,0,0,0,0,0
+ Westport Rideaus,9701,2020-2021,westport-rideaus,CCHL2,https://www.eliteprospects.com/team/9701/westport-rideaus/2020-2021,0,0,0.0,0,0.0,0,0,0,0,0
+ Whitewater Kings,24543,2020-2021,whitewater-kings,CCHL2,https://www.eliteprospects.com/team/24543/whitewater-kings/2020-2021,0,0,0.0,0,0.0,0,0,0,0,0
+ Winchester Hawks,5867,2020-2021,winchester-hawks,CCHL2,https://www.eliteprospects.com/team/5867/winchester-hawks/2020-2021,0,0,0.0,0,0.0,0,0,0,0,0
+ Brandon Wheat Kings,857,2015-2016,brandon-wheat-kings,WHL,https://www.eliteprospects.com/team/857/brandon-wheat-kings/2015-2016,72,48,0.0,18,0.0,6,319,197,122,102
+ Calgary Hitmen,576,2015-2016,calgary-hitmen,WHL,https://www.eliteprospects.com/team/576/calgary-hitmen/2015-2016,72,42,0.0,26,0.0,4,246,219,27,88
+ Edmonton Oil Kings,1783,2015-2016,edmonton-oil-kings,WHL,https://www.eliteprospects.com/team/1783/edmonton-oil-kings/2015-2016,72,29,0.0,36,0.0,7,197,238,-41,65
+ Everett Silvertips,1537,2015-2016,everett-silvertips,WHL,https://www.eliteprospects.com/team/1537/everett-silvertips/2015-2016,72,36,0.0,26,0.0,8,182,172,10,84
+ Kamloops Blazers,725,2015-2016,kamloops-blazers,WHL,https://www.eliteprospects.com/team/725/kamloops-blazers/2015-2016,72,38,0.0,25,0.0,9,237,218,19,85
+ Kelowna Rockets,451,2015-2016,kelowna-rockets,WHL,https://www.eliteprospects.com/team/451/kelowna-rockets/2015-2016,72,48,0.0,20,0.0,4,269,218,51,100
+ Kootenay Ice,858,2015-2016,kootenay-ice,WHL,https://www.eliteprospects.com/team/858/kootenay-ice/2015-2016,72,12,0.0,53,0.0,7,155,320,-165,31
+ Lethbridge Hurricanes,793,2015-2016,lethbridge-hurricanes,WHL,https://www.eliteprospects.com/team/793/lethbridge-hurricanes/2015-2016,72,46,0.0,24,0.0,2,304,218,86,94
+ Medicine Hat Tigers,859,2015-2016,medicine-hat-tigers,WHL,https://www.eliteprospects.com/team/859/medicine-hat-tigers/2015-2016,72,30,0.0,37,0.0,5,223,287,-64,65
+ Moose Jaw Warriors,672,2015-2016,moose-jaw-warriors,WHL,https://www.eliteprospects.com/team/672/moose-jaw-warriors/2015-2016,72,36,0.0,27,0.0,9,249,239,10,81
+ Portland Winterhawks,749,2015-2016,portland-winterhawks,WHL,https://www.eliteprospects.com/team/749/portland-winterhawks/2015-2016,72,34,0.0,31,0.0,7,228,227,1,75
+ Prince Albert Raiders,687,2015-2016,prince-albert-raiders,WHL,https://www.eliteprospects.com/team/687/prince-albert-raiders/2015-2016,72,38,0.0,26,0.0,8,222,223,-1,84
+ Prince George Cougars,860,2015-2016,prince-george-cougars,WHL,https://www.eliteprospects.com/team/860/prince-george-cougars/2015-2016,72,36,0.0,31,0.0,5,240,225,15,77
+ Red Deer Rebels,861,2015-2016,red-deer-rebels,WHL,https://www.eliteprospects.com/team/861/red-deer-rebels/2015-2016,72,45,0.0,24,0.0,3,260,205,55,93
+ Regina Pats,862,2015-2016,regina-pats,WHL,https://www.eliteprospects.com/team/862/regina-pats/2015-2016,72,36,0.0,28,0.0,8,243,253,-10,80
+ Saskatoon Blades,686,2015-2016,saskatoon-blades,WHL,https://www.eliteprospects.com/team/686/saskatoon-blades/2015-2016,72,26,0.0,42,0.0,4,219,318,-99,56
+ Seattle Thunderbirds,863,2015-2016,seattle-thunderbirds,WHL,https://www.eliteprospects.com/team/863/seattle-thunderbirds/2015-2016,72,45,0.0,23,0.0,4,228,186,42,94
+ Spokane Chiefs,688,2015-2016,spokane-chiefs,WHL,https://www.eliteprospects.com/team/688/spokane-chiefs/2015-2016,72,33,0.0,30,0.0,9,223,245,-22,75
+ Swift Current Broncos,847,2015-2016,swift-current-broncos,WHL,https://www.eliteprospects.com/team/847/swift-current-broncos/2015-2016,72,24,0.0,38,0.0,10,189,249,-60,58
+ Tri-City Americans,846,2015-2016,tri-city-americans,WHL,https://www.eliteprospects.com/team/846/tri-city-americans/2015-2016,72,35,0.0,34,0.0,3,236,253,-17,73
+ Vancouver Giants,864,2015-2016,vancouver-giants,WHL,https://www.eliteprospects.com/team/864/vancouver-giants/2015-2016,72,23,0.0,40,0.0,9,199,273,-74,55
+ Victoria Royals,9780,2015-2016,victoria-royals,WHL,https://www.eliteprospects.com/team/9780/victoria-royals/2015-2016,72,50,0.0,16,0.0,6,281,166,115,106
